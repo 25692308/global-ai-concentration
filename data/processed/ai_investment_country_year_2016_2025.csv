@@ -1,0 +1,838 @@
+country,country_code,year,investment_usd_2021,investment_usd_2021_bn,has_observation_every_year,source_row,source_file,source_url
+Albania,ALB,2016,2258017,0.002258017,false,2,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Albania,ALB,2019,7419277,0.007419277,false,3,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Albania,ALB,2020,5234901,0.005234901,false,4,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Albania,ALB,2024,4319087,0.004319087,false,5,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Albania,ALB,2025,0,0.000000000,false,6,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2016,1129009,0.001129009,true,826,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2017,17687337,0.017687337,true,827,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2018,183447300,0.183447300,true,828,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2019,82671940,0.082671940,true,829,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2020,42926189,0.042926189,true,830,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2021,875000000,0.875000000,true,831,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2022,298140612,0.298140612,true,832,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2023,443758270,0.443758270,true,833,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2024,2124126899,2.124126899,true,834,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Arab Emirates,ARE,2025,1153930601,1.153930601,true,835,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2016,1129009,0.001129009,true,9,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2017,5527293,0.005527293,true,10,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2018,1079102,0.001079102,true,11,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2019,2119793,0.002119793,true,12,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2020,3140941,0.003140941,true,13,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2021,19000000,0.019000000,true,14,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2022,16666245,0.016666245,true,15,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2023,620728001,0.620728001,true,16,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2024,484601541,0.484601541,true,17,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Argentina,ARG,2025,7575037,0.007575037,true,18,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Armenia,ARM,2021,0,0.000000000,false,19,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Armenia,ARM,2023,2667885,0.002667885,false,20,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Armenia,ARM,2024,0,0.000000000,false,21,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Armenia,ARM,2025,841671,0.000841671,false,22,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2016,120803934,0.120803934,true,33,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2017,79593018,0.079593018,true,34,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2018,318335021,0.318335021,true,35,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2019,483312883,0.483312883,true,36,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2020,567463276,0.567463276,true,37,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2021,3245000000,3.245000000,true,38,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2022,1013863261,1.013863261,true,39,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2023,802144208,0.802144208,true,40,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2024,2315030537,2.315030537,true,41,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Australia,AUS,2025,1297014629,1.297014629,true,42,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2016,6774052,0.006774052,true,43,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2017,17687337,0.017687337,true,44,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2018,42084969,0.042084969,true,45,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2019,124007911,0.124007911,true,46,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2020,90040298,0.090040298,true,47,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2021,294000000,0.294000000,true,48,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2022,81479422,0.081479422,true,49,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2023,224991668,0.224991668,true,50,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2024,824945583,0.824945583,true,51,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Austria,AUT,2025,545402647,0.545402647,true,52,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Azerbaijan,AZE,2022,0,0.000000000,false,53,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Azerbaijan,AZE,2023,0,0.000000000,false,54,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Azerbaijan,AZE,2025,0,0.000000000,false,55,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2016,76772593,0.076772593,true,73,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2017,325004822,0.325004822,true,74,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2018,84169938,0.084169938,true,75,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2019,262854375,0.262854375,true,76,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2020,399946442,0.399946442,true,77,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2021,986000000,0.986000000,true,78,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2022,753684652,0.753684652,true,79,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2023,810147864,0.810147864,true,80,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2024,629722859,0.629722859,true,81,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belgium,BEL,2025,626203040,0.626203040,true,82,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Burkina Faso,BFA,2023,0,0.000000000,false,114,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2018,0,0.000000000,false,61,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2019,0,0.000000000,false,62,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2020,2093960,0.002093960,false,63,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2021,3000000,0.003000000,false,64,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2022,9259025,0.009259025,false,65,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2023,6225066,0.006225066,false,66,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2024,1727635,0.001727635,false,67,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bangladesh,BGD,2025,0,0.000000000,false,68,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2016,0,0.000000000,false,105,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2017,1105459,0.001105459,false,106,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2018,14028323,0.014028323,false,107,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2019,3179690,0.003179690,false,108,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2021,4000000,0.004000000,false,109,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2022,3703610,0.003703610,false,110,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2023,9782246,0.009782246,false,111,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2024,9501991,0.009501991,false,112,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bulgaria,BGR,2025,32825159,0.032825159,false,113,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bahrain,BHR,2020,0,0.000000000,false,56,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bahrain,BHR,2021,195000000,0.195000000,false,57,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bahrain,BHR,2022,0,0.000000000,false,58,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bahrain,BHR,2024,0,0.000000000,false,59,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bahrain,BHR,2025,5891695,0.005891695,false,60,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2016,0,0.000000000,false,86,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2020,0,0.000000000,false,87,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2021,0,0.000000000,false,88,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2023,0,0.000000000,false,89,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2024,0,0.000000000,false,90,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bosnia and Herzegovina,BIH,2025,0,0.000000000,false,91,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belarus,BLR,2017,8843669,0.008843669,false,70,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belarus,BLR,2020,2093960,0.002093960,false,71,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belarus,BLR,2022,0,0.000000000,false,72,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belize,BLZ,2019,10598967,0.010598967,false,83,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Belize,BLZ,2022,18518050,0.018518050,false,84,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Bolivia,BOL,2022,925903,0.000925903,false,85,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2016,18064140,0.018064140,true,95,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2017,150342367,0.150342367,true,96,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2018,292436578,0.292436578,true,97,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2019,453635776,0.453635776,true,98,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2020,648080753,0.648080753,true,99,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2021,790000000,0.790000000,true,100,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2022,1616625802,1.616625802,true,101,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2023,910638214,0.910638214,true,102,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2024,793848158,0.793848158,true,103,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Brazil,BRA,2025,1435890303,1.435890303,true,104,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Barbados,BRB,2016,20322157,0.020322157,false,69,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Botswana,BWA,2016,0,0.000000000,false,92,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Botswana,BWA,2021,1000000,0.001000000,false,93,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Botswana,BWA,2024,863817,0.000863817,false,94,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2016,1861735387,1.861735387,true,116,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2017,766082794,0.766082794,true,117,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2018,2099932036,2.099932036,true,118,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2019,1912053598,1.912053598,true,119,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2020,2104430232,2.104430232,true,120,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2021,3831000000,3.831000000,true,121,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2022,20980025229,20.980025229,true,122,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2023,3257488064,3.257488064,true,123,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2024,4398558020,4.398558020,true,124,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Canada,CAN,2025,9558854733,9.558854733,true,125,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2016,461764568,0.461764568,true,756,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2017,801457469,0.801457469,true,757,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2018,1130898650,1.130898650,true,758,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2019,929529382,0.929529382,true,759,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2020,2584994150,2.584994150,true,760,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2021,1050000000,1.050000000,true,761,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2022,1761066595,1.761066595,true,762,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2023,898188082,0.898188082,true,763,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2024,1874483681,1.874483681,true,764,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Switzerland,CHE,2025,2902922424,2.902922424,true,765,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2016,1129009,0.001129009,true,126,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2017,8843669,0.008843669,true,127,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2018,89565447,0.089565447,true,128,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2019,34976590,0.034976590,true,129,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2020,100510101,0.100510101,true,130,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2021,276000000,0.276000000,true,131,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2022,74998104,0.074998104,true,132,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2023,7114361,0.007114361,true,133,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2024,62194850,0.062194850,true,134,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Chile,CHL,2025,96792137,0.096792137,true,135,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2016,5647301640,5.647301640,true,136,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2017,7758108300,7.758108300,true,137,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2018,12205720069,12.205720069,true,138,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2019,7699089431,7.699089431,true,139,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2020,15523575644,15.523575644,true,140,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2021,18352000000,18.352000000,true,141,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2022,12590422484,12.590422484,true,142,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2023,9420303319,9.420303319,true,143,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2024,13158529912,13.158529912,true,144,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+China,CHN,2025,17181866735,17.181866735,true,145,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cote d'Ivoire,CIV,2022,0,0.000000000,false,158,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cote d'Ivoire,CIV,2023,0,0.000000000,false,159,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cote d'Ivoire,CIV,2024,863817,0.000863817,false,160,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cote d'Ivoire,CIV,2025,0,0.000000000,false,161,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2016,1129009,0.001129009,true,146,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2017,3316376,0.003316376,true,147,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2018,0,0.000000000,true,148,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2019,10598967,0.010598967,true,149,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2020,10469802,0.010469802,true,150,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2021,35000000,0.035000000,true,151,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2022,93516155,0.093516155,true,152,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2023,12450132,0.012450132,true,153,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2024,31961242,0.031961242,true,154,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Colombia,COL,2025,39558525,0.039558525,true,155,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Costa Rica,CRI,2022,0,0.000000000,false,156,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Costa Rica,CRI,2025,1683342,0.001683342,false,157,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2016,1129009,0.001129009,true,169,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2017,2210917,0.002210917,true,170,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2018,12949221,0.012949221,true,171,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2019,8479173,0.008479173,true,172,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2020,31409406,0.031409406,true,173,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2021,64000000,0.064000000,true,174,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2022,5555415,0.005555415,true,175,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2023,1778590,0.001778590,true,176,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2024,31961242,0.031961242,true,177,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cyprus,CYP,2025,58916953,0.058916953,true,178,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2016,4516035,0.004516035,true,179,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2017,54167470,0.054167470,true,180,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2018,7553712,0.007553712,true,181,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2019,45575557,0.045575557,true,182,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2020,59677872,0.059677872,true,183,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2021,163000000,0.163000000,true,184,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2022,194439529,0.194439529,true,185,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2023,90708103,0.090708103,true,186,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2024,40599416,0.040599416,true,187,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Czechia,CZE,2025,534460928,0.534460928,true,188,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2016,1168524030,1.168524030,true,265,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2017,962854421,0.962854421,true,266,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2018,3293418588,3.293418588,true,267,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2019,1507173069,1.507173069,true,268,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2020,3500054858,3.500054858,true,269,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2021,5094000000,5.094000000,true,270,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2022,5021169373,5.021169373,true,271,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2023,4368217682,4.368217682,true,272,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2024,5459325743,5.459325743,true,273,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Germany,DEU,2025,22011373511,22.011373511,true,274,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2016,28225218,0.028225218,true,189,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2017,80698476,0.080698476,true,190,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2018,727314590,0.727314590,true,191,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2019,60414110,0.060414110,true,192,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2020,274308816,0.274308816,true,193,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2021,365000000,0.365000000,true,194,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2022,301844222,0.301844222,true,195,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2023,332596379,0.332596379,true,196,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2024,723015134,0.723015134,true,197,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Denmark,DNK,2025,531094245,0.531094245,true,198,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Dominican Republic,DOM,2020,0,0.000000000,false,199,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Dominican Republic,DOM,2021,0,0.000000000,false,200,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Dominican Republic,DOM,2022,0,0.000000000,false,201,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Dominican Republic,DOM,2023,1778590,0.001778590,false,202,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Dominican Republic,DOM,2024,0,0.000000000,false,203,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Algeria,DZA,2021,0,0.000000000,false,7,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Algeria,DZA,2022,0,0.000000000,false,8,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ecuador,ECU,2017,5527293,0.005527293,false,204,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ecuador,ECU,2021,0,0.000000000,false,205,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ecuador,ECU,2024,0,0.000000000,false,206,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2016,0,0.000000000,true,207,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2017,0,0.000000000,true,208,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2018,0,0.000000000,true,209,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2019,2119793,0.002119793,true,210,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2020,2093960,0.002093960,true,211,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2021,37000000,0.037000000,true,212,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2022,12962635,0.012962635,true,213,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2023,8003656,0.008003656,true,214,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2024,15548713,0.015548713,true,215,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Egypt,EGY,2025,81642063,0.081642063,true,216,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2016,188544457,0.188544457,true,727,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2017,256466390,0.256466390,true,728,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2018,181289097,0.181289097,true,729,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2019,351885695,0.351885695,true,730,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2020,358067233,0.358067233,true,731,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2021,766000000,0.766000000,true,732,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2022,699982306,0.699982306,true,733,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2023,666971348,0.666971348,true,734,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2024,699692065,0.699692065,true,735,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Spain,ESP,2025,9373687167,9.373687167,true,736,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2016,10161079,0.010161079,true,220,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2017,4421834,0.004421834,true,221,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2018,25898442,0.025898442,true,222,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2019,10598967,0.010598967,true,223,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2020,30362426,0.030362426,true,224,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2021,106000000,0.106000000,true,225,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2022,151848013,0.151848013,true,226,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2023,39128986,0.039128986,true,227,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2024,70833024,0.070833024,true,228,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Estonia,EST,2025,93425453,0.093425453,true,229,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ethiopia,ETH,2023,0,0.000000000,false,230,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2016,579181476,0.579181476,true,241,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2017,71854808,0.071854808,true,242,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2018,435957113,0.435957113,true,243,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2019,1334409911,1.334409911,true,244,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2020,829208330,0.829208330,true,245,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2021,1832000000,1.832000000,true,246,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2022,2696228142,2.696228142,true,247,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2023,1005792793,1.005792793,true,248,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2024,1349282723,1.349282723,true,249,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Finland,FIN,2025,524360879,0.524360879,true,250,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2016,899819953,0.899819953,true,251,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2017,1249168193,1.249168193,true,252,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2018,1315425052,1.315425052,true,253,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2019,2399606067,2.399606067,true,254,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2020,3111625198,3.111625198,true,255,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2021,3857000000,3.857000000,true,256,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2022,3898049614,3.898049614,true,257,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2023,3818633291,3.818633291,true,258,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2024,5353076207,5.353076207,true,259,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+France,FRA,2025,6007004158,6.007004158,true,260,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2016,3521378212,3.521378212,true,836,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2017,1489052704,1.489052704,true,837,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2018,2515386215,2.515386215,true,838,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2019,2559650465,2.559650465,true,839,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2020,4486310220,4.486310220,true,840,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2021,6848000000,6.848000000,true,841,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2022,6878529830,6.878529830,true,842,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2023,5098328984,5.098328984,true,843,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2024,5956020728,5.956020728,true,844,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United Kingdom,GBR,2025,10183374431,10.183374431,true,845,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Georgia,GEO,2022,1851805,0.001851805,false,261,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Georgia,GEO,2023,1778590,0.001778590,false,262,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Georgia,GEO,2024,0,0.000000000,false,263,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Georgia,GEO,2025,2525012,0.002525012,false,264,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2016,3387026,0.003387026,false,275,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2017,0,0.000000000,false,276,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2018,1079102,0.001079102,false,277,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2019,0,0.000000000,false,278,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2021,3000000,0.003000000,false,279,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2022,35184296,0.035184296,false,280,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2023,17785903,0.017785903,false,281,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2024,28505973,0.028505973,false,282,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ghana,GHA,2025,841671,0.000841671,false,283,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2016,12419096,0.012419096,true,284,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2017,64116598,0.064116598,true,285,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2018,2158204,0.002158204,true,286,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2019,11658863,0.011658863,true,287,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2020,25127525,0.025127525,true,288,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2021,68000000,0.068000000,true,289,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2022,104626985,0.104626985,true,290,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2023,393957743,0.393957743,true,291,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2024,53556677,0.053556677,true,292,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Greece,GRC,2025,90058770,0.090058770,true,293,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Guatemala,GTM,2019,6359380,0.006359380,false,294,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Honduras,HND,2024,863817,0.000863817,false,295,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2019,0,0.000000000,false,162,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2020,1046980,0.001046980,false,163,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2021,172000000,0.172000000,false,164,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2022,333324908,0.333324908,false,165,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2023,176080436,0.176080436,false,166,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2024,98475180,0.098475180,false,167,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Croatia,HRV,2025,5891695,0.005891695,false,168,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2016,11290087,0.011290087,true,296,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2017,2210917,0.002210917,true,297,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2018,44243172,0.044243172,true,298,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2019,10598967,0.010598967,true,299,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2020,10469802,0.010469802,true,300,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2021,16000000,0.016000000,true,301,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2022,30554783,0.030554783,true,302,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2023,16896607,0.016896607,true,303,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2024,27642156,0.027642156,true,304,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Hungary,HUN,2025,4208354,0.004208354,true,305,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2016,2258017,0.002258017,true,326,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2017,30952840,0.030952840,true,327,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2018,39926765,0.039926765,true,328,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2019,24377623,0.024377623,true,329,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2020,305718223,0.305718223,true,330,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2021,163000000,0.163000000,true,331,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2022,112034205,0.112034205,true,332,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2023,35571805,0.035571805,true,333,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2024,92428458,0.092428458,true,334,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Indonesia,IDN,2025,21041769,0.021041769,true,335,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2016,251768946,0.251768946,true,316,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2017,187927958,0.187927958,true,317,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2018,2733364772,2.733364772,true,318,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2019,853216822,0.853216822,true,319,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2020,26381807452,26.381807452,true,320,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2021,1859000000,1.859000000,true,321,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2022,3925826690,3.925826690,true,322,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2023,7299334433,7.299334433,true,323,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2024,1374333427,1.374333427,true,324,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+India,IND,2025,3008972939,3.008972939,true,325,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2016,221285710,0.221285710,true,341,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2017,152553284,0.152553284,true,342,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2018,220136760,0.220136760,true,343,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2019,192901194,0.192901194,true,344,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2020,149718171,0.149718171,true,345,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2021,814000000,0.814000000,true,346,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2022,533319852,0.533319852,true,347,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2023,304138935,0.304138935,true,348,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2024,461278473,0.461278473,true,349,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ireland,IRL,2025,489010707,0.489010707,true,350,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iran,IRN,2018,0,0.000000000,false,336,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iran,IRN,2020,0,0.000000000,false,337,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iran,IRN,2022,0,0.000000000,false,338,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iraq,IRQ,2020,2093960,0.002093960,false,339,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iraq,IRQ,2022,1851805,0.001851805,false,340,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2016,4516035,0.004516035,true,306,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2017,3316376,0.003316376,true,307,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2018,6474611,0.006474611,true,308,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2019,16958347,0.016958347,true,309,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2020,28268466,0.028268466,true,310,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2021,1607000000,1.607000000,true,311,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2022,1511072915,1.511072915,true,312,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2023,18675198,0.018675198,true,313,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2024,29369790,0.029369790,true,314,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Iceland,ISL,2025,5891695,0.005891695,true,315,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2016,583697511,0.583697511,true,351,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2017,663275147,0.663275147,true,352,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2018,1426572534,1.426572534,true,353,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2019,15090808827,15.090808827,true,354,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2020,2702255934,2.702255934,true,355,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2021,6362000000,6.362000000,true,356,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2022,4786916035,4.786916035,true,357,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2023,2231241483,2.231241483,true,358,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2024,6375835967,6.375835967,true,359,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Israel,ISR,2025,4629189137,4.629189137,true,360,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2016,21451166,0.021451166,true,361,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2017,13265503,0.013265503,true,362,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2018,246035203,0.246035203,true,363,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2019,208799645,0.208799645,true,364,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2020,304671242,0.304671242,true,365,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2021,320000000,0.320000000,true,366,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2022,73146299,0.073146299,true,367,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2023,243666866,0.243666866,true,368,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2024,392173083,0.392173083,true,369,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Italy,ITA,2025,484802353,0.484802353,true,370,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jamaica,JAM,2018,0,0.000000000,false,371,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jamaica,JAM,2024,863817,0.000863817,false,372,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jamaica,JAM,2025,42083538,0.042083538,false,373,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2016,0,0.000000000,false,384,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2018,0,0.000000000,false,385,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2019,0,0.000000000,false,386,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2020,0,0.000000000,false,387,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2021,0,0.000000000,false,388,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2022,925903,0.000925903,false,389,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2023,889295,0.000889295,false,390,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2024,863817,0.000863817,false,391,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Jordan,JOR,2025,0,0.000000000,false,392,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2016,2086408123,2.086408123,true,374,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2017,1040236522,1.040236522,true,375,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2018,1368301039,1.368301039,true,376,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2019,1789105584,1.789105584,true,377,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2020,1391436705,1.391436705,true,378,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2021,2451000000,2.451000000,true,379,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2022,705537721,0.705537721,true,380,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2023,2112075935,2.112075935,true,381,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2024,1505633666,1.505633666,true,382,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Japan,JPN,2025,1360981606,1.360981606,true,383,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2019,0,0.000000000,false,393,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2020,1046980,0.001046980,false,394,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2021,1000000,0.001000000,false,395,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2022,2777708,0.002777708,false,396,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2023,4446476,0.004446476,false,397,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2024,3455269,0.003455269,false,398,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kazakhstan,KAZ,2025,9258378,0.009258378,false,399,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2016,9032070,0.009032070,true,400,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2017,3316376,0.003316376,true,401,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2018,46401376,0.046401376,true,402,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2019,20138037,0.020138037,true,403,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2020,20939604,0.020939604,true,404,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2021,29000000,0.029000000,true,405,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2022,42591516,0.042591516,true,406,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2023,12450132,0.012450132,true,407,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2024,16412530,0.016412530,true,408,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kenya,KEN,2025,1683342,0.001683342,true,409,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kyrgyzstan,KGZ,2025,841671,0.000841671,false,412,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Cambodia,KHM,2018,0,0.000000000,false,115,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saint Kitts and Nevis,KNA,2021,3000000,0.003000000,false,639,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saint Kitts and Nevis,KNA,2023,889295,0.000889295,false,640,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2016,185157431,0.185157431,true,717,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2017,159186035,0.159186035,true,718,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2018,237402388,0.237402388,true,719,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2019,782203745,0.782203745,true,720,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2020,1397718587,1.397718587,true,721,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2021,5251000000,5.251000000,true,722,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2022,2236054589,2.236054589,true,723,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2023,2385978836,2.385978836,true,724,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2024,2110305821,2.110305821,true,725,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Korea,KOR,2025,1079021904,1.079021904,true,726,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kuwait,KWT,2023,6225066,0.006225066,false,410,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Kuwait,KWT,2025,7575037,0.007575037,false,411,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2016,1129009,0.001129009,false,423,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2017,1105459,0.001105459,false,424,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2018,1079102,0.001079102,false,425,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2019,0,0.000000000,false,426,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2020,0,0.000000000,false,427,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2021,0,0.000000000,false,428,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2022,0,0.000000000,false,429,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2023,0,0.000000000,false,430,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lebanon,LBN,2025,0,0.000000000,false,431,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2017,2210917,0.002210917,false,737,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2018,2158204,0.002158204,false,738,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2019,1059897,0.001059897,false,739,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2020,0,0.000000000,false,740,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2021,0,0.000000000,false,741,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2022,0,0.000000000,false,742,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2023,4446476,0.004446476,false,743,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2024,9501991,0.009501991,false,744,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sri Lanka,LKA,2025,4208354,0.004208354,false,745,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2016,0,0.000000000,true,432,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2017,1105459,0.001105459,true,433,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2018,5395509,0.005395509,true,434,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2019,8479173,0.008479173,true,435,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2020,7328862,0.007328862,true,436,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2021,8000000,0.008000000,true,437,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2022,3703610,0.003703610,true,438,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2023,9782246,0.009782246,true,439,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2024,273830105,0.273830105,true,440,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Lithuania,LTU,2025,68175331,0.068175331,true,441,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2016,3387026,0.003387026,false,442,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2017,5527293,0.005527293,false,443,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2018,8632814,0.008632814,false,444,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2020,15704703,0.015704703,false,445,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2021,394000000,0.394000000,false,446,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2022,6481318,0.006481318,false,447,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2023,4446476,0.004446476,false,448,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2024,53556677,0.053556677,false,449,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Luxembourg,LUX,2025,5050025,0.005050025,false,450,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2016,0,0.000000000,true,413,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2017,4421834,0.004421834,true,414,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2018,10791018,0.010791018,true,415,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2019,2119793,0.002119793,true,416,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2020,4187921,0.004187921,true,417,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2021,1000000,0.001000000,true,418,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2022,925903,0.000925903,true,419,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2023,889295,0.000889295,true,420,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2024,3455269,0.003455269,true,421,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Latvia,LVA,2025,1683342,0.001683342,true,422,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Morocco,MAR,2020,1046980,0.001046980,false,491,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Morocco,MAR,2022,925903,0.000925903,false,492,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Morocco,MAR,2024,3455269,0.003455269,false,493,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Moldova,MDA,2025,0,0.000000000,false,484,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Madagascar,MDG,2019,6359380,0.006359380,false,451,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2016,20322157,0.020322157,true,474,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2017,25425547,0.025425547,true,475,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2018,8632814,0.008632814,true,476,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2019,148385534,0.148385534,true,477,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2020,57583912,0.057583912,true,478,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2021,209000000,0.209000000,true,479,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2022,333324908,0.333324908,true,480,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2023,174301846,0.174301846,true,481,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2024,174491108,0.174491108,true,482,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mexico,MEX,2025,403160290,0.403160290,true,483,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+North Macedonia,MKD,2022,925903,0.000925903,false,534,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+North Macedonia,MKD,2024,0,0.000000000,false,535,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2017,1105459,0.001105459,false,462,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2018,0,0.000000000,false,463,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2020,39785248,0.039785248,false,464,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2021,4000000,0.004000000,false,465,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2022,1851805,0.001851805,false,466,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malta,MLT,2025,2266619336,2.266619336,false,467,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2018,0,0.000000000,false,485,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2019,0,0.000000000,false,486,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2021,0,0.000000000,false,487,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2022,0,0.000000000,false,488,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2024,0,0.000000000,false,489,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mongolia,MNG,2025,3366683,0.003366683,false,490,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2016,1129009,0.001129009,false,468,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2019,81612044,0.081612044,false,469,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2020,4187921,0.004187921,false,470,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2021,24000000,0.024000000,false,471,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2022,55554151,0.055554151,false,472,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Mauritius,MUS,2025,0,0.000000000,false,473,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2016,5645044,0.005645044,true,452,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2017,3316376,0.003316376,true,453,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2018,30214849,0.030214849,true,454,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2019,81612044,0.081612044,true,455,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2020,51302031,0.051302031,true,456,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2021,170000000,0.170000000,true,457,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2022,84257129,0.084257129,true,458,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2023,74700791,0.074700791,true,459,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2024,40599416,0.040599416,true,460,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Malaysia,MYS,2025,49658574,0.049658574,true,461,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2016,56450436,0.056450436,true,514,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2017,0,0.000000000,true,515,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2018,6474611,0.006474611,true,516,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2019,13778657,0.013778657,true,517,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2020,6281881,0.006281881,true,518,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2021,8000000,0.008000000,true,519,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2022,19443953,0.019443953,true,520,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2023,20453788,0.020453788,true,521,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2024,16412530,0.016412530,true,522,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Nigeria,NGA,2025,17675086,0.017675086,true,523,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2016,694340366,0.694340366,true,494,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2017,571522085,0.571522085,true,495,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2018,1820444678,1.820444678,true,496,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2019,446216499,0.446216499,true,497,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2020,540241791,0.540241791,true,498,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2021,979000000,0.979000000,true,499,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2022,1754585278,1.754585278,true,500,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2023,980892529,0.980892529,true,501,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2024,1918538366,1.918538366,true,502,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Netherlands,NLD,2025,1329839788,1.329839788,true,503,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2016,16935131,0.016935131,true,536,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2017,53062012,0.053062012,true,537,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2018,199633827,0.199633827,true,538,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2019,370963835,0.370963835,true,539,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2020,451248473,0.451248473,true,540,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2021,468000000,0.468000000,true,541,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2022,222216605,0.222216605,true,542,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2023,148512287,0.148512287,true,543,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2024,412904700,0.412904700,true,544,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Norway,NOR,2025,522677537,0.522677537,true,545,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2016,169351309,0.169351309,true,504,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2017,2210917,0.002210917,true,505,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2018,105751973,0.105751973,true,506,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2019,238476751,0.238476751,true,507,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2020,156000052,0.156000052,true,508,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2021,1259000000,1.259000000,true,509,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2022,182402797,0.182402797,true,510,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2023,36461100,0.036461100,true,511,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2024,142529865,0.142529865,true,512,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+New Zealand,NZL,2025,119517247,0.119517247,true,513,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Oman,OMN,2019,0,0.000000000,false,556,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Oman,OMN,2024,2591452,0.002591452,false,557,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Oman,OMN,2025,841671,0.000841671,false,558,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2016,0,0.000000000,false,559,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2017,1105459,0.001105459,false,560,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2018,0,0.000000000,false,561,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2019,2119793,0.002119793,false,562,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2020,0,0.000000000,false,563,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2021,7000000,0.007000000,false,564,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2022,11110830,0.011110830,false,565,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2024,2591452,0.002591452,false,566,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Pakistan,PAK,2025,841671,0.000841671,false,567,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Panama,PAN,2021,1000000,0.001000000,false,568,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Panama,PAN,2023,0,0.000000000,false,569,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Panama,PAN,2024,0,0.000000000,false,570,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Panama,PAN,2025,12625061,0.012625061,false,571,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2017,0,0.000000000,false,574,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2018,0,0.000000000,false,575,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2019,1059897,0.001059897,false,576,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2020,3140941,0.003140941,false,577,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2021,2000000,0.002000000,false,578,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2022,3703610,0.003703610,false,579,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2023,889295,0.000889295,false,580,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Peru,PER,2024,0,0.000000000,false,581,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2016,1129009,0.001129009,false,582,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2018,3237305,0.003237305,false,583,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2019,1059897,0.001059897,false,584,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2020,8375842,0.008375842,false,585,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2021,5000000,0.005000000,false,586,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2022,63887274,0.063887274,false,587,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2023,7114361,0.007114361,false,588,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2024,66513937,0.066513937,false,589,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Philippines,PHL,2025,118675576,0.118675576,false,590,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2016,21451166,0.021451166,true,591,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2017,65222056,0.065222056,true,592,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2018,30214849,0.030214849,true,593,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2019,114468841,0.114468841,true,594,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2020,147624210,0.147624210,true,595,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2021,153000000,0.153000000,true,596,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2022,175921479,0.175921479,true,597,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2023,119165548,0.119165548,true,598,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2024,105385718,0.105385718,true,599,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Poland,POL,2025,516785842,0.516785842,true,600,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2016,19193148,0.019193148,true,601,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2017,216669881,0.216669881,true,602,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2018,165102570,0.165102570,true,603,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2019,112349047,0.112349047,true,604,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2020,27221486,0.027221486,true,605,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2021,278000000,0.278000000,true,606,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2022,131478158,0.131478158,true,607,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2023,79147267,0.079147267,true,608,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2024,65650120,0.065650120,true,609,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Portugal,PRT,2025,423360388,0.423360388,true,610,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Paraguay,PRY,2021,0,0.000000000,false,572,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Paraguay,PRY,2024,0,0.000000000,false,573,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2018,0,0.000000000,false,611,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2019,1059897,0.001059897,false,612,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2020,0,0.000000000,false,613,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2021,13000000,0.013000000,false,614,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2022,3703610,0.003703610,false,615,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2023,2667885,0.002667885,false,616,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2024,4319087,0.004319087,false,617,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Qatar,QAT,2025,2525012,0.002525012,false,618,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2016,1129009,0.001129009,true,619,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2017,0,0.000000000,true,620,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2018,1079102,0.001079102,true,621,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2019,5299483,0.005299483,true,622,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2020,6281881,0.006281881,true,623,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2021,40000000,0.040000000,true,624,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2022,29628881,0.029628881,true,625,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2023,69365020,0.069365020,true,626,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2024,14684895,0.014684895,true,627,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Romania,ROU,2025,53025257,0.053025257,true,628,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2016,9032070,0.009032070,true,629,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2017,15476420,0.015476420,true,630,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2018,51796885,0.051796885,true,631,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2019,30737004,0.030737004,true,632,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2020,30362426,0.030362426,true,633,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2021,24000000,0.024000000,true,634,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2022,925903,0.000925903,true,635,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2023,104047530,0.104047530,true,636,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2024,112296257,0.112296257,true,637,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Russia,RUS,2025,841671,0.000841671,true,638,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2016,1211426361,1.211426361,true,641,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2017,23214630,0.023214630,true,642,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2018,869756023,0.869756023,true,643,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2019,216218921,0.216218921,true,644,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2020,15611521982,15.611521982,true,645,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2021,2213000000,2.213000000,true,646,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2022,1769399718,1.769399718,true,647,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2023,2264145403,2.264145403,true,648,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2024,1657665522,1.657665522,true,649,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Saudi Arabia,SAU,2025,3113340112,3.113340112,true,650,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Senegal,SEN,2021,0,0.000000000,false,651,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Senegal,SEN,2023,0,0.000000000,false,652,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Senegal,SEN,2024,4319087,0.004319087,false,653,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2016,181770405,0.181770405,true,668,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2017,348219452,0.348219452,true,669,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2018,1141689668,1.141689668,true,670,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2019,2170668386,2.170668386,true,671,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2020,908778826,0.908778826,true,672,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2021,3279000000,3.279000000,true,673,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2022,3737868478,3.737868478,true,674,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2023,1122290455,1.122290455,true,675,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2024,5194997630,5.194997630,true,676,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Singapore,SGP,2025,14961539291,14.961539291,true,677,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+El Salvador,SLV,2020,0,0.000000000,false,217,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+El Salvador,SLV,2021,1000000,0.001000000,false,218,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+El Salvador,SLV,2025,841671,0.000841671,false,219,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2017,0,0.000000000,false,654,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2018,1079102,0.001079102,false,655,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2019,0,0.000000000,false,656,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2020,0,0.000000000,false,657,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2021,0,0.000000000,false,658,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2022,7407220,0.007407220,false,659,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2023,39128986,0.039128986,false,660,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Serbia,SRB,2024,43190868,0.043190868,false,661,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2016,1129009,0.001129009,true,678,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2017,27636464,0.027636464,true,679,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2018,4316407,0.004316407,true,680,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2019,12718760,0.012718760,true,681,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2020,10469802,0.010469802,true,682,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2021,9000000,0.009000000,true,683,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2022,25925271,0.025925271,true,684,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2023,20453788,0.020453788,true,685,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2024,26778338,0.026778338,true,686,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovakia,SVK,2025,11783391,0.011783391,true,687,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2016,0,0.000000000,false,688,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2017,0,0.000000000,false,689,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2018,0,0.000000000,false,690,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2019,0,0.000000000,false,691,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2020,5234901,0.005234901,false,692,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2021,0,0.000000000,false,693,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2022,9259025,0.009259025,false,694,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2023,17785903,0.017785903,false,695,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Slovenia,SVN,2025,7575037,0.007575037,false,696,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2016,74514576,0.074514576,true,746,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2017,424496094,0.424496094,true,747,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2018,130571314,0.130571314,true,748,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2019,128247497,0.128247497,true,749,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2020,3755518030,3.755518030,true,750,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2021,18454000000,18.454000000,true,751,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2022,7436849051,7.436849051,true,752,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2023,3295727754,3.295727754,true,753,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2024,4705213184,4.705213184,true,754,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Sweden,SWE,2025,8436907620,8.436907620,true,755,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2016,1129009,0.001129009,false,662,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2017,1105459,0.001105459,false,663,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2021,1000000,0.001000000,false,664,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2022,9259025,0.009259025,false,665,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2023,44464757,0.044464757,false,666,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Seychelles,SYC,2024,1727635,0.001727635,false,667,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2016,1129009,0.001129009,true,784,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2017,3316376,0.003316376,true,785,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2018,10791018,0.010791018,true,786,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2019,16958347,0.016958347,true,787,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2020,14657723,0.014657723,true,788,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2021,23000000,0.023000000,true,789,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2022,67590884,0.067590884,true,790,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2023,49800527,0.049800527,true,791,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2024,38007964,0.038007964,true,792,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Thailand,THA,2025,1683342,0.001683342,true,793,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tajikistan,TJK,2022,925903,0.000925903,false,776,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tajikistan,TJK,2023,889295,0.000889295,false,777,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tajikistan,TJK,2024,2591452,0.002591452,false,778,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tajikistan,TJK,2025,2525012,0.002525012,false,779,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2018,1079102,0.001079102,false,794,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2019,0,0.000000000,false,795,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2020,1046980,0.001046980,false,796,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2021,0,0.000000000,false,797,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2022,1851805,0.001851805,false,798,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2023,1778590,0.001778590,false,799,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2024,4319087,0.004319087,false,800,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tunisia,TUN,2025,841671,0.000841671,false,801,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2016,118545916,0.118545916,true,802,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2017,197877085,0.197877085,true,803,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2018,549262799,0.549262799,true,804,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2019,12718760,0.012718760,true,805,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2020,14657723,0.014657723,true,806,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2021,99000000,0.099000000,true,807,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2022,57405956,0.057405956,true,808,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2023,51579118,0.051579118,true,809,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2024,95019910,0.095019910,true,810,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Turkey,TUR,2025,79958721,0.079958721,true,811,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2016,34999270,0.034999270,true,766,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2017,28741923,0.028741923,true,767,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2018,35610358,0.035610358,true,768,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2019,260734582,0.260734582,true,769,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2020,173798716,0.173798716,true,770,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2021,276000000,0.276000000,true,771,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2022,408323012,0.408323012,true,772,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2023,131615679,0.131615679,true,773,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2024,159806212,0.159806212,true,774,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Taiwan,TWN,2025,74908697,0.074908697,true,775,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tanzania,TZA,2017,0,0.000000000,false,780,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tanzania,TZA,2023,0,0.000000000,false,781,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tanzania,TZA,2024,0,0.000000000,false,782,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Tanzania,TZA,2025,0,0.000000000,false,783,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uganda,UGA,2019,0,0.000000000,false,812,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uganda,UGA,2020,0,0.000000000,false,813,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uganda,UGA,2022,0,0.000000000,false,814,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uganda,UGA,2023,0,0.000000000,false,815,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2016,0,0.000000000,true,816,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2017,0,0.000000000,true,817,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2018,0,0.000000000,true,818,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2019,11658863,0.011658863,true,819,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2020,10469802,0.010469802,true,820,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2021,39000000,0.039000000,true,821,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2022,0,0.000000000,true,822,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2023,5335771,0.005335771,true,823,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2024,246187949,0.246187949,true,824,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Ukraine,UKR,2025,99317149,0.099317149,true,825,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2017,0,0.000000000,false,856,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2020,2093960,0.002093960,false,857,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2021,109000000,0.109000000,false,858,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2022,5555415,0.005555415,false,859,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2023,3557181,0.003557181,false,860,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2024,4319087,0.004319087,false,861,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uruguay,URY,2025,6733366,0.006733366,false,862,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2016,21840673776,21.840673776,true,846,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2017,29186317374,29.186317374,true,847,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2018,59742311041,59.742311041,true,848,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2019,97808324863,97.808324863,true,849,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2020,77270280790,77.270280790,true,850,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2021,159666000000,159.666000000,true,851,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2022,90149573077,90.149573077,true,852,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2023,80641282451,80.641282451,true,853,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2024,152490543158,152.490543158,true,854,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+United States,USA,2025,301022702852,301.022702852,true,855,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uzbekistan,UZB,2021,1000000,0.001000000,false,863,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uzbekistan,UZB,2022,925903,0.000925903,false,864,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uzbekistan,UZB,2024,0,0.000000000,false,865,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Uzbekistan,UZB,2025,0,0.000000000,false,866,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Venezuela,VEN,2019,1059897,0.001059897,false,867,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Venezuela,VEN,2021,0,0.000000000,false,868,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2016,2258017,0.002258017,true,869,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2017,0,0.000000000,true,870,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2018,0,0.000000000,true,871,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2019,18018243,0.018018243,true,872,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2020,6281881,0.006281881,true,873,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2021,32000000,0.032000000,true,874,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2022,32406588,0.032406588,true,875,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2023,34682510,0.034682510,true,876,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2024,6910539,0.006910539,true,877,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Vietnam,VNM,2025,228934445,0.228934445,true,878,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2016,59837462,0.059837462,true,697,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2017,80698476,0.080698476,true,698,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2018,71220717,0.071220717,true,699,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2019,175942848,0.175942848,true,700,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2020,154953072,0.154953072,true,701,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2021,143000000,0.143000000,true,702,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2022,171291966,0.171291966,true,703,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2023,69365020,0.069365020,true,704,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2024,205588533,0.205588533,true,705,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+South Africa,ZAF,2025,159917443,0.159917443,true,706,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zambia,ZMB,2019,1059897,0.001059897,false,889,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zambia,ZMB,2021,0,0.000000000,false,890,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zambia,ZMB,2022,0,0.000000000,false,891,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zambia,ZMB,2023,0,0.000000000,false,892,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2019,0,0.000000000,false,893,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2020,0,0.000000000,false,894,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2021,0,0.000000000,false,895,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2023,0,0.000000000,false,896,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2024,863817,0.000863817,false,897,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
+Zimbabwe,ZWE,2025,0,0.000000000,false,898,private-investment-in-artificial-intelligence-cset.csv,https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset
