@@ -1,0 +1,3571 @@
+AI_counts,Country/territory,Country/territory_label,sector,year
+122,ALL,-- All countries --,AI,1995
+173,ALL,-- All countries --,AI,1996
+226,ALL,-- All countries --,AI,1997
+257,ALL,-- All countries --,AI,1998
+414,ALL,-- All countries --,AI,1999
+549,ALL,-- All countries --,AI,2000
+559,ALL,-- All countries --,AI,2001
+508,ALL,-- All countries --,AI,2002
+554,ALL,-- All countries --,AI,2003
+708,ALL,-- All countries --,AI,2004
+814,ALL,-- All countries --,AI,2005
+797,ALL,-- All countries --,AI,2006
+900,ALL,-- All countries --,AI,2007
+841,ALL,-- All countries --,AI,2008
+950,ALL,-- All countries --,AI,2009
+1144,ALL,-- All countries --,AI,2010
+1468,ALL,-- All countries --,AI,2011
+1908,ALL,-- All countries --,AI,2012
+2268,ALL,-- All countries --,AI,2013
+2639,ALL,-- All countries --,AI,2014
+3445,ALL,-- All countries --,AI,2015
+5312,ALL,-- All countries --,AI,2016
+7881,ALL,-- All countries --,AI,2017
+11296,ALL,-- All countries --,AI,2018
+13297,ALL,-- All countries --,AI,2019
+15703,ALL,-- All countries --,AI,2020
+15002,ALL,-- All countries --,AI,2021
+15911,ALL,-- All countries --,AI,2022
+16830,ALL,-- All countries --,AI,2023
+17972,ALL,-- All countries --,AI,2024
+120,OECD,OECD countries,AI,1995
+172,OECD,OECD countries,AI,1996
+224,OECD,OECD countries,AI,1997
+250,OECD,OECD countries,AI,1998
+402,OECD,OECD countries,AI,1999
+529,OECD,OECD countries,AI,2000
+545,OECD,OECD countries,AI,2001
+493,OECD,OECD countries,AI,2002
+523,OECD,OECD countries,AI,2003
+662,OECD,OECD countries,AI,2004
+773,OECD,OECD countries,AI,2005
+748,OECD,OECD countries,AI,2006
+838,OECD,OECD countries,AI,2007
+790,OECD,OECD countries,AI,2008
+866,OECD,OECD countries,AI,2009
+1033,OECD,OECD countries,AI,2010
+1328,OECD,OECD countries,AI,2011
+1710,OECD,OECD countries,AI,2012
+1922,OECD,OECD countries,AI,2013
+2181,OECD,OECD countries,AI,2014
+2726,OECD,OECD countries,AI,2015
+3906,OECD,OECD countries,AI,2016
+5577,OECD,OECD countries,AI,2017
+7912,OECD,OECD countries,AI,2018
+8943,OECD,OECD countries,AI,2019
+9897,OECD,OECD countries,AI,2020
+9898,OECD,OECD countries,AI,2021
+10877,OECD,OECD countries,AI,2022
+11487,OECD,OECD countries,AI,2023
+12136,OECD,OECD countries,AI,2024
+66,USA,United States,AI,1995
+94,USA,United States,AI,1996
+121,USA,United States,AI,1997
+133,USA,United States,AI,1998
+212,USA,United States,AI,1999
+249,USA,United States,AI,2000
+235,USA,United States,AI,2001
+219,USA,United States,AI,2002
+243,USA,United States,AI,2003
+290,USA,United States,AI,2004
+349,USA,United States,AI,2005
+323,USA,United States,AI,2006
+348,USA,United States,AI,2007
+292,USA,United States,AI,2008
+272,USA,United States,AI,2009
+353,USA,United States,AI,2010
+463,USA,United States,AI,2011
+585,USA,United States,AI,2012
+832,USA,United States,AI,2013
+968,USA,United States,AI,2014
+1213,USA,United States,AI,2015
+1777,USA,United States,AI,2016
+2595,USA,United States,AI,2017
+3460,USA,United States,AI,2018
+3914,USA,United States,AI,2019
+4265,USA,United States,AI,2020
+4246,USA,United States,AI,2021
+4603,USA,United States,AI,2022
+4955,USA,United States,AI,2023
+5192,USA,United States,AI,2024
+0,CHN,China (People's Republic of),AI,1995
+0,CHN,China (People's Republic of),AI,1996
+1,CHN,China (People's Republic of),AI,1997
+1,CHN,China (People's Republic of),AI,1998
+2,CHN,China (People's Republic of),AI,1999
+8,CHN,China (People's Republic of),AI,2000
+1,CHN,China (People's Republic of),AI,2001
+1,CHN,China (People's Republic of),AI,2002
+6,CHN,China (People's Republic of),AI,2003
+4,CHN,China (People's Republic of),AI,2004
+3,CHN,China (People's Republic of),AI,2005
+13,CHN,China (People's Republic of),AI,2006
+22,CHN,China (People's Republic of),AI,2007
+22,CHN,China (People's Republic of),AI,2008
+45,CHN,China (People's Republic of),AI,2009
+56,CHN,China (People's Republic of),AI,2010
+78,CHN,China (People's Republic of),AI,2011
+129,CHN,China (People's Republic of),AI,2012
+243,CHN,China (People's Republic of),AI,2013
+339,CHN,China (People's Republic of),AI,2014
+575,CHN,China (People's Republic of),AI,2015
+1228,CHN,China (People's Republic of),AI,2016
+2053,CHN,China (People's Republic of),AI,2017
+2895,CHN,China (People's Republic of),AI,2018
+3763,CHN,China (People's Republic of),AI,2019
+4995,CHN,China (People's Republic of),AI,2020
+4297,CHN,China (People's Republic of),AI,2021
+4282,CHN,China (People's Republic of),AI,2022
+4454,CHN,China (People's Republic of),AI,2023
+4913,CHN,China (People's Republic of),AI,2024
+13,JPN,Japan,AI,1995
+15,JPN,Japan,AI,1996
+19,JPN,Japan,AI,1997
+34,JPN,Japan,AI,1998
+44,JPN,Japan,AI,1999
+67,JPN,Japan,AI,2000
+68,JPN,Japan,AI,2001
+82,JPN,Japan,AI,2002
+99,JPN,Japan,AI,2003
+138,JPN,Japan,AI,2004
+189,JPN,Japan,AI,2005
+171,JPN,Japan,AI,2006
+232,JPN,Japan,AI,2007
+228,JPN,Japan,AI,2008
+311,JPN,Japan,AI,2009
+359,JPN,Japan,AI,2010
+454,JPN,Japan,AI,2011
+653,JPN,Japan,AI,2012
+516,JPN,Japan,AI,2013
+594,JPN,Japan,AI,2014
+719,JPN,Japan,AI,2015
+917,JPN,Japan,AI,2016
+1265,JPN,Japan,AI,2017
+1850,JPN,Japan,AI,2018
+1887,JPN,Japan,AI,2019
+1847,JPN,Japan,AI,2020
+1696,JPN,Japan,AI,2021
+1651,JPN,Japan,AI,2022
+1772,JPN,Japan,AI,2023
+1930,JPN,Japan,AI,2024
+19,EU27,EU27,AI,1995
+43,EU27,EU27,AI,1996
+49,EU27,EU27,AI,1997
+50,EU27,EU27,AI,1998
+75,EU27,EU27,AI,1999
+109,EU27,EU27,AI,2000
+145,EU27,EU27,AI,2001
+106,EU27,EU27,AI,2002
+103,EU27,EU27,AI,2003
+130,EU27,EU27,AI,2004
+135,EU27,EU27,AI,2005
+127,EU27,EU27,AI,2006
+150,EU27,EU27,AI,2007
+145,EU27,EU27,AI,2008
+151,EU27,EU27,AI,2009
+170,EU27,EU27,AI,2010
+219,EU27,EU27,AI,2011
+250,EU27,EU27,AI,2012
+270,EU27,EU27,AI,2013
+306,EU27,EU27,AI,2014
+356,EU27,EU27,AI,2015
+479,EU27,EU27,AI,2016
+699,EU27,EU27,AI,2017
+1070,EU27,EU27,AI,2018
+1236,EU27,EU27,AI,2019
+1505,EU27,EU27,AI,2020
+1401,EU27,EU27,AI,2021
+1648,EU27,EU27,AI,2022
+1673,EU27,EU27,AI,2023
+1775,EU27,EU27,AI,2024
+0,KOR,Korea,AI,1995
+0,KOR,Korea,AI,1996
+0,KOR,Korea,AI,1997
+1,KOR,Korea,AI,1998
+8,KOR,Korea,AI,1999
+11,KOR,Korea,AI,2000
+11,KOR,Korea,AI,2001
+10,KOR,Korea,AI,2002
+13,KOR,Korea,AI,2003
+12,KOR,Korea,AI,2004
+10,KOR,Korea,AI,2005
+15,KOR,Korea,AI,2006
+29,KOR,Korea,AI,2007
+25,KOR,Korea,AI,2008
+34,KOR,Korea,AI,2009
+47,KOR,Korea,AI,2010
+74,KOR,Korea,AI,2011
+82,KOR,Korea,AI,2012
+99,KOR,Korea,AI,2013
+105,KOR,Korea,AI,2014
+127,KOR,Korea,AI,2015
+273,KOR,Korea,AI,2016
+438,KOR,Korea,AI,2017
+692,KOR,Korea,AI,2018
+1047,KOR,Korea,AI,2019
+1218,KOR,Korea,AI,2020
+1451,KOR,Korea,AI,2021
+1841,KOR,Korea,AI,2022
+1817,KOR,Korea,AI,2023
+1920,KOR,Korea,AI,2024
+15,DEU,Germany,AI,1995
+22,DEU,Germany,AI,1996
+19,DEU,Germany,AI,1997
+17,DEU,Germany,AI,1998
+24,DEU,Germany,AI,1999
+19,DEU,Germany,AI,2000
+33,DEU,Germany,AI,2001
+39,DEU,Germany,AI,2002
+35,DEU,Germany,AI,2003
+35,DEU,Germany,AI,2004
+35,DEU,Germany,AI,2005
+38,DEU,Germany,AI,2006
+40,DEU,Germany,AI,2007
+40,DEU,Germany,AI,2008
+43,DEU,Germany,AI,2009
+48,DEU,Germany,AI,2010
+68,DEU,Germany,AI,2011
+84,DEU,Germany,AI,2012
+83,DEU,Germany,AI,2013
+89,DEU,Germany,AI,2014
+86,DEU,Germany,AI,2015
+151,DEU,Germany,AI,2016
+229,DEU,Germany,AI,2017
+368,DEU,Germany,AI,2018
+493,DEU,Germany,AI,2019
+554,DEU,Germany,AI,2020
+520,DEU,Germany,AI,2021
+553,DEU,Germany,AI,2022
+595,DEU,Germany,AI,2023
+628,DEU,Germany,AI,2024
+11,GBR,United Kingdom,AI,1995
+5,GBR,United Kingdom,AI,1996
+21,GBR,United Kingdom,AI,1997
+15,GBR,United Kingdom,AI,1998
+30,GBR,United Kingdom,AI,1999
+33,GBR,United Kingdom,AI,2000
+39,GBR,United Kingdom,AI,2001
+36,GBR,United Kingdom,AI,2002
+26,GBR,United Kingdom,AI,2003
+36,GBR,United Kingdom,AI,2004
+38,GBR,United Kingdom,AI,2005
+41,GBR,United Kingdom,AI,2006
+23,GBR,United Kingdom,AI,2007
+41,GBR,United Kingdom,AI,2008
+40,GBR,United Kingdom,AI,2009
+33,GBR,United Kingdom,AI,2010
+34,GBR,United Kingdom,AI,2011
+45,GBR,United Kingdom,AI,2012
+70,GBR,United Kingdom,AI,2013
+48,GBR,United Kingdom,AI,2014
+107,GBR,United Kingdom,AI,2015
+144,GBR,United Kingdom,AI,2016
+206,GBR,United Kingdom,AI,2017
+282,GBR,United Kingdom,AI,2018
+272,GBR,United Kingdom,AI,2019
+323,GBR,United Kingdom,AI,2020
+319,GBR,United Kingdom,AI,2021
+369,GBR,United Kingdom,AI,2022
+393,GBR,United Kingdom,AI,2023
+406,GBR,United Kingdom,AI,2024
+4,CAN,Canada,AI,1995
+6,CAN,Canada,AI,1996
+2,CAN,Canada,AI,1997
+6,CAN,Canada,AI,1998
+7,CAN,Canada,AI,1999
+7,CAN,Canada,AI,2000
+10,CAN,Canada,AI,2001
+11,CAN,Canada,AI,2002
+13,CAN,Canada,AI,2003
+16,CAN,Canada,AI,2004
+14,CAN,Canada,AI,2005
+23,CAN,Canada,AI,2006
+22,CAN,Canada,AI,2007
+17,CAN,Canada,AI,2008
+22,CAN,Canada,AI,2009
+18,CAN,Canada,AI,2010
+36,CAN,Canada,AI,2011
+35,CAN,Canada,AI,2012
+31,CAN,Canada,AI,2013
+46,CAN,Canada,AI,2014
+52,CAN,Canada,AI,2015
+112,CAN,Canada,AI,2016
+123,CAN,Canada,AI,2017
+216,CAN,Canada,AI,2018
+200,CAN,Canada,AI,2019
+282,CAN,Canada,AI,2020
+331,CAN,Canada,AI,2021
+275,CAN,Canada,AI,2022
+335,CAN,Canada,AI,2023
+355,CAN,Canada,AI,2024
+0,IND,India,AI,1995
+0,IND,India,AI,1996
+0,IND,India,AI,1997
+0,IND,India,AI,1998
+0,IND,India,AI,1999
+3,IND,India,AI,2000
+2,IND,India,AI,2001
+1,IND,India,AI,2002
+8,IND,India,AI,2003
+4,IND,India,AI,2004
+1,IND,India,AI,2005
+5,IND,India,AI,2006
+9,IND,India,AI,2007
+4,IND,India,AI,2008
+9,IND,India,AI,2009
+19,IND,India,AI,2010
+29,IND,India,AI,2011
+24,IND,India,AI,2012
+32,IND,India,AI,2013
+21,IND,India,AI,2014
+37,IND,India,AI,2015
+62,IND,India,AI,2016
+104,IND,India,AI,2017
+171,IND,India,AI,2018
+197,IND,India,AI,2019
+268,IND,India,AI,2020
+329,IND,India,AI,2021
+280,IND,India,AI,2022
+363,IND,India,AI,2023
+366,IND,India,AI,2024
+1,FRA,France,AI,1995
+4,FRA,France,AI,1996
+5,FRA,France,AI,1997
+5,FRA,France,AI,1998
+6,FRA,France,AI,1999
+16,FRA,France,AI,2000
+22,FRA,France,AI,2001
+21,FRA,France,AI,2002
+18,FRA,France,AI,2003
+25,FRA,France,AI,2004
+23,FRA,France,AI,2005
+18,FRA,France,AI,2006
+30,FRA,France,AI,2007
+28,FRA,France,AI,2008
+37,FRA,France,AI,2009
+37,FRA,France,AI,2010
+40,FRA,France,AI,2011
+38,FRA,France,AI,2012
+50,FRA,France,AI,2013
+60,FRA,France,AI,2014
+67,FRA,France,AI,2015
+68,FRA,France,AI,2016
+105,FRA,France,AI,2017
+164,FRA,France,AI,2018
+181,FRA,France,AI,2019
+250,FRA,France,AI,2020
+221,FRA,France,AI,2021
+263,FRA,France,AI,2022
+260,FRA,France,AI,2023
+280,FRA,France,AI,2024
+1,NLD,Netherlands,AI,1995
+8,NLD,Netherlands,AI,1996
+12,NLD,Netherlands,AI,1997
+15,NLD,Netherlands,AI,1998
+34,NLD,Netherlands,AI,1999
+35,NLD,Netherlands,AI,2000
+66,NLD,Netherlands,AI,2001
+21,NLD,Netherlands,AI,2002
+21,NLD,Netherlands,AI,2003
+35,NLD,Netherlands,AI,2004
+36,NLD,Netherlands,AI,2005
+24,NLD,Netherlands,AI,2006
+20,NLD,Netherlands,AI,2007
+27,NLD,Netherlands,AI,2008
+23,NLD,Netherlands,AI,2009
+17,NLD,Netherlands,AI,2010
+45,NLD,Netherlands,AI,2011
+42,NLD,Netherlands,AI,2012
+37,NLD,Netherlands,AI,2013
+45,NLD,Netherlands,AI,2014
+73,NLD,Netherlands,AI,2015
+81,NLD,Netherlands,AI,2016
+129,NLD,Netherlands,AI,2017
+188,NLD,Netherlands,AI,2018
+160,NLD,Netherlands,AI,2019
+164,NLD,Netherlands,AI,2020
+144,NLD,Netherlands,AI,2021
+209,NLD,Netherlands,AI,2022
+192,NLD,Netherlands,AI,2023
+205,NLD,Netherlands,AI,2024
+2,ISR,Israel,AI,1995
+2,ISR,Israel,AI,1996
+5,ISR,Israel,AI,1997
+2,ISR,Israel,AI,1998
+12,ISR,Israel,AI,1999
+29,ISR,Israel,AI,2000
+18,ISR,Israel,AI,2001
+10,ISR,Israel,AI,2002
+6,ISR,Israel,AI,2003
+19,ISR,Israel,AI,2004
+23,ISR,Israel,AI,2005
+16,ISR,Israel,AI,2006
+22,ISR,Israel,AI,2007
+18,ISR,Israel,AI,2008
+17,ISR,Israel,AI,2009
+19,ISR,Israel,AI,2010
+22,ISR,Israel,AI,2011
+21,ISR,Israel,AI,2012
+55,ISR,Israel,AI,2013
+57,ISR,Israel,AI,2014
+80,ISR,Israel,AI,2015
+109,ISR,Israel,AI,2016
+115,ISR,Israel,AI,2017
+156,ISR,Israel,AI,2018
+156,ISR,Israel,AI,2019
+165,ISR,Israel,AI,2020
+179,ISR,Israel,AI,2021
+175,ISR,Israel,AI,2022
+193,ISR,Israel,AI,2023
+207,ISR,Israel,AI,2024
+0,SWE,Sweden,AI,1995
+2,SWE,Sweden,AI,1996
+2,SWE,Sweden,AI,1997
+2,SWE,Sweden,AI,1998
+2,SWE,Sweden,AI,1999
+12,SWE,Sweden,AI,2000
+5,SWE,Sweden,AI,2001
+4,SWE,Sweden,AI,2002
+3,SWE,Sweden,AI,2003
+11,SWE,Sweden,AI,2004
+3,SWE,Sweden,AI,2005
+9,SWE,Sweden,AI,2006
+15,SWE,Sweden,AI,2007
+14,SWE,Sweden,AI,2008
+15,SWE,Sweden,AI,2009
+12,SWE,Sweden,AI,2010
+14,SWE,Sweden,AI,2011
+17,SWE,Sweden,AI,2012
+31,SWE,Sweden,AI,2013
+19,SWE,Sweden,AI,2014
+29,SWE,Sweden,AI,2015
+39,SWE,Sweden,AI,2016
+51,SWE,Sweden,AI,2017
+83,SWE,Sweden,AI,2018
+116,SWE,Sweden,AI,2019
+164,SWE,Sweden,AI,2020
+145,SWE,Sweden,AI,2021
+216,SWE,Sweden,AI,2022
+186,SWE,Sweden,AI,2023
+205,SWE,Sweden,AI,2024
+0,SGP,Singapore,AI,1995
+0,SGP,Singapore,AI,1996
+0,SGP,Singapore,AI,1997
+3,SGP,Singapore,AI,1998
+2,SGP,Singapore,AI,1999
+2,SGP,Singapore,AI,2000
+2,SGP,Singapore,AI,2001
+8,SGP,Singapore,AI,2002
+8,SGP,Singapore,AI,2003
+7,SGP,Singapore,AI,2004
+6,SGP,Singapore,AI,2005
+9,SGP,Singapore,AI,2006
+4,SGP,Singapore,AI,2007
+12,SGP,Singapore,AI,2008
+5,SGP,Singapore,AI,2009
+8,SGP,Singapore,AI,2010
+6,SGP,Singapore,AI,2011
+10,SGP,Singapore,AI,2012
+9,SGP,Singapore,AI,2013
+24,SGP,Singapore,AI,2014
+18,SGP,Singapore,AI,2015
+18,SGP,Singapore,AI,2016
+41,SGP,Singapore,AI,2017
+67,SGP,Singapore,AI,2018
+87,SGP,Singapore,AI,2019
+87,SGP,Singapore,AI,2020
+147,SGP,Singapore,AI,2021
+129,SGP,Singapore,AI,2022
+135,SGP,Singapore,AI,2023
+156,SGP,Singapore,AI,2024
+1,AUS,Australia,AI,1995
+2,AUS,Australia,AI,1996
+3,AUS,Australia,AI,1997
+2,AUS,Australia,AI,1998
+8,AUS,Australia,AI,1999
+14,AUS,Australia,AI,2000
+11,AUS,Australia,AI,2001
+5,AUS,Australia,AI,2002
+10,AUS,Australia,AI,2003
+12,AUS,Australia,AI,2004
+9,AUS,Australia,AI,2005
+22,AUS,Australia,AI,2006
+7,AUS,Australia,AI,2007
+10,AUS,Australia,AI,2008
+13,AUS,Australia,AI,2009
+19,AUS,Australia,AI,2010
+14,AUS,Australia,AI,2011
+11,AUS,Australia,AI,2012
+17,AUS,Australia,AI,2013
+24,AUS,Australia,AI,2014
+28,AUS,Australia,AI,2015
+27,AUS,Australia,AI,2016
+43,AUS,Australia,AI,2017
+70,AUS,Australia,AI,2018
+78,AUS,Australia,AI,2019
+91,AUS,Australia,AI,2020
+96,AUS,Australia,AI,2021
+104,AUS,Australia,AI,2022
+113,AUS,Australia,AI,2023
+118,AUS,Australia,AI,2024
+2,CHE,Switzerland,AI,1995
+2,CHE,Switzerland,AI,1996
+0,CHE,Switzerland,AI,1997
+3,CHE,Switzerland,AI,1998
+3,CHE,Switzerland,AI,1999
+2,CHE,Switzerland,AI,2000
+2,CHE,Switzerland,AI,2001
+8,CHE,Switzerland,AI,2002
+5,CHE,Switzerland,AI,2003
+3,CHE,Switzerland,AI,2004
+0,CHE,Switzerland,AI,2005
+0,CHE,Switzerland,AI,2006
+1,CHE,Switzerland,AI,2007
+3,CHE,Switzerland,AI,2008
+1,CHE,Switzerland,AI,2009
+4,CHE,Switzerland,AI,2010
+10,CHE,Switzerland,AI,2011
+13,CHE,Switzerland,AI,2012
+11,CHE,Switzerland,AI,2013
+23,CHE,Switzerland,AI,2014
+26,CHE,Switzerland,AI,2015
+39,CHE,Switzerland,AI,2016
+46,CHE,Switzerland,AI,2017
+71,CHE,Switzerland,AI,2018
+95,CHE,Switzerland,AI,2019
+107,CHE,Switzerland,AI,2020
+85,CHE,Switzerland,AI,2021
+100,CHE,Switzerland,AI,2022
+98,CHE,Switzerland,AI,2023
+106,CHE,Switzerland,AI,2024
+0,FIN,Finland,AI,1995
+2,FIN,Finland,AI,1996
+2,FIN,Finland,AI,1997
+1,FIN,Finland,AI,1998
+4,FIN,Finland,AI,1999
+9,FIN,Finland,AI,2000
+5,FIN,Finland,AI,2001
+5,FIN,Finland,AI,2002
+5,FIN,Finland,AI,2003
+8,FIN,Finland,AI,2004
+10,FIN,Finland,AI,2005
+5,FIN,Finland,AI,2006
+8,FIN,Finland,AI,2007
+3,FIN,Finland,AI,2008
+4,FIN,Finland,AI,2009
+18,FIN,Finland,AI,2010
+7,FIN,Finland,AI,2011
+14,FIN,Finland,AI,2012
+6,FIN,Finland,AI,2013
+15,FIN,Finland,AI,2014
+12,FIN,Finland,AI,2015
+21,FIN,Finland,AI,2016
+31,FIN,Finland,AI,2017
+62,FIN,Finland,AI,2018
+51,FIN,Finland,AI,2019
+47,FIN,Finland,AI,2020
+76,FIN,Finland,AI,2021
+83,FIN,Finland,AI,2022
+88,FIN,Finland,AI,2023
+93,FIN,Finland,AI,2024
+1,RUS,Russia,AI,1995
+0,RUS,Russia,AI,1996
+0,RUS,Russia,AI,1997
+2,RUS,Russia,AI,1998
+4,RUS,Russia,AI,1999
+2,RUS,Russia,AI,2000
+2,RUS,Russia,AI,2001
+1,RUS,Russia,AI,2002
+0,RUS,Russia,AI,2003
+2,RUS,Russia,AI,2004
+3,RUS,Russia,AI,2005
+4,RUS,Russia,AI,2006
+3,RUS,Russia,AI,2007
+2,RUS,Russia,AI,2008
+2,RUS,Russia,AI,2009
+8,RUS,Russia,AI,2010
+6,RUS,Russia,AI,2011
+7,RUS,Russia,AI,2012
+26,RUS,Russia,AI,2013
+15,RUS,Russia,AI,2014
+20,RUS,Russia,AI,2015
+13,RUS,Russia,AI,2016
+16,RUS,Russia,AI,2017
+52,RUS,Russia,AI,2018
+62,RUS,Russia,AI,2019
+57,RUS,Russia,AI,2020
+58,RUS,Russia,AI,2021
+51,RUS,Russia,AI,2022
+58,RUS,Russia,AI,2023
+63,RUS,Russia,AI,2024
+0,ITA,Italy,AI,1995
+0,ITA,Italy,AI,1996
+0,ITA,Italy,AI,1997
+1,ITA,Italy,AI,1998
+1,ITA,Italy,AI,1999
+1,ITA,Italy,AI,2000
+1,ITA,Italy,AI,2001
+3,ITA,Italy,AI,2002
+8,ITA,Italy,AI,2003
+3,ITA,Italy,AI,2004
+10,ITA,Italy,AI,2005
+8,ITA,Italy,AI,2006
+5,ITA,Italy,AI,2007
+2,ITA,Italy,AI,2008
+4,ITA,Italy,AI,2009
+5,ITA,Italy,AI,2010
+8,ITA,Italy,AI,2011
+9,ITA,Italy,AI,2012
+4,ITA,Italy,AI,2013
+14,ITA,Italy,AI,2014
+18,ITA,Italy,AI,2015
+16,ITA,Italy,AI,2016
+26,ITA,Italy,AI,2017
+35,ITA,Italy,AI,2018
+39,ITA,Italy,AI,2019
+58,ITA,Italy,AI,2020
+54,ITA,Italy,AI,2021
+54,ITA,Italy,AI,2022
+57,ITA,Italy,AI,2023
+62,ITA,Italy,AI,2024
+0,ESP,Spain,AI,1995
+0,ESP,Spain,AI,1996
+0,ESP,Spain,AI,1997
+1,ESP,Spain,AI,1998
+0,ESP,Spain,AI,1999
+2,ESP,Spain,AI,2000
+3,ESP,Spain,AI,2001
+2,ESP,Spain,AI,2002
+2,ESP,Spain,AI,2003
+2,ESP,Spain,AI,2004
+1,ESP,Spain,AI,2005
+3,ESP,Spain,AI,2006
+7,ESP,Spain,AI,2007
+12,ESP,Spain,AI,2008
+8,ESP,Spain,AI,2009
+10,ESP,Spain,AI,2010
+9,ESP,Spain,AI,2011
+14,ESP,Spain,AI,2012
+14,ESP,Spain,AI,2013
+12,ESP,Spain,AI,2014
+12,ESP,Spain,AI,2015
+14,ESP,Spain,AI,2016
+23,ESP,Spain,AI,2017
+26,ESP,Spain,AI,2018
+40,ESP,Spain,AI,2019
+48,ESP,Spain,AI,2020
+32,ESP,Spain,AI,2021
+46,ESP,Spain,AI,2022
+48,ESP,Spain,AI,2023
+47,ESP,Spain,AI,2024
+0,TUR,Türkiye,AI,1995
+0,TUR,Türkiye,AI,1996
+0,TUR,Türkiye,AI,1997
+0,TUR,Türkiye,AI,1998
+0,TUR,Türkiye,AI,1999
+1,TUR,Türkiye,AI,2000
+0,TUR,Türkiye,AI,2001
+0,TUR,Türkiye,AI,2002
+0,TUR,Türkiye,AI,2003
+0,TUR,Türkiye,AI,2004
+0,TUR,Türkiye,AI,2005
+0,TUR,Türkiye,AI,2006
+0,TUR,Türkiye,AI,2007
+2,TUR,Türkiye,AI,2008
+3,TUR,Türkiye,AI,2009
+2,TUR,Türkiye,AI,2010
+1,TUR,Türkiye,AI,2011
+6,TUR,Türkiye,AI,2012
+12,TUR,Türkiye,AI,2013
+3,TUR,Türkiye,AI,2014
+2,TUR,Türkiye,AI,2015
+8,TUR,Türkiye,AI,2016
+13,TUR,Türkiye,AI,2017
+25,TUR,Türkiye,AI,2018
+26,TUR,Türkiye,AI,2019
+48,TUR,Türkiye,AI,2020
+45,TUR,Türkiye,AI,2021
+67,TUR,Türkiye,AI,2022
+92,TUR,Türkiye,AI,2023
+76,TUR,Türkiye,AI,2024
+0,HKG,Hong Kong (China),AI,1995
+0,HKG,Hong Kong (China),AI,1996
+0,HKG,Hong Kong (China),AI,1997
+0,HKG,Hong Kong (China),AI,1998
+0,HKG,Hong Kong (China),AI,1999
+0,HKG,Hong Kong (China),AI,2000
+0,HKG,Hong Kong (China),AI,2001
+0,HKG,Hong Kong (China),AI,2002
+0,HKG,Hong Kong (China),AI,2003
+1,HKG,Hong Kong (China),AI,2004
+0,HKG,Hong Kong (China),AI,2005
+1,HKG,Hong Kong (China),AI,2006
+4,HKG,Hong Kong (China),AI,2007
+3,HKG,Hong Kong (China),AI,2008
+2,HKG,Hong Kong (China),AI,2009
+2,HKG,Hong Kong (China),AI,2010
+1,HKG,Hong Kong (China),AI,2011
+1,HKG,Hong Kong (China),AI,2012
+5,HKG,Hong Kong (China),AI,2013
+16,HKG,Hong Kong (China),AI,2014
+21,HKG,Hong Kong (China),AI,2015
+26,HKG,Hong Kong (China),AI,2016
+15,HKG,Hong Kong (China),AI,2017
+29,HKG,Hong Kong (China),AI,2018
+37,HKG,Hong Kong (China),AI,2019
+43,HKG,Hong Kong (China),AI,2020
+35,HKG,Hong Kong (China),AI,2021
+40,HKG,Hong Kong (China),AI,2022
+42,HKG,Hong Kong (China),AI,2023
+44,HKG,Hong Kong (China),AI,2024
+0,IRL,Ireland,AI,1995
+0,IRL,Ireland,AI,1996
+0,IRL,Ireland,AI,1997
+0,IRL,Ireland,AI,1998
+0,IRL,Ireland,AI,1999
+1,IRL,Ireland,AI,2000
+2,IRL,Ireland,AI,2001
+0,IRL,Ireland,AI,2002
+3,IRL,Ireland,AI,2003
+1,IRL,Ireland,AI,2004
+5,IRL,Ireland,AI,2005
+3,IRL,Ireland,AI,2006
+5,IRL,Ireland,AI,2007
+2,IRL,Ireland,AI,2008
+5,IRL,Ireland,AI,2009
+5,IRL,Ireland,AI,2010
+5,IRL,Ireland,AI,2011
+3,IRL,Ireland,AI,2012
+4,IRL,Ireland,AI,2013
+9,IRL,Ireland,AI,2014
+6,IRL,Ireland,AI,2015
+22,IRL,Ireland,AI,2016
+20,IRL,Ireland,AI,2017
+25,IRL,Ireland,AI,2018
+27,IRL,Ireland,AI,2019
+33,IRL,Ireland,AI,2020
+32,IRL,Ireland,AI,2021
+41,IRL,Ireland,AI,2022
+37,IRL,Ireland,AI,2023
+41,IRL,Ireland,AI,2024
+0,BEL,Belgium,AI,1995
+0,BEL,Belgium,AI,1996
+2,BEL,Belgium,AI,1997
+0,BEL,Belgium,AI,1998
+2,BEL,Belgium,AI,1999
+3,BEL,Belgium,AI,2000
+1,BEL,Belgium,AI,2001
+0,BEL,Belgium,AI,2002
+1,BEL,Belgium,AI,2003
+3,BEL,Belgium,AI,2004
+0,BEL,Belgium,AI,2005
+0,BEL,Belgium,AI,2006
+4,BEL,Belgium,AI,2007
+1,BEL,Belgium,AI,2008
+3,BEL,Belgium,AI,2009
+6,BEL,Belgium,AI,2010
+5,BEL,Belgium,AI,2011
+7,BEL,Belgium,AI,2012
+13,BEL,Belgium,AI,2013
+12,BEL,Belgium,AI,2014
+15,BEL,Belgium,AI,2015
+13,BEL,Belgium,AI,2016
+18,BEL,Belgium,AI,2017
+30,BEL,Belgium,AI,2018
+34,BEL,Belgium,AI,2019
+27,BEL,Belgium,AI,2020
+27,BEL,Belgium,AI,2021
+28,BEL,Belgium,AI,2022
+29,BEL,Belgium,AI,2023
+32,BEL,Belgium,AI,2024
+1,AUT,Austria,AI,1995
+1,AUT,Austria,AI,1996
+0,AUT,Austria,AI,1997
+1,AUT,Austria,AI,1998
+1,AUT,Austria,AI,1999
+1,AUT,Austria,AI,2000
+2,AUT,Austria,AI,2001
+2,AUT,Austria,AI,2002
+1,AUT,Austria,AI,2003
+1,AUT,Austria,AI,2004
+1,AUT,Austria,AI,2005
+5,AUT,Austria,AI,2006
+2,AUT,Austria,AI,2007
+3,AUT,Austria,AI,2008
+1,AUT,Austria,AI,2009
+2,AUT,Austria,AI,2010
+3,AUT,Austria,AI,2011
+4,AUT,Austria,AI,2012
+10,AUT,Austria,AI,2013
+4,AUT,Austria,AI,2014
+7,AUT,Austria,AI,2015
+10,AUT,Austria,AI,2016
+13,AUT,Austria,AI,2017
+23,AUT,Austria,AI,2018
+11,AUT,Austria,AI,2019
+26,AUT,Austria,AI,2020
+29,AUT,Austria,AI,2021
+42,AUT,Austria,AI,2022
+37,AUT,Austria,AI,2023
+41,AUT,Austria,AI,2024
+0,SAU,Saudi Arabia,AI,1995
+0,SAU,Saudi Arabia,AI,1996
+0,SAU,Saudi Arabia,AI,1997
+0,SAU,Saudi Arabia,AI,1998
+0,SAU,Saudi Arabia,AI,1999
+0,SAU,Saudi Arabia,AI,2000
+0,SAU,Saudi Arabia,AI,2001
+0,SAU,Saudi Arabia,AI,2002
+0,SAU,Saudi Arabia,AI,2003
+0,SAU,Saudi Arabia,AI,2004
+0,SAU,Saudi Arabia,AI,2005
+0,SAU,Saudi Arabia,AI,2006
+1,SAU,Saudi Arabia,AI,2007
+0,SAU,Saudi Arabia,AI,2008
+0,SAU,Saudi Arabia,AI,2009
+0,SAU,Saudi Arabia,AI,2010
+1,SAU,Saudi Arabia,AI,2011
+0,SAU,Saudi Arabia,AI,2012
+1,SAU,Saudi Arabia,AI,2013
+7,SAU,Saudi Arabia,AI,2014
+6,SAU,Saudi Arabia,AI,2015
+4,SAU,Saudi Arabia,AI,2016
+15,SAU,Saudi Arabia,AI,2017
+20,SAU,Saudi Arabia,AI,2018
+41,SAU,Saudi Arabia,AI,2019
+67,SAU,Saudi Arabia,AI,2020
+26,SAU,Saudi Arabia,AI,2021
+27,SAU,Saudi Arabia,AI,2022
+29,SAU,Saudi Arabia,AI,2023
+31,SAU,Saudi Arabia,AI,2024
+0,DNK,Denmark,AI,1995
+4,DNK,Denmark,AI,1996
+4,DNK,Denmark,AI,1997
+5,DNK,Denmark,AI,1998
+0,DNK,Denmark,AI,1999
+4,DNK,Denmark,AI,2000
+0,DNK,Denmark,AI,2001
+4,DNK,Denmark,AI,2002
+3,DNK,Denmark,AI,2003
+1,DNK,Denmark,AI,2004
+1,DNK,Denmark,AI,2005
+4,DNK,Denmark,AI,2006
+3,DNK,Denmark,AI,2007
+3,DNK,Denmark,AI,2008
+1,DNK,Denmark,AI,2009
+1,DNK,Denmark,AI,2010
+3,DNK,Denmark,AI,2011
+4,DNK,Denmark,AI,2012
+0,DNK,Denmark,AI,2013
+6,DNK,Denmark,AI,2014
+4,DNK,Denmark,AI,2015
+11,DNK,Denmark,AI,2016
+9,DNK,Denmark,AI,2017
+11,DNK,Denmark,AI,2018
+16,DNK,Denmark,AI,2019
+20,DNK,Denmark,AI,2020
+23,DNK,Denmark,AI,2021
+20,DNK,Denmark,AI,2022
+34,DNK,Denmark,AI,2023
+29,DNK,Denmark,AI,2024
+0,BRA,Brazil,AI,1995
+0,BRA,Brazil,AI,1996
+0,BRA,Brazil,AI,1997
+0,BRA,Brazil,AI,1998
+0,BRA,Brazil,AI,1999
+0,BRA,Brazil,AI,2000
+0,BRA,Brazil,AI,2001
+0,BRA,Brazil,AI,2002
+0,BRA,Brazil,AI,2003
+1,BRA,Brazil,AI,2004
+2,BRA,Brazil,AI,2005
+0,BRA,Brazil,AI,2006
+0,BRA,Brazil,AI,2007
+0,BRA,Brazil,AI,2008
+2,BRA,Brazil,AI,2009
+1,BRA,Brazil,AI,2010
+3,BRA,Brazil,AI,2011
+4,BRA,Brazil,AI,2012
+3,BRA,Brazil,AI,2013
+3,BRA,Brazil,AI,2014
+10,BRA,Brazil,AI,2015
+14,BRA,Brazil,AI,2016
+11,BRA,Brazil,AI,2017
+23,BRA,Brazil,AI,2018
+20,BRA,Brazil,AI,2019
+39,BRA,Brazil,AI,2020
+25,BRA,Brazil,AI,2021
+13,BRA,Brazil,AI,2022
+22,BRA,Brazil,AI,2023
+23,BRA,Brazil,AI,2024
+0,NZL,New Zealand,AI,1995
+0,NZL,New Zealand,AI,1996
+0,NZL,New Zealand,AI,1997
+1,NZL,New Zealand,AI,1998
+1,NZL,New Zealand,AI,1999
+2,NZL,New Zealand,AI,2000
+2,NZL,New Zealand,AI,2001
+2,NZL,New Zealand,AI,2002
+2,NZL,New Zealand,AI,2003
+1,NZL,New Zealand,AI,2004
+1,NZL,New Zealand,AI,2005
+2,NZL,New Zealand,AI,2006
+1,NZL,New Zealand,AI,2007
+3,NZL,New Zealand,AI,2008
+1,NZL,New Zealand,AI,2009
+4,NZL,New Zealand,AI,2010
+0,NZL,New Zealand,AI,2011
+0,NZL,New Zealand,AI,2012
+3,NZL,New Zealand,AI,2013
+0,NZL,New Zealand,AI,2014
+1,NZL,New Zealand,AI,2015
+3,NZL,New Zealand,AI,2016
+4,NZL,New Zealand,AI,2017
+5,NZL,New Zealand,AI,2018
+11,NZL,New Zealand,AI,2019
+37,NZL,New Zealand,AI,2020
+22,NZL,New Zealand,AI,2021
+15,NZL,New Zealand,AI,2022
+20,NZL,New Zealand,AI,2023
+22,NZL,New Zealand,AI,2024
+0,POL,Poland,AI,1995
+0,POL,Poland,AI,1996
+0,POL,Poland,AI,1997
+0,POL,Poland,AI,1998
+0,POL,Poland,AI,1999
+1,POL,Poland,AI,2000
+0,POL,Poland,AI,2001
+1,POL,Poland,AI,2002
+0,POL,Poland,AI,2003
+1,POL,Poland,AI,2004
+1,POL,Poland,AI,2005
+2,POL,Poland,AI,2006
+1,POL,Poland,AI,2007
+1,POL,Poland,AI,2008
+1,POL,Poland,AI,2009
+1,POL,Poland,AI,2010
+0,POL,Poland,AI,2011
+1,POL,Poland,AI,2012
+3,POL,Poland,AI,2013
+1,POL,Poland,AI,2014
+5,POL,Poland,AI,2015
+5,POL,Poland,AI,2016
+6,POL,Poland,AI,2017
+5,POL,Poland,AI,2018
+11,POL,Poland,AI,2019
+18,POL,Poland,AI,2020
+28,POL,Poland,AI,2021
+17,POL,Poland,AI,2022
+23,POL,Poland,AI,2023
+26,POL,Poland,AI,2024
+0,NOR,Norway,AI,1995
+0,NOR,Norway,AI,1996
+1,NOR,Norway,AI,1997
+0,NOR,Norway,AI,1998
+0,NOR,Norway,AI,1999
+0,NOR,Norway,AI,2000
+0,NOR,Norway,AI,2001
+1,NOR,Norway,AI,2002
+0,NOR,Norway,AI,2003
+1,NOR,Norway,AI,2004
+1,NOR,Norway,AI,2005
+2,NOR,Norway,AI,2006
+5,NOR,Norway,AI,2007
+4,NOR,Norway,AI,2008
+1,NOR,Norway,AI,2009
+0,NOR,Norway,AI,2010
+1,NOR,Norway,AI,2011
+3,NOR,Norway,AI,2012
+1,NOR,Norway,AI,2013
+3,NOR,Norway,AI,2014
+6,NOR,Norway,AI,2015
+9,NOR,Norway,AI,2016
+12,NOR,Norway,AI,2017
+8,NOR,Norway,AI,2018
+19,NOR,Norway,AI,2019
+13,NOR,Norway,AI,2020
+12,NOR,Norway,AI,2021
+18,NOR,Norway,AI,2022
+16,NOR,Norway,AI,2023
+17,NOR,Norway,AI,2024
+0,HUN,Hungary,AI,1995
+0,HUN,Hungary,AI,1996
+1,HUN,Hungary,AI,1997
+0,HUN,Hungary,AI,1998
+0,HUN,Hungary,AI,1999
+0,HUN,Hungary,AI,2000
+0,HUN,Hungary,AI,2001
+0,HUN,Hungary,AI,2002
+1,HUN,Hungary,AI,2003
+0,HUN,Hungary,AI,2004
+2,HUN,Hungary,AI,2005
+1,HUN,Hungary,AI,2006
+1,HUN,Hungary,AI,2007
+1,HUN,Hungary,AI,2008
+0,HUN,Hungary,AI,2009
+1,HUN,Hungary,AI,2010
+2,HUN,Hungary,AI,2011
+2,HUN,Hungary,AI,2012
+3,HUN,Hungary,AI,2013
+2,HUN,Hungary,AI,2014
+0,HUN,Hungary,AI,2015
+6,HUN,Hungary,AI,2016
+14,HUN,Hungary,AI,2017
+11,HUN,Hungary,AI,2018
+7,HUN,Hungary,AI,2019
+18,HUN,Hungary,AI,2020
+11,HUN,Hungary,AI,2021
+26,HUN,Hungary,AI,2022
+20,HUN,Hungary,AI,2023
+21,HUN,Hungary,AI,2024
+0,TWN,Chinese Taipei,AI,1995
+0,TWN,Chinese Taipei,AI,1996
+0,TWN,Chinese Taipei,AI,1997
+0,TWN,Chinese Taipei,AI,1998
+0,TWN,Chinese Taipei,AI,1999
+0,TWN,Chinese Taipei,AI,2000
+0,TWN,Chinese Taipei,AI,2001
+0,TWN,Chinese Taipei,AI,2002
+0,TWN,Chinese Taipei,AI,2003
+0,TWN,Chinese Taipei,AI,2004
+0,TWN,Chinese Taipei,AI,2005
+0,TWN,Chinese Taipei,AI,2006
+0,TWN,Chinese Taipei,AI,2007
+1,TWN,Chinese Taipei,AI,2008
+0,TWN,Chinese Taipei,AI,2009
+0,TWN,Chinese Taipei,AI,2010
+0,TWN,Chinese Taipei,AI,2011
+1,TWN,Chinese Taipei,AI,2012
+2,TWN,Chinese Taipei,AI,2013
+3,TWN,Chinese Taipei,AI,2014
+7,TWN,Chinese Taipei,AI,2015
+9,TWN,Chinese Taipei,AI,2016
+10,TWN,Chinese Taipei,AI,2017
+22,TWN,Chinese Taipei,AI,2018
+14,TWN,Chinese Taipei,AI,2019
+16,TWN,Chinese Taipei,AI,2020
+15,TWN,Chinese Taipei,AI,2021
+13,TWN,Chinese Taipei,AI,2022
+18,TWN,Chinese Taipei,AI,2023
+17,TWN,Chinese Taipei,AI,2024
+0,MYS,Malaysia,AI,1995
+0,MYS,Malaysia,AI,1996
+0,MYS,Malaysia,AI,1997
+0,MYS,Malaysia,AI,1998
+0,MYS,Malaysia,AI,1999
+0,MYS,Malaysia,AI,2000
+0,MYS,Malaysia,AI,2001
+0,MYS,Malaysia,AI,2002
+1,MYS,Malaysia,AI,2003
+1,MYS,Malaysia,AI,2004
+0,MYS,Malaysia,AI,2005
+0,MYS,Malaysia,AI,2006
+5,MYS,Malaysia,AI,2007
+0,MYS,Malaysia,AI,2008
+7,MYS,Malaysia,AI,2009
+10,MYS,Malaysia,AI,2010
+3,MYS,Malaysia,AI,2011
+9,MYS,Malaysia,AI,2012
+11,MYS,Malaysia,AI,2013
+7,MYS,Malaysia,AI,2014
+2,MYS,Malaysia,AI,2015
+2,MYS,Malaysia,AI,2016
+4,MYS,Malaysia,AI,2017
+7,MYS,Malaysia,AI,2018
+12,MYS,Malaysia,AI,2019
+17,MYS,Malaysia,AI,2020
+13,MYS,Malaysia,AI,2021
+6,MYS,Malaysia,AI,2022
+10,MYS,Malaysia,AI,2023
+11,MYS,Malaysia,AI,2024
+0,PRT,Portugal,AI,1995
+0,PRT,Portugal,AI,1996
+0,PRT,Portugal,AI,1997
+0,PRT,Portugal,AI,1998
+0,PRT,Portugal,AI,1999
+0,PRT,Portugal,AI,2000
+0,PRT,Portugal,AI,2001
+0,PRT,Portugal,AI,2002
+0,PRT,Portugal,AI,2003
+0,PRT,Portugal,AI,2004
+0,PRT,Portugal,AI,2005
+0,PRT,Portugal,AI,2006
+0,PRT,Portugal,AI,2007
+0,PRT,Portugal,AI,2008
+0,PRT,Portugal,AI,2009
+0,PRT,Portugal,AI,2010
+0,PRT,Portugal,AI,2011
+1,PRT,Portugal,AI,2012
+1,PRT,Portugal,AI,2013
+2,PRT,Portugal,AI,2014
+4,PRT,Portugal,AI,2015
+5,PRT,Portugal,AI,2016
+4,PRT,Portugal,AI,2017
+6,PRT,Portugal,AI,2018
+8,PRT,Portugal,AI,2019
+21,PRT,Portugal,AI,2020
+12,PRT,Portugal,AI,2021
+12,PRT,Portugal,AI,2022
+13,PRT,Portugal,AI,2023
+14,PRT,Portugal,AI,2024
+0,ARE,United Arab Emirates,AI,1995
+0,ARE,United Arab Emirates,AI,1996
+0,ARE,United Arab Emirates,AI,1997
+0,ARE,United Arab Emirates,AI,1998
+0,ARE,United Arab Emirates,AI,1999
+0,ARE,United Arab Emirates,AI,2000
+0,ARE,United Arab Emirates,AI,2001
+0,ARE,United Arab Emirates,AI,2002
+0,ARE,United Arab Emirates,AI,2003
+0,ARE,United Arab Emirates,AI,2004
+0,ARE,United Arab Emirates,AI,2005
+0,ARE,United Arab Emirates,AI,2006
+1,ARE,United Arab Emirates,AI,2007
+0,ARE,United Arab Emirates,AI,2008
+0,ARE,United Arab Emirates,AI,2009
+0,ARE,United Arab Emirates,AI,2010
+0,ARE,United Arab Emirates,AI,2011
+0,ARE,United Arab Emirates,AI,2012
+0,ARE,United Arab Emirates,AI,2013
+3,ARE,United Arab Emirates,AI,2014
+3,ARE,United Arab Emirates,AI,2015
+0,ARE,United Arab Emirates,AI,2016
+3,ARE,United Arab Emirates,AI,2017
+6,ARE,United Arab Emirates,AI,2018
+9,ARE,United Arab Emirates,AI,2019
+10,ARE,United Arab Emirates,AI,2020
+7,ARE,United Arab Emirates,AI,2021
+16,ARE,United Arab Emirates,AI,2022
+18,ARE,United Arab Emirates,AI,2023
+15,ARE,United Arab Emirates,AI,2024
+0,IRN,Iran,AI,1995
+0,IRN,Iran,AI,1996
+0,IRN,Iran,AI,1997
+0,IRN,Iran,AI,1998
+0,IRN,Iran,AI,1999
+0,IRN,Iran,AI,2000
+0,IRN,Iran,AI,2001
+0,IRN,Iran,AI,2002
+0,IRN,Iran,AI,2003
+0,IRN,Iran,AI,2004
+0,IRN,Iran,AI,2005
+0,IRN,Iran,AI,2006
+0,IRN,Iran,AI,2007
+0,IRN,Iran,AI,2008
+0,IRN,Iran,AI,2009
+0,IRN,Iran,AI,2010
+0,IRN,Iran,AI,2011
+0,IRN,Iran,AI,2012
+0,IRN,Iran,AI,2013
+0,IRN,Iran,AI,2014
+1,IRN,Iran,AI,2015
+1,IRN,Iran,AI,2016
+1,IRN,Iran,AI,2017
+1,IRN,Iran,AI,2018
+5,IRN,Iran,AI,2019
+13,IRN,Iran,AI,2020
+23,IRN,Iran,AI,2021
+7,IRN,Iran,AI,2022
+15,IRN,Iran,AI,2023
+17,IRN,Iran,AI,2024
+0,ROU,Romania,AI,1995
+0,ROU,Romania,AI,1996
+0,ROU,Romania,AI,1997
+0,ROU,Romania,AI,1998
+0,ROU,Romania,AI,1999
+0,ROU,Romania,AI,2000
+0,ROU,Romania,AI,2001
+0,ROU,Romania,AI,2002
+0,ROU,Romania,AI,2003
+0,ROU,Romania,AI,2004
+0,ROU,Romania,AI,2005
+0,ROU,Romania,AI,2006
+1,ROU,Romania,AI,2007
+2,ROU,Romania,AI,2008
+2,ROU,Romania,AI,2009
+0,ROU,Romania,AI,2010
+0,ROU,Romania,AI,2011
+0,ROU,Romania,AI,2012
+0,ROU,Romania,AI,2013
+2,ROU,Romania,AI,2014
+5,ROU,Romania,AI,2015
+2,ROU,Romania,AI,2016
+0,ROU,Romania,AI,2017
+6,ROU,Romania,AI,2018
+8,ROU,Romania,AI,2019
+7,ROU,Romania,AI,2020
+8,ROU,Romania,AI,2021
+7,ROU,Romania,AI,2022
+9,ROU,Romania,AI,2023
+9,ROU,Romania,AI,2024
+0,GRC,Greece,AI,1995
+0,UKR,Ukraine,AI,1995
+0,GRC,Greece,AI,1996
+0,UKR,Ukraine,AI,1996
+0,UKR,Ukraine,AI,1997
+0,GRC,Greece,AI,1997
+0,UKR,Ukraine,AI,1998
+0,GRC,Greece,AI,1998
+0,GRC,Greece,AI,1999
+0,UKR,Ukraine,AI,1999
+0,UKR,Ukraine,AI,2000
+0,GRC,Greece,AI,2000
+0,UKR,Ukraine,AI,2001
+0,GRC,Greece,AI,2001
+0,GRC,Greece,AI,2002
+0,UKR,Ukraine,AI,2002
+0,GRC,Greece,AI,2003
+1,UKR,Ukraine,AI,2003
+0,UKR,Ukraine,AI,2004
+0,GRC,Greece,AI,2004
+1,GRC,Greece,AI,2005
+0,UKR,Ukraine,AI,2005
+0,UKR,Ukraine,AI,2006
+0,GRC,Greece,AI,2006
+1,UKR,Ukraine,AI,2007
+0,GRC,Greece,AI,2007
+0,UKR,Ukraine,AI,2008
+0,GRC,Greece,AI,2008
+0,UKR,Ukraine,AI,2009
+1,GRC,Greece,AI,2009
+0,UKR,Ukraine,AI,2010
+0,GRC,Greece,AI,2010
+0,GRC,Greece,AI,2011
+0,UKR,Ukraine,AI,2011
+3,UKR,Ukraine,AI,2012
+3,GRC,Greece,AI,2012
+1,UKR,Ukraine,AI,2013
+1,GRC,Greece,AI,2013
+1,GRC,Greece,AI,2014
+0,UKR,Ukraine,AI,2014
+1,UKR,Ukraine,AI,2015
+1,GRC,Greece,AI,2015
+1,GRC,Greece,AI,2016
+3,UKR,Ukraine,AI,2016
+1,UKR,Ukraine,AI,2017
+1,GRC,Greece,AI,2017
+3,UKR,Ukraine,AI,2018
+2,GRC,Greece,AI,2018
+3,GRC,Greece,AI,2019
+10,UKR,Ukraine,AI,2019
+7,GRC,Greece,AI,2020
+11,UKR,Ukraine,AI,2020
+5,UKR,Ukraine,AI,2021
+12,GRC,Greece,AI,2021
+6,GRC,Greece,AI,2022
+8,UKR,Ukraine,AI,2022
+7,UKR,Ukraine,AI,2023
+12,GRC,Greece,AI,2023
+11,GRC,Greece,AI,2024
+8,UKR,Ukraine,AI,2024
+0,MEX,Mexico,AI,1995
+0,MEX,Mexico,AI,1996
+0,MEX,Mexico,AI,1997
+0,MEX,Mexico,AI,1998
+0,MEX,Mexico,AI,1999
+1,MEX,Mexico,AI,2000
+0,MEX,Mexico,AI,2001
+0,MEX,Mexico,AI,2002
+0,MEX,Mexico,AI,2003
+0,MEX,Mexico,AI,2004
+0,MEX,Mexico,AI,2005
+2,MEX,Mexico,AI,2006
+0,MEX,Mexico,AI,2007
+0,MEX,Mexico,AI,2008
+0,MEX,Mexico,AI,2009
+1,MEX,Mexico,AI,2010
+1,MEX,Mexico,AI,2011
+0,MEX,Mexico,AI,2012
+1,MEX,Mexico,AI,2013
+2,MEX,Mexico,AI,2014
+6,MEX,Mexico,AI,2015
+6,MEX,Mexico,AI,2016
+8,MEX,Mexico,AI,2017
+2,MEX,Mexico,AI,2018
+4,MEX,Mexico,AI,2019
+2,MEX,Mexico,AI,2020
+8,MEX,Mexico,AI,2021
+3,MEX,Mexico,AI,2022
+5,MEX,Mexico,AI,2023
+6,MEX,Mexico,AI,2024
+0,ZAF,South Africa,AI,1995
+0,ZAF,South Africa,AI,1996
+0,ZAF,South Africa,AI,1997
+0,ZAF,South Africa,AI,1998
+0,ZAF,South Africa,AI,1999
+0,ZAF,South Africa,AI,2000
+2,ZAF,South Africa,AI,2001
+0,ZAF,South Africa,AI,2002
+0,ZAF,South Africa,AI,2003
+2,ZAF,South Africa,AI,2004
+1,ZAF,South Africa,AI,2005
+2,ZAF,South Africa,AI,2006
+1,ZAF,South Africa,AI,2007
+1,ZAF,South Africa,AI,2008
+4,ZAF,South Africa,AI,2009
+0,ZAF,South Africa,AI,2010
+1,ZAF,South Africa,AI,2011
+0,ZAF,South Africa,AI,2012
+1,ZAF,South Africa,AI,2013
+1,ZAF,South Africa,AI,2014
+0,ZAF,South Africa,AI,2015
+2,ZAF,South Africa,AI,2016
+5,ZAF,South Africa,AI,2017
+8,ZAF,South Africa,AI,2018
+2,ZAF,South Africa,AI,2019
+8,ZAF,South Africa,AI,2020
+1,ZAF,South Africa,AI,2021
+5,ZAF,South Africa,AI,2022
+4,ZAF,South Africa,AI,2023
+3,ZAF,South Africa,AI,2024
+0,CHL,Chile,AI,1995
+0,CZE,Czech Republic,AI,1995
+0,CZE,Czech Republic,AI,1996
+0,CHL,Chile,AI,1996
+0,CZE,Czech Republic,AI,1997
+0,CHL,Chile,AI,1997
+0,CHL,Chile,AI,1998
+0,CZE,Czech Republic,AI,1998
+0,CHL,Chile,AI,1999
+0,CZE,Czech Republic,AI,1999
+0,CZE,Czech Republic,AI,2000
+0,CHL,Chile,AI,2000
+0,CZE,Czech Republic,AI,2001
+0,CHL,Chile,AI,2001
+0,CZE,Czech Republic,AI,2002
+0,CHL,Chile,AI,2002
+0,CHL,Chile,AI,2003
+0,CZE,Czech Republic,AI,2003
+0,CHL,Chile,AI,2004
+1,CZE,Czech Republic,AI,2004
+0,CHL,Chile,AI,2005
+0,CZE,Czech Republic,AI,2005
+1,CZE,Czech Republic,AI,2006
+0,CHL,Chile,AI,2006
+0,CZE,Czech Republic,AI,2007
+0,CHL,Chile,AI,2007
+1,CZE,Czech Republic,AI,2008
+1,CHL,Chile,AI,2008
+0,CHL,Chile,AI,2009
+0,CZE,Czech Republic,AI,2009
+1,CZE,Czech Republic,AI,2010
+0,CHL,Chile,AI,2010
+0,CZE,Czech Republic,AI,2011
+0,CHL,Chile,AI,2011
+0,CZE,Czech Republic,AI,2012
+0,CHL,Chile,AI,2012
+2,CZE,Czech Republic,AI,2013
+0,CHL,Chile,AI,2013
+1,CHL,Chile,AI,2014
+3,CZE,Czech Republic,AI,2014
+3,CHL,Chile,AI,2015
+1,CZE,Czech Republic,AI,2015
+0,CHL,Chile,AI,2016
+1,CZE,Czech Republic,AI,2016
+3,CZE,Czech Republic,AI,2017
+0,CHL,Chile,AI,2017
+4,CZE,Czech Republic,AI,2018
+2,CHL,Chile,AI,2018
+5,CZE,Czech Republic,AI,2019
+4,CHL,Chile,AI,2019
+7,CHL,Chile,AI,2020
+1,CZE,Czech Republic,AI,2020
+7,CHL,Chile,AI,2021
+5,CZE,Czech Republic,AI,2021
+1,CZE,Czech Republic,AI,2022
+4,CHL,Chile,AI,2022
+6,CZE,Czech Republic,AI,2023
+5,CHL,Chile,AI,2023
+6,CHL,Chile,AI,2024
+4,CZE,Czech Republic,AI,2024
+0,COL,Colombia,AI,1995
+0,COL,Colombia,AI,1996
+0,COL,Colombia,AI,1997
+0,COL,Colombia,AI,1998
+0,COL,Colombia,AI,1999
+0,COL,Colombia,AI,2000
+0,COL,Colombia,AI,2001
+0,COL,Colombia,AI,2002
+0,COL,Colombia,AI,2003
+0,COL,Colombia,AI,2004
+0,COL,Colombia,AI,2005
+0,COL,Colombia,AI,2006
+0,COL,Colombia,AI,2007
+0,COL,Colombia,AI,2008
+0,COL,Colombia,AI,2009
+0,COL,Colombia,AI,2010
+0,COL,Colombia,AI,2011
+0,COL,Colombia,AI,2012
+1,COL,Colombia,AI,2013
+1,COL,Colombia,AI,2014
+0,COL,Colombia,AI,2015
+2,COL,Colombia,AI,2016
+3,COL,Colombia,AI,2017
+3,COL,Colombia,AI,2018
+3,COL,Colombia,AI,2019
+0,COL,Colombia,AI,2020
+5,COL,Colombia,AI,2021
+8,COL,Colombia,AI,2022
+6,COL,Colombia,AI,2023
+7,COL,Colombia,AI,2024
+0,THA,Thailand,AI,1995
+0,THA,Thailand,AI,1996
+0,THA,Thailand,AI,1997
+0,THA,Thailand,AI,1998
+0,THA,Thailand,AI,1999
+0,THA,Thailand,AI,2000
+0,THA,Thailand,AI,2001
+0,THA,Thailand,AI,2002
+0,THA,Thailand,AI,2003
+0,THA,Thailand,AI,2004
+0,THA,Thailand,AI,2005
+0,THA,Thailand,AI,2006
+0,THA,Thailand,AI,2007
+0,THA,Thailand,AI,2008
+0,THA,Thailand,AI,2009
+0,THA,Thailand,AI,2010
+0,THA,Thailand,AI,2011
+0,THA,Thailand,AI,2012
+1,THA,Thailand,AI,2013
+1,THA,Thailand,AI,2014
+0,THA,Thailand,AI,2015
+0,THA,Thailand,AI,2016
+1,THA,Thailand,AI,2017
+1,THA,Thailand,AI,2018
+3,THA,Thailand,AI,2019
+2,THA,Thailand,AI,2020
+8,THA,Thailand,AI,2021
+6,THA,Thailand,AI,2022
+7,THA,Thailand,AI,2023
+8,THA,Thailand,AI,2024
+0,LTU,Lithuania,AI,1995
+0,LTU,Lithuania,AI,1996
+0,LTU,Lithuania,AI,1997
+0,LTU,Lithuania,AI,1998
+0,LTU,Lithuania,AI,1999
+0,LTU,Lithuania,AI,2000
+0,LTU,Lithuania,AI,2001
+0,LTU,Lithuania,AI,2002
+0,LTU,Lithuania,AI,2003
+0,LTU,Lithuania,AI,2004
+0,LTU,Lithuania,AI,2005
+0,LTU,Lithuania,AI,2006
+0,LTU,Lithuania,AI,2007
+0,LTU,Lithuania,AI,2008
+0,LTU,Lithuania,AI,2009
+0,LTU,Lithuania,AI,2010
+0,LTU,Lithuania,AI,2011
+0,LTU,Lithuania,AI,2012
+0,LTU,Lithuania,AI,2013
+1,LTU,Lithuania,AI,2014
+0,LTU,Lithuania,AI,2015
+0,LTU,Lithuania,AI,2016
+2,LTU,Lithuania,AI,2017
+1,LTU,Lithuania,AI,2018
+2,LTU,Lithuania,AI,2019
+3,LTU,Lithuania,AI,2020
+5,LTU,Lithuania,AI,2021
+2,LTU,Lithuania,AI,2022
+3,LTU,Lithuania,AI,2023
+4,LTU,Lithuania,AI,2024
+0,MAR,Morocco,AI,1995
+0,LUX,Luxembourg,AI,1995
+0,EST,Estonia,AI,1995
+0,EST,Estonia,AI,1996
+0,LUX,Luxembourg,AI,1996
+0,MAR,Morocco,AI,1996
+0,EST,Estonia,AI,1997
+1,LUX,Luxembourg,AI,1997
+0,MAR,Morocco,AI,1997
+0,EST,Estonia,AI,1998
+0,LUX,Luxembourg,AI,1998
+0,MAR,Morocco,AI,1998
+0,EST,Estonia,AI,1999
+0,LUX,Luxembourg,AI,1999
+0,MAR,Morocco,AI,1999
+0,MAR,Morocco,AI,2000
+0,EST,Estonia,AI,2000
+0,LUX,Luxembourg,AI,2000
+0,MAR,Morocco,AI,2001
+0,LUX,Luxembourg,AI,2001
+0,EST,Estonia,AI,2001
+0,EST,Estonia,AI,2002
+0,MAR,Morocco,AI,2002
+0,LUX,Luxembourg,AI,2002
+0,LUX,Luxembourg,AI,2003
+0,MAR,Morocco,AI,2003
+0,EST,Estonia,AI,2003
+0,EST,Estonia,AI,2004
+0,MAR,Morocco,AI,2004
+0,LUX,Luxembourg,AI,2004
+0,EST,Estonia,AI,2005
+0,MAR,Morocco,AI,2005
+0,LUX,Luxembourg,AI,2005
+1,LUX,Luxembourg,AI,2006
+0,MAR,Morocco,AI,2006
+0,EST,Estonia,AI,2006
+1,EST,Estonia,AI,2007
+0,MAR,Morocco,AI,2007
+0,LUX,Luxembourg,AI,2007
+0,MAR,Morocco,AI,2008
+0,EST,Estonia,AI,2008
+0,LUX,Luxembourg,AI,2008
+0,EST,Estonia,AI,2009
+0,MAR,Morocco,AI,2009
+0,LUX,Luxembourg,AI,2009
+0,LUX,Luxembourg,AI,2010
+0,EST,Estonia,AI,2010
+0,MAR,Morocco,AI,2010
+0,MAR,Morocco,AI,2011
+0,LUX,Luxembourg,AI,2011
+0,EST,Estonia,AI,2011
+0,MAR,Morocco,AI,2012
+1,EST,Estonia,AI,2012
+0,LUX,Luxembourg,AI,2012
+0,EST,Estonia,AI,2013
+0,LUX,Luxembourg,AI,2013
+1,MAR,Morocco,AI,2013
+0,EST,Estonia,AI,2014
+1,LUX,Luxembourg,AI,2014
+0,MAR,Morocco,AI,2014
+0,EST,Estonia,AI,2015
+0,LUX,Luxembourg,AI,2015
+0,MAR,Morocco,AI,2015
+2,EST,Estonia,AI,2016
+1,LUX,Luxembourg,AI,2016
+1,MAR,Morocco,AI,2016
+0,MAR,Morocco,AI,2017
+0,LUX,Luxembourg,AI,2017
+3,EST,Estonia,AI,2017
+5,EST,Estonia,AI,2018
+0,MAR,Morocco,AI,2018
+1,LUX,Luxembourg,AI,2018
+0,MAR,Morocco,AI,2019
+0,LUX,Luxembourg,AI,2019
+5,EST,Estonia,AI,2019
+6,LUX,Luxembourg,AI,2020
+6,MAR,Morocco,AI,2020
+1,EST,Estonia,AI,2020
+1,EST,Estonia,AI,2021
+2,LUX,Luxembourg,AI,2021
+4,MAR,Morocco,AI,2021
+3,LUX,Luxembourg,AI,2022
+1,EST,Estonia,AI,2022
+3,MAR,Morocco,AI,2022
+3,MAR,Morocco,AI,2023
+1,EST,Estonia,AI,2023
+3,LUX,Luxembourg,AI,2023
+3,LUX,Luxembourg,AI,2024
+1,EST,Estonia,AI,2024
+4,MAR,Morocco,AI,2024
+0,HRV,Croatia,AI,1995
+0,MLT,Malta,AI,1995
+0,VNM,Viet Nam,AI,1995
+0,MLT,Malta,AI,1996
+0,VNM,Viet Nam,AI,1996
+0,HRV,Croatia,AI,1996
+0,VNM,Viet Nam,AI,1997
+0,MLT,Malta,AI,1997
+0,HRV,Croatia,AI,1997
+0,VNM,Viet Nam,AI,1998
+0,MLT,Malta,AI,1998
+0,HRV,Croatia,AI,1998
+0,MLT,Malta,AI,1999
+0,HRV,Croatia,AI,1999
+0,VNM,Viet Nam,AI,1999
+0,HRV,Croatia,AI,2000
+0,MLT,Malta,AI,2000
+0,VNM,Viet Nam,AI,2000
+0,HRV,Croatia,AI,2001
+0,VNM,Viet Nam,AI,2001
+0,MLT,Malta,AI,2001
+0,HRV,Croatia,AI,2002
+0,MLT,Malta,AI,2002
+0,VNM,Viet Nam,AI,2002
+0,HRV,Croatia,AI,2003
+0,MLT,Malta,AI,2003
+0,VNM,Viet Nam,AI,2003
+0,VNM,Viet Nam,AI,2004
+0,MLT,Malta,AI,2004
+0,HRV,Croatia,AI,2004
+0,HRV,Croatia,AI,2005
+0,VNM,Viet Nam,AI,2005
+0,MLT,Malta,AI,2005
+0,VNM,Viet Nam,AI,2006
+0,HRV,Croatia,AI,2006
+0,MLT,Malta,AI,2006
+0,VNM,Viet Nam,AI,2007
+3,HRV,Croatia,AI,2007
+0,MLT,Malta,AI,2007
+1,HRV,Croatia,AI,2008
+0,VNM,Viet Nam,AI,2008
+0,MLT,Malta,AI,2008
+1,HRV,Croatia,AI,2009
+0,MLT,Malta,AI,2009
+0,VNM,Viet Nam,AI,2009
+0,MLT,Malta,AI,2010
+0,HRV,Croatia,AI,2010
+0,VNM,Viet Nam,AI,2010
+0,VNM,Viet Nam,AI,2011
+0,MLT,Malta,AI,2011
+1,HRV,Croatia,AI,2011
+0,MLT,Malta,AI,2012
+0,HRV,Croatia,AI,2012
+0,VNM,Viet Nam,AI,2012
+0,HRV,Croatia,AI,2013
+0,VNM,Viet Nam,AI,2013
+0,MLT,Malta,AI,2013
+0,MLT,Malta,AI,2014
+2,VNM,Viet Nam,AI,2014
+0,HRV,Croatia,AI,2014
+0,HRV,Croatia,AI,2015
+0,MLT,Malta,AI,2015
+0,VNM,Viet Nam,AI,2015
+2,HRV,Croatia,AI,2016
+0,MLT,Malta,AI,2016
+0,VNM,Viet Nam,AI,2016
+0,HRV,Croatia,AI,2017
+0,VNM,Viet Nam,AI,2017
+0,MLT,Malta,AI,2017
+0,MLT,Malta,AI,2018
+1,VNM,Viet Nam,AI,2018
+0,HRV,Croatia,AI,2018
+2,VNM,Viet Nam,AI,2019
+6,MLT,Malta,AI,2019
+0,HRV,Croatia,AI,2019
+13,MLT,Malta,AI,2020
+1,VNM,Viet Nam,AI,2020
+2,HRV,Croatia,AI,2020
+3,VNM,Viet Nam,AI,2021
+2,HRV,Croatia,AI,2021
+1,MLT,Malta,AI,2021
+0,MLT,Malta,AI,2022
+4,VNM,Viet Nam,AI,2022
+4,HRV,Croatia,AI,2022
+4,VNM,Viet Nam,AI,2023
+1,MLT,Malta,AI,2023
+2,HRV,Croatia,AI,2023
+3,HRV,Croatia,AI,2024
+4,VNM,Viet Nam,AI,2024
+0,MLT,Malta,AI,2024
+0,PHL,Philippines,AI,1995
+0,PHL,Philippines,AI,1996
+0,PHL,Philippines,AI,1997
+0,PHL,Philippines,AI,1998
+0,PHL,Philippines,AI,1999
+1,PHL,Philippines,AI,2000
+0,PHL,Philippines,AI,2001
+0,PHL,Philippines,AI,2002
+0,PHL,Philippines,AI,2003
+1,PHL,Philippines,AI,2004
+0,PHL,Philippines,AI,2005
+0,PHL,Philippines,AI,2006
+0,PHL,Philippines,AI,2007
+0,PHL,Philippines,AI,2008
+0,PHL,Philippines,AI,2009
+0,PHL,Philippines,AI,2010
+1,PHL,Philippines,AI,2011
+0,PHL,Philippines,AI,2012
+0,PHL,Philippines,AI,2013
+0,PHL,Philippines,AI,2014
+0,PHL,Philippines,AI,2015
+1,PHL,Philippines,AI,2016
+0,PHL,Philippines,AI,2017
+0,PHL,Philippines,AI,2018
+1,PHL,Philippines,AI,2019
+3,PHL,Philippines,AI,2020
+3,PHL,Philippines,AI,2021
+1,PHL,Philippines,AI,2022
+3,PHL,Philippines,AI,2023
+3,PHL,Philippines,AI,2024
+0,EGY,Egypt,AI,1995
+0,EGY,Egypt,AI,1996
+0,EGY,Egypt,AI,1997
+0,EGY,Egypt,AI,1998
+0,EGY,Egypt,AI,1999
+0,EGY,Egypt,AI,2000
+0,EGY,Egypt,AI,2001
+0,EGY,Egypt,AI,2002
+0,EGY,Egypt,AI,2003
+0,EGY,Egypt,AI,2004
+1,EGY,Egypt,AI,2005
+0,EGY,Egypt,AI,2006
+1,EGY,Egypt,AI,2007
+0,EGY,Egypt,AI,2008
+0,EGY,Egypt,AI,2009
+0,EGY,Egypt,AI,2010
+1,EGY,Egypt,AI,2011
+0,EGY,Egypt,AI,2012
+1,EGY,Egypt,AI,2013
+0,EGY,Egypt,AI,2014
+0,EGY,Egypt,AI,2015
+0,EGY,Egypt,AI,2016
+0,EGY,Egypt,AI,2017
+1,EGY,Egypt,AI,2018
+0,EGY,Egypt,AI,2019
+1,EGY,Egypt,AI,2020
+1,EGY,Egypt,AI,2021
+3,EGY,Egypt,AI,2022
+4,EGY,Egypt,AI,2023
+3,EGY,Egypt,AI,2024
+0,SRB,Serbia,AI,1995
+0,SRB,Serbia,AI,1996
+0,SRB,Serbia,AI,1997
+0,SRB,Serbia,AI,1998
+0,SRB,Serbia,AI,1999
+0,SRB,Serbia,AI,2000
+0,SRB,Serbia,AI,2001
+0,SRB,Serbia,AI,2002
+0,SRB,Serbia,AI,2003
+0,SRB,Serbia,AI,2004
+0,SRB,Serbia,AI,2005
+0,SRB,Serbia,AI,2006
+0,SRB,Serbia,AI,2007
+0,SRB,Serbia,AI,2008
+0,SRB,Serbia,AI,2009
+0,SRB,Serbia,AI,2010
+0,SRB,Serbia,AI,2011
+0,SRB,Serbia,AI,2012
+1,SRB,Serbia,AI,2013
+1,SRB,Serbia,AI,2014
+0,SRB,Serbia,AI,2015
+1,SRB,Serbia,AI,2016
+1,SRB,Serbia,AI,2017
+0,SRB,Serbia,AI,2018
+2,SRB,Serbia,AI,2019
+2,SRB,Serbia,AI,2020
+1,SRB,Serbia,AI,2021
+3,SRB,Serbia,AI,2022
+2,SRB,Serbia,AI,2023
+2,SRB,Serbia,AI,2024
+0,PRI,Puerto Rico,AI,1995
+0,PRI,Puerto Rico,AI,1996
+0,PRI,Puerto Rico,AI,1997
+0,PRI,Puerto Rico,AI,1998
+0,PRI,Puerto Rico,AI,1999
+0,PRI,Puerto Rico,AI,2000
+0,PRI,Puerto Rico,AI,2001
+0,PRI,Puerto Rico,AI,2002
+0,PRI,Puerto Rico,AI,2003
+0,PRI,Puerto Rico,AI,2004
+0,PRI,Puerto Rico,AI,2005
+0,PRI,Puerto Rico,AI,2006
+0,PRI,Puerto Rico,AI,2007
+0,PRI,Puerto Rico,AI,2008
+0,PRI,Puerto Rico,AI,2009
+0,PRI,Puerto Rico,AI,2010
+0,PRI,Puerto Rico,AI,2011
+0,PRI,Puerto Rico,AI,2012
+0,PRI,Puerto Rico,AI,2013
+0,PRI,Puerto Rico,AI,2014
+0,PRI,Puerto Rico,AI,2015
+0,PRI,Puerto Rico,AI,2016
+1,PRI,Puerto Rico,AI,2017
+0,PRI,Puerto Rico,AI,2018
+1,PRI,Puerto Rico,AI,2019
+1,PRI,Puerto Rico,AI,2020
+1,PRI,Puerto Rico,AI,2021
+4,PRI,Puerto Rico,AI,2022
+3,PRI,Puerto Rico,AI,2023
+3,PRI,Puerto Rico,AI,2024
+0,ARG,Argentina,AI,1995
+0,ARG,Argentina,AI,1996
+0,ARG,Argentina,AI,1997
+0,ARG,Argentina,AI,1998
+0,ARG,Argentina,AI,1999
+0,ARG,Argentina,AI,2000
+0,ARG,Argentina,AI,2001
+0,ARG,Argentina,AI,2002
+0,ARG,Argentina,AI,2003
+0,ARG,Argentina,AI,2004
+0,ARG,Argentina,AI,2005
+0,ARG,Argentina,AI,2006
+0,ARG,Argentina,AI,2007
+0,ARG,Argentina,AI,2008
+0,ARG,Argentina,AI,2009
+1,ARG,Argentina,AI,2010
+1,ARG,Argentina,AI,2011
+0,ARG,Argentina,AI,2012
+0,ARG,Argentina,AI,2013
+0,ARG,Argentina,AI,2014
+0,ARG,Argentina,AI,2015
+1,ARG,Argentina,AI,2016
+2,ARG,Argentina,AI,2017
+0,ARG,Argentina,AI,2018
+3,ARG,Argentina,AI,2019
+0,ARG,Argentina,AI,2020
+0,ARG,Argentina,AI,2021
+2,ARG,Argentina,AI,2022
+2,ARG,Argentina,AI,2023
+1,ARG,Argentina,AI,2024
+0,LKA,Sri Lanka,AI,1995
+0,LKA,Sri Lanka,AI,1996
+0,LKA,Sri Lanka,AI,1997
+0,LKA,Sri Lanka,AI,1998
+0,LKA,Sri Lanka,AI,1999
+0,LKA,Sri Lanka,AI,2000
+0,LKA,Sri Lanka,AI,2001
+0,LKA,Sri Lanka,AI,2002
+0,LKA,Sri Lanka,AI,2003
+0,LKA,Sri Lanka,AI,2004
+0,LKA,Sri Lanka,AI,2005
+0,LKA,Sri Lanka,AI,2006
+0,LKA,Sri Lanka,AI,2007
+0,LKA,Sri Lanka,AI,2008
+0,LKA,Sri Lanka,AI,2009
+1,LKA,Sri Lanka,AI,2010
+0,LKA,Sri Lanka,AI,2011
+0,LKA,Sri Lanka,AI,2012
+0,LKA,Sri Lanka,AI,2013
+1,LKA,Sri Lanka,AI,2014
+1,LKA,Sri Lanka,AI,2015
+0,LKA,Sri Lanka,AI,2016
+0,LKA,Sri Lanka,AI,2017
+0,LKA,Sri Lanka,AI,2018
+0,LKA,Sri Lanka,AI,2019
+0,LKA,Sri Lanka,AI,2020
+4,LKA,Sri Lanka,AI,2021
+1,LKA,Sri Lanka,AI,2022
+2,LKA,Sri Lanka,AI,2023
+2,LKA,Sri Lanka,AI,2024
+0,ISL,Iceland,AI,1995
+0,ISL,Iceland,AI,1996
+0,ISL,Iceland,AI,1997
+0,ISL,Iceland,AI,1998
+0,ISL,Iceland,AI,1999
+0,ISL,Iceland,AI,2000
+0,ISL,Iceland,AI,2001
+1,ISL,Iceland,AI,2002
+0,ISL,Iceland,AI,2003
+0,ISL,Iceland,AI,2004
+0,ISL,Iceland,AI,2005
+0,ISL,Iceland,AI,2006
+0,ISL,Iceland,AI,2007
+0,ISL,Iceland,AI,2008
+0,ISL,Iceland,AI,2009
+0,ISL,Iceland,AI,2010
+0,ISL,Iceland,AI,2011
+0,ISL,Iceland,AI,2012
+0,ISL,Iceland,AI,2013
+0,ISL,Iceland,AI,2014
+0,ISL,Iceland,AI,2015
+1,ISL,Iceland,AI,2016
+0,ISL,Iceland,AI,2017
+0,ISL,Iceland,AI,2018
+0,ISL,Iceland,AI,2019
+1,ISL,Iceland,AI,2020
+2,ISL,Iceland,AI,2021
+2,ISL,Iceland,AI,2022
+2,ISL,Iceland,AI,2023
+2,ISL,Iceland,AI,2024
+0,BGR,Bulgaria,AI,1995
+0,IDN,Indonesia,AI,1995
+0,QAT,Qatar,AI,1995
+0,IDN,Indonesia,AI,1996
+0,BGR,Bulgaria,AI,1996
+0,QAT,Qatar,AI,1996
+0,QAT,Qatar,AI,1997
+0,BGR,Bulgaria,AI,1997
+0,IDN,Indonesia,AI,1997
+0,QAT,Qatar,AI,1998
+0,BGR,Bulgaria,AI,1998
+0,IDN,Indonesia,AI,1998
+0,BGR,Bulgaria,AI,1999
+0,QAT,Qatar,AI,1999
+0,IDN,Indonesia,AI,1999
+0,IDN,Indonesia,AI,2000
+0,BGR,Bulgaria,AI,2000
+0,QAT,Qatar,AI,2000
+0,IDN,Indonesia,AI,2001
+0,QAT,Qatar,AI,2001
+0,BGR,Bulgaria,AI,2001
+0,QAT,Qatar,AI,2002
+0,IDN,Indonesia,AI,2002
+0,BGR,Bulgaria,AI,2002
+0,QAT,Qatar,AI,2003
+0,IDN,Indonesia,AI,2003
+0,BGR,Bulgaria,AI,2003
+0,BGR,Bulgaria,AI,2004
+0,QAT,Qatar,AI,2004
+0,IDN,Indonesia,AI,2004
+0,QAT,Qatar,AI,2005
+0,IDN,Indonesia,AI,2005
+0,BGR,Bulgaria,AI,2005
+0,QAT,Qatar,AI,2006
+0,IDN,Indonesia,AI,2006
+0,BGR,Bulgaria,AI,2006
+0,IDN,Indonesia,AI,2007
+1,BGR,Bulgaria,AI,2007
+0,QAT,Qatar,AI,2007
+0,BGR,Bulgaria,AI,2008
+0,QAT,Qatar,AI,2008
+0,IDN,Indonesia,AI,2008
+0,IDN,Indonesia,AI,2009
+0,QAT,Qatar,AI,2009
+0,BGR,Bulgaria,AI,2009
+0,IDN,Indonesia,AI,2010
+0,QAT,Qatar,AI,2010
+0,BGR,Bulgaria,AI,2010
+2,BGR,Bulgaria,AI,2011
+0,IDN,Indonesia,AI,2011
+1,QAT,Qatar,AI,2011
+1,BGR,Bulgaria,AI,2012
+3,QAT,Qatar,AI,2012
+0,IDN,Indonesia,AI,2012
+1,QAT,Qatar,AI,2013
+1,IDN,Indonesia,AI,2013
+1,BGR,Bulgaria,AI,2013
+0,QAT,Qatar,AI,2014
+1,BGR,Bulgaria,AI,2014
+0,IDN,Indonesia,AI,2014
+1,QAT,Qatar,AI,2015
+1,BGR,Bulgaria,AI,2015
+0,IDN,Indonesia,AI,2015
+0,BGR,Bulgaria,AI,2016
+0,QAT,Qatar,AI,2016
+0,IDN,Indonesia,AI,2016
+0,IDN,Indonesia,AI,2017
+0,BGR,Bulgaria,AI,2017
+0,QAT,Qatar,AI,2017
+0,QAT,Qatar,AI,2018
+0,BGR,Bulgaria,AI,2018
+1,IDN,Indonesia,AI,2018
+1,BGR,Bulgaria,AI,2019
+2,IDN,Indonesia,AI,2019
+2,QAT,Qatar,AI,2019
+0,BGR,Bulgaria,AI,2020
+1,QAT,Qatar,AI,2020
+1,IDN,Indonesia,AI,2020
+1,BGR,Bulgaria,AI,2021
+2,IDN,Indonesia,AI,2021
+1,QAT,Qatar,AI,2021
+0,QAT,Qatar,AI,2022
+1,IDN,Indonesia,AI,2022
+0,BGR,Bulgaria,AI,2022
+0,BGR,Bulgaria,AI,2023
+0,QAT,Qatar,AI,2023
+1,IDN,Indonesia,AI,2023
+0,QAT,Qatar,AI,2024
+1,BGR,Bulgaria,AI,2024
+1,IDN,Indonesia,AI,2024
+0,LVA,Latvia,AI,1995
+0,LVA,Latvia,AI,1996
+0,LVA,Latvia,AI,1997
+0,LVA,Latvia,AI,1998
+0,LVA,Latvia,AI,1999
+0,LVA,Latvia,AI,2000
+0,LVA,Latvia,AI,2001
+0,LVA,Latvia,AI,2002
+0,LVA,Latvia,AI,2003
+0,LVA,Latvia,AI,2004
+0,LVA,Latvia,AI,2005
+0,LVA,Latvia,AI,2006
+0,LVA,Latvia,AI,2007
+0,LVA,Latvia,AI,2008
+0,LVA,Latvia,AI,2009
+0,LVA,Latvia,AI,2010
+0,LVA,Latvia,AI,2011
+1,LVA,Latvia,AI,2012
+0,LVA,Latvia,AI,2013
+0,LVA,Latvia,AI,2014
+0,LVA,Latvia,AI,2015
+0,LVA,Latvia,AI,2016
+0,LVA,Latvia,AI,2017
+1,LVA,Latvia,AI,2018
+0,LVA,Latvia,AI,2019
+3,LVA,Latvia,AI,2020
+1,LVA,Latvia,AI,2021
+1,LVA,Latvia,AI,2022
+0,LVA,Latvia,AI,2023
+1,LVA,Latvia,AI,2024
+1,BLR,Belarus,AI,1995
+0,BGD,Bangladesh,AI,1995
+0,SVK,Slovak Republic,AI,1995
+0,SVK,Slovak Republic,AI,1996
+0,BLR,Belarus,AI,1996
+0,BGD,Bangladesh,AI,1996
+0,BLR,Belarus,AI,1997
+0,BGD,Bangladesh,AI,1997
+0,SVK,Slovak Republic,AI,1997
+0,BLR,Belarus,AI,1998
+0,BGD,Bangladesh,AI,1998
+0,SVK,Slovak Republic,AI,1998
+0,BGD,Bangladesh,AI,1999
+0,SVK,Slovak Republic,AI,1999
+0,BLR,Belarus,AI,1999
+0,SVK,Slovak Republic,AI,2000
+0,BGD,Bangladesh,AI,2000
+0,BLR,Belarus,AI,2000
+0,BLR,Belarus,AI,2001
+0,SVK,Slovak Republic,AI,2001
+0,BGD,Bangladesh,AI,2001
+0,BGD,Bangladesh,AI,2002
+0,BLR,Belarus,AI,2002
+0,SVK,Slovak Republic,AI,2002
+0,BGD,Bangladesh,AI,2003
+0,BLR,Belarus,AI,2003
+0,SVK,Slovak Republic,AI,2003
+0,BGD,Bangladesh,AI,2004
+0,SVK,Slovak Republic,AI,2004
+0,BLR,Belarus,AI,2004
+0,BGD,Bangladesh,AI,2005
+0,BLR,Belarus,AI,2005
+0,SVK,Slovak Republic,AI,2005
+0,BLR,Belarus,AI,2006
+0,BGD,Bangladesh,AI,2006
+0,SVK,Slovak Republic,AI,2006
+0,SVK,Slovak Republic,AI,2007
+0,BLR,Belarus,AI,2007
+0,BGD,Bangladesh,AI,2007
+0,BLR,Belarus,AI,2008
+0,BGD,Bangladesh,AI,2008
+0,SVK,Slovak Republic,AI,2008
+0,SVK,Slovak Republic,AI,2009
+1,BLR,Belarus,AI,2009
+0,BGD,Bangladesh,AI,2009
+0,BLR,Belarus,AI,2010
+0,BGD,Bangladesh,AI,2010
+0,SVK,Slovak Republic,AI,2010
+0,BLR,Belarus,AI,2011
+0,BGD,Bangladesh,AI,2011
+0,SVK,Slovak Republic,AI,2011
+0,SVK,Slovak Republic,AI,2012
+0,BLR,Belarus,AI,2012
+0,BGD,Bangladesh,AI,2012
+0,SVK,Slovak Republic,AI,2013
+0,BGD,Bangladesh,AI,2013
+0,BLR,Belarus,AI,2013
+0,BGD,Bangladesh,AI,2014
+1,BLR,Belarus,AI,2014
+0,SVK,Slovak Republic,AI,2014
+1,SVK,Slovak Republic,AI,2015
+0,BLR,Belarus,AI,2015
+0,BGD,Bangladesh,AI,2015
+1,SVK,Slovak Republic,AI,2016
+1,BLR,Belarus,AI,2016
+0,BGD,Bangladesh,AI,2016
+0,BGD,Bangladesh,AI,2017
+1,SVK,Slovak Republic,AI,2017
+2,BLR,Belarus,AI,2017
+0,BGD,Bangladesh,AI,2018
+0,SVK,Slovak Republic,AI,2018
+0,BLR,Belarus,AI,2018
+0,BLR,Belarus,AI,2019
+2,SVK,Slovak Republic,AI,2019
+0,BGD,Bangladesh,AI,2019
+3,BGD,Bangladesh,AI,2020
+2,SVK,Slovak Republic,AI,2020
+0,BLR,Belarus,AI,2020
+2,BGD,Bangladesh,AI,2021
+1,BLR,Belarus,AI,2021
+0,SVK,Slovak Republic,AI,2021
+0,BLR,Belarus,AI,2022
+0,SVK,Slovak Republic,AI,2022
+0,BGD,Bangladesh,AI,2022
+0,SVK,Slovak Republic,AI,2023
+0,BLR,Belarus,AI,2023
+1,BGD,Bangladesh,AI,2023
+1,BGD,Bangladesh,AI,2024
+0,SVK,Slovak Republic,AI,2024
+0,BLR,Belarus,AI,2024
+0,JOR,Jordan,AI,1995
+0,CYM,Cayman Islands,AI,1995
+0,VGB,British Virgin Islands,AI,1995
+0,MCO,Monaco,AI,1995
+0,CYM,Cayman Islands,AI,1996
+0,VGB,British Virgin Islands,AI,1996
+0,MCO,Monaco,AI,1996
+0,JOR,Jordan,AI,1996
+0,CYM,Cayman Islands,AI,1997
+0,JOR,Jordan,AI,1997
+0,MCO,Monaco,AI,1997
+0,VGB,British Virgin Islands,AI,1997
+0,CYM,Cayman Islands,AI,1998
+0,JOR,Jordan,AI,1998
+0,VGB,British Virgin Islands,AI,1998
+0,MCO,Monaco,AI,1998
+0,VGB,British Virgin Islands,AI,1999
+0,MCO,Monaco,AI,1999
+0,JOR,Jordan,AI,1999
+0,CYM,Cayman Islands,AI,1999
+0,MCO,Monaco,AI,2000
+0,VGB,British Virgin Islands,AI,2000
+0,CYM,Cayman Islands,AI,2000
+0,JOR,Jordan,AI,2000
+0,CYM,Cayman Islands,AI,2001
+0,JOR,Jordan,AI,2001
+0,VGB,British Virgin Islands,AI,2001
+0,MCO,Monaco,AI,2001
+0,CYM,Cayman Islands,AI,2002
+1,MCO,Monaco,AI,2002
+0,JOR,Jordan,AI,2002
+0,VGB,British Virgin Islands,AI,2002
+0,CYM,Cayman Islands,AI,2003
+0,VGB,British Virgin Islands,AI,2003
+0,MCO,Monaco,AI,2003
+0,JOR,Jordan,AI,2003
+0,VGB,British Virgin Islands,AI,2004
+0,MCO,Monaco,AI,2004
+0,JOR,Jordan,AI,2004
+0,CYM,Cayman Islands,AI,2004
+0,CYM,Cayman Islands,AI,2005
+0,MCO,Monaco,AI,2005
+0,VGB,British Virgin Islands,AI,2005
+0,JOR,Jordan,AI,2005
+0,JOR,Jordan,AI,2006
+0,MCO,Monaco,AI,2006
+0,CYM,Cayman Islands,AI,2006
+0,VGB,British Virgin Islands,AI,2006
+0,CYM,Cayman Islands,AI,2007
+0,VGB,British Virgin Islands,AI,2007
+0,MCO,Monaco,AI,2007
+0,JOR,Jordan,AI,2007
+0,MCO,Monaco,AI,2008
+0,VGB,British Virgin Islands,AI,2008
+0,JOR,Jordan,AI,2008
+0,CYM,Cayman Islands,AI,2008
+0,VGB,British Virgin Islands,AI,2009
+0,CYM,Cayman Islands,AI,2009
+0,JOR,Jordan,AI,2009
+0,MCO,Monaco,AI,2009
+0,CYM,Cayman Islands,AI,2010
+0,VGB,British Virgin Islands,AI,2010
+0,JOR,Jordan,AI,2010
+0,MCO,Monaco,AI,2010
+0,CYM,Cayman Islands,AI,2011
+0,JOR,Jordan,AI,2011
+0,VGB,British Virgin Islands,AI,2011
+0,MCO,Monaco,AI,2011
+0,MCO,Monaco,AI,2012
+0,VGB,British Virgin Islands,AI,2012
+0,CYM,Cayman Islands,AI,2012
+0,JOR,Jordan,AI,2012
+0,MCO,Monaco,AI,2013
+0,VGB,British Virgin Islands,AI,2013
+0,CYM,Cayman Islands,AI,2013
+0,JOR,Jordan,AI,2013
+0,CYM,Cayman Islands,AI,2014
+0,JOR,Jordan,AI,2014
+0,VGB,British Virgin Islands,AI,2014
+0,MCO,Monaco,AI,2014
+0,VGB,British Virgin Islands,AI,2015
+0,CYM,Cayman Islands,AI,2015
+0,MCO,Monaco,AI,2015
+0,JOR,Jordan,AI,2015
+0,VGB,British Virgin Islands,AI,2016
+0,JOR,Jordan,AI,2016
+0,MCO,Monaco,AI,2016
+0,CYM,Cayman Islands,AI,2016
+0,MCO,Monaco,AI,2017
+0,CYM,Cayman Islands,AI,2017
+0,JOR,Jordan,AI,2017
+0,VGB,British Virgin Islands,AI,2017
+2,CYM,Cayman Islands,AI,2018
+1,JOR,Jordan,AI,2018
+4,VGB,British Virgin Islands,AI,2018
+0,MCO,Monaco,AI,2018
+1,VGB,British Virgin Islands,AI,2019
+2,MCO,Monaco,AI,2019
+1,JOR,Jordan,AI,2019
+0,CYM,Cayman Islands,AI,2019
+2,JOR,Jordan,AI,2020
+0,VGB,British Virgin Islands,AI,2020
+2,CYM,Cayman Islands,AI,2020
+3,MCO,Monaco,AI,2020
+0,VGB,British Virgin Islands,AI,2021
+0,MCO,Monaco,AI,2021
+1,CYM,Cayman Islands,AI,2021
+1,JOR,Jordan,AI,2021
+0,CYM,Cayman Islands,AI,2022
+1,VGB,British Virgin Islands,AI,2022
+0,MCO,Monaco,AI,2022
+0,JOR,Jordan,AI,2022
+1,CYM,Cayman Islands,AI,2023
+0,VGB,British Virgin Islands,AI,2023
+0,MCO,Monaco,AI,2023
+1,JOR,Jordan,AI,2023
+0,MCO,Monaco,AI,2024
+0,CYM,Cayman Islands,AI,2024
+0,JOR,Jordan,AI,2024
+0,VGB,British Virgin Islands,AI,2024
+0,SVN,Slovenia,AI,1995
+0,CYP,Cyprus,AI,1995
+0,SVN,Slovenia,AI,1996
+0,CYP,Cyprus,AI,1996
+0,CYP,Cyprus,AI,1997
+0,SVN,Slovenia,AI,1997
+0,SVN,Slovenia,AI,1998
+0,CYP,Cyprus,AI,1998
+0,CYP,Cyprus,AI,1999
+0,SVN,Slovenia,AI,1999
+0,CYP,Cyprus,AI,2000
+0,SVN,Slovenia,AI,2000
+0,CYP,Cyprus,AI,2001
+0,SVN,Slovenia,AI,2001
+0,SVN,Slovenia,AI,2002
+0,CYP,Cyprus,AI,2002
+0,SVN,Slovenia,AI,2003
+0,CYP,Cyprus,AI,2003
+0,SVN,Slovenia,AI,2004
+0,CYP,Cyprus,AI,2004
+0,CYP,Cyprus,AI,2005
+0,SVN,Slovenia,AI,2005
+0,SVN,Slovenia,AI,2006
+0,CYP,Cyprus,AI,2006
+0,CYP,Cyprus,AI,2007
+0,SVN,Slovenia,AI,2007
+0,SVN,Slovenia,AI,2008
+0,CYP,Cyprus,AI,2008
+0,CYP,Cyprus,AI,2009
+0,SVN,Slovenia,AI,2009
+1,SVN,Slovenia,AI,2010
+0,CYP,Cyprus,AI,2010
+1,SVN,Slovenia,AI,2011
+0,CYP,Cyprus,AI,2011
+0,SVN,Slovenia,AI,2012
+0,CYP,Cyprus,AI,2012
+0,CYP,Cyprus,AI,2013
+0,SVN,Slovenia,AI,2013
+0,SVN,Slovenia,AI,2014
+0,CYP,Cyprus,AI,2014
+0,CYP,Cyprus,AI,2015
+0,SVN,Slovenia,AI,2015
+1,CYP,Cyprus,AI,2016
+0,SVN,Slovenia,AI,2016
+0,SVN,Slovenia,AI,2017
+0,CYP,Cyprus,AI,2017
+1,SVN,Slovenia,AI,2018
+1,CYP,Cyprus,AI,2018
+0,CYP,Cyprus,AI,2019
+0,SVN,Slovenia,AI,2019
+1,SVN,Slovenia,AI,2020
+0,CYP,Cyprus,AI,2020
+0,CYP,Cyprus,AI,2021
+0,SVN,Slovenia,AI,2021
+0,SVN,Slovenia,AI,2022
+1,CYP,Cyprus,AI,2022
+1,CYP,Cyprus,AI,2023
+0,SVN,Slovenia,AI,2023
+0,CYP,Cyprus,AI,2024
+0,SVN,Slovenia,AI,2024
+0,PAK,Pakistan,AI,1995
+0,KAZ,Kazakhstan,AI,1995
+0,OMN,Oman,AI,1995
+0,OMN,Oman,AI,1996
+0,PAK,Pakistan,AI,1996
+0,KAZ,Kazakhstan,AI,1996
+0,OMN,Oman,AI,1997
+0,PAK,Pakistan,AI,1997
+0,KAZ,Kazakhstan,AI,1997
+0,OMN,Oman,AI,1998
+0,KAZ,Kazakhstan,AI,1998
+0,PAK,Pakistan,AI,1998
+0,OMN,Oman,AI,1999
+0,KAZ,Kazakhstan,AI,1999
+0,PAK,Pakistan,AI,1999
+0,PAK,Pakistan,AI,2000
+0,OMN,Oman,AI,2000
+0,KAZ,Kazakhstan,AI,2000
+0,KAZ,Kazakhstan,AI,2001
+0,PAK,Pakistan,AI,2001
+0,OMN,Oman,AI,2001
+0,KAZ,Kazakhstan,AI,2002
+0,PAK,Pakistan,AI,2002
+0,OMN,Oman,AI,2002
+0,OMN,Oman,AI,2003
+0,KAZ,Kazakhstan,AI,2003
+0,PAK,Pakistan,AI,2003
+2,KAZ,Kazakhstan,AI,2004
+0,PAK,Pakistan,AI,2004
+0,OMN,Oman,AI,2004
+0,PAK,Pakistan,AI,2005
+0,OMN,Oman,AI,2005
+0,KAZ,Kazakhstan,AI,2005
+0,KAZ,Kazakhstan,AI,2006
+0,PAK,Pakistan,AI,2006
+0,OMN,Oman,AI,2006
+0,PAK,Pakistan,AI,2007
+0,KAZ,Kazakhstan,AI,2007
+0,OMN,Oman,AI,2007
+0,PAK,Pakistan,AI,2008
+0,KAZ,Kazakhstan,AI,2008
+0,OMN,Oman,AI,2008
+0,PAK,Pakistan,AI,2009
+0,KAZ,Kazakhstan,AI,2009
+0,OMN,Oman,AI,2009
+0,KAZ,Kazakhstan,AI,2010
+0,PAK,Pakistan,AI,2010
+0,OMN,Oman,AI,2010
+0,PAK,Pakistan,AI,2011
+0,OMN,Oman,AI,2011
+0,KAZ,Kazakhstan,AI,2011
+0,KAZ,Kazakhstan,AI,2012
+0,OMN,Oman,AI,2012
+0,PAK,Pakistan,AI,2012
+0,PAK,Pakistan,AI,2013
+0,KAZ,Kazakhstan,AI,2013
+0,OMN,Oman,AI,2013
+0,OMN,Oman,AI,2014
+0,PAK,Pakistan,AI,2014
+0,KAZ,Kazakhstan,AI,2014
+0,PAK,Pakistan,AI,2015
+0,OMN,Oman,AI,2015
+0,KAZ,Kazakhstan,AI,2015
+1,OMN,Oman,AI,2016
+0,KAZ,Kazakhstan,AI,2016
+0,PAK,Pakistan,AI,2016
+0,PAK,Pakistan,AI,2017
+0,KAZ,Kazakhstan,AI,2017
+0,OMN,Oman,AI,2017
+0,KAZ,Kazakhstan,AI,2018
+0,OMN,Oman,AI,2018
+0,PAK,Pakistan,AI,2018
+0,KAZ,Kazakhstan,AI,2019
+0,OMN,Oman,AI,2019
+0,PAK,Pakistan,AI,2019
+2,PAK,Pakistan,AI,2020
+2,OMN,Oman,AI,2020
+0,KAZ,Kazakhstan,AI,2020
+0,OMN,Oman,AI,2021
+1,PAK,Pakistan,AI,2021
+0,KAZ,Kazakhstan,AI,2021
+0,OMN,Oman,AI,2022
+0,PAK,Pakistan,AI,2022
+0,KAZ,Kazakhstan,AI,2022
+0,PAK,Pakistan,AI,2023
+1,KAZ,Kazakhstan,AI,2023
+0,OMN,Oman,AI,2023
+0,OMN,Oman,AI,2024
+0,KAZ,Kazakhstan,AI,2024
+0,PAK,Pakistan,AI,2024
+0,CRI,Costa Rica,AI,1995
+0,AND,Andorra,AI,1995
+0,MNP,Northern Mariana Islands,AI,1995
+0,LBN,Lebanon,AI,1995
+0,URY,Uruguay,AI,1995
+0,NAM,Namibia,AI,1995
+0,URY,Uruguay,AI,1996
+0,MNP,Northern Mariana Islands,AI,1996
+0,AND,Andorra,AI,1996
+0,LBN,Lebanon,AI,1996
+0,CRI,Costa Rica,AI,1996
+0,NAM,Namibia,AI,1996
+0,AND,Andorra,AI,1997
+0,LBN,Lebanon,AI,1997
+0,MNP,Northern Mariana Islands,AI,1997
+0,URY,Uruguay,AI,1997
+0,NAM,Namibia,AI,1997
+0,CRI,Costa Rica,AI,1997
+0,MNP,Northern Mariana Islands,AI,1998
+0,NAM,Namibia,AI,1998
+0,CRI,Costa Rica,AI,1998
+0,AND,Andorra,AI,1998
+0,URY,Uruguay,AI,1998
+0,LBN,Lebanon,AI,1998
+0,LBN,Lebanon,AI,1999
+0,CRI,Costa Rica,AI,1999
+0,AND,Andorra,AI,1999
+0,MNP,Northern Mariana Islands,AI,1999
+0,URY,Uruguay,AI,1999
+0,NAM,Namibia,AI,1999
+0,MNP,Northern Mariana Islands,AI,2000
+0,AND,Andorra,AI,2000
+0,NAM,Namibia,AI,2000
+0,LBN,Lebanon,AI,2000
+0,CRI,Costa Rica,AI,2000
+0,URY,Uruguay,AI,2000
+0,CRI,Costa Rica,AI,2001
+0,URY,Uruguay,AI,2001
+0,NAM,Namibia,AI,2001
+0,LBN,Lebanon,AI,2001
+0,MNP,Northern Mariana Islands,AI,2001
+0,AND,Andorra,AI,2001
+0,CRI,Costa Rica,AI,2002
+0,AND,Andorra,AI,2002
+0,MNP,Northern Mariana Islands,AI,2002
+0,LBN,Lebanon,AI,2002
+0,NAM,Namibia,AI,2002
+0,URY,Uruguay,AI,2002
+0,URY,Uruguay,AI,2003
+0,CRI,Costa Rica,AI,2003
+0,AND,Andorra,AI,2003
+0,LBN,Lebanon,AI,2003
+0,MNP,Northern Mariana Islands,AI,2003
+0,NAM,Namibia,AI,2003
+0,CRI,Costa Rica,AI,2004
+0,URY,Uruguay,AI,2004
+0,LBN,Lebanon,AI,2004
+0,MNP,Northern Mariana Islands,AI,2004
+0,AND,Andorra,AI,2004
+0,NAM,Namibia,AI,2004
+0,CRI,Costa Rica,AI,2005
+0,NAM,Namibia,AI,2005
+0,MNP,Northern Mariana Islands,AI,2005
+0,AND,Andorra,AI,2005
+0,URY,Uruguay,AI,2005
+0,LBN,Lebanon,AI,2005
+0,AND,Andorra,AI,2006
+0,URY,Uruguay,AI,2006
+0,CRI,Costa Rica,AI,2006
+0,NAM,Namibia,AI,2006
+0,MNP,Northern Mariana Islands,AI,2006
+0,LBN,Lebanon,AI,2006
+0,MNP,Northern Mariana Islands,AI,2007
+0,URY,Uruguay,AI,2007
+0,AND,Andorra,AI,2007
+0,LBN,Lebanon,AI,2007
+0,CRI,Costa Rica,AI,2007
+0,NAM,Namibia,AI,2007
+0,URY,Uruguay,AI,2008
+0,LBN,Lebanon,AI,2008
+0,AND,Andorra,AI,2008
+0,CRI,Costa Rica,AI,2008
+0,NAM,Namibia,AI,2008
+0,MNP,Northern Mariana Islands,AI,2008
+0,LBN,Lebanon,AI,2009
+0,URY,Uruguay,AI,2009
+0,AND,Andorra,AI,2009
+0,MNP,Northern Mariana Islands,AI,2009
+0,CRI,Costa Rica,AI,2009
+0,NAM,Namibia,AI,2009
+0,CRI,Costa Rica,AI,2010
+0,NAM,Namibia,AI,2010
+0,AND,Andorra,AI,2010
+0,URY,Uruguay,AI,2010
+0,LBN,Lebanon,AI,2010
+0,MNP,Northern Mariana Islands,AI,2010
+0,CRI,Costa Rica,AI,2011
+0,URY,Uruguay,AI,2011
+0,LBN,Lebanon,AI,2011
+0,AND,Andorra,AI,2011
+0,MNP,Northern Mariana Islands,AI,2011
+0,NAM,Namibia,AI,2011
+0,LBN,Lebanon,AI,2012
+0,MNP,Northern Mariana Islands,AI,2012
+0,URY,Uruguay,AI,2012
+1,AND,Andorra,AI,2012
+0,CRI,Costa Rica,AI,2012
+0,NAM,Namibia,AI,2012
+0,AND,Andorra,AI,2013
+0,NAM,Namibia,AI,2013
+0,MNP,Northern Mariana Islands,AI,2013
+0,LBN,Lebanon,AI,2013
+0,URY,Uruguay,AI,2013
+0,CRI,Costa Rica,AI,2013
+0,URY,Uruguay,AI,2014
+0,NAM,Namibia,AI,2014
+0,AND,Andorra,AI,2014
+0,LBN,Lebanon,AI,2014
+0,CRI,Costa Rica,AI,2014
+1,MNP,Northern Mariana Islands,AI,2014
+0,AND,Andorra,AI,2015
+0,URY,Uruguay,AI,2015
+0,MNP,Northern Mariana Islands,AI,2015
+0,LBN,Lebanon,AI,2015
+0,CRI,Costa Rica,AI,2015
+0,NAM,Namibia,AI,2015
+0,AND,Andorra,AI,2016
+0,MNP,Northern Mariana Islands,AI,2016
+0,CRI,Costa Rica,AI,2016
+0,LBN,Lebanon,AI,2016
+1,NAM,Namibia,AI,2016
+0,URY,Uruguay,AI,2016
+0,AND,Andorra,AI,2017
+0,MNP,Northern Mariana Islands,AI,2017
+0,NAM,Namibia,AI,2017
+0,URY,Uruguay,AI,2017
+1,CRI,Costa Rica,AI,2017
+1,LBN,Lebanon,AI,2017
+0,CRI,Costa Rica,AI,2018
+0,LBN,Lebanon,AI,2018
+0,MNP,Northern Mariana Islands,AI,2018
+0,NAM,Namibia,AI,2018
+0,URY,Uruguay,AI,2018
+1,AND,Andorra,AI,2018
+0,LBN,Lebanon,AI,2019
+0,CRI,Costa Rica,AI,2019
+0,AND,Andorra,AI,2019
+0,MNP,Northern Mariana Islands,AI,2019
+0,NAM,Namibia,AI,2019
+1,URY,Uruguay,AI,2019
+1,MNP,Northern Mariana Islands,AI,2020
+0,URY,Uruguay,AI,2020
+0,LBN,Lebanon,AI,2020
+0,AND,Andorra,AI,2020
+0,NAM,Namibia,AI,2020
+1,CRI,Costa Rica,AI,2020
+1,URY,Uruguay,AI,2021
+0,CRI,Costa Rica,AI,2021
+0,MNP,Northern Mariana Islands,AI,2021
+1,NAM,Namibia,AI,2021
+0,AND,Andorra,AI,2021
+0,LBN,Lebanon,AI,2021
+0,URY,Uruguay,AI,2022
+0,CRI,Costa Rica,AI,2022
+0,MNP,Northern Mariana Islands,AI,2022
+1,LBN,Lebanon,AI,2022
+0,NAM,Namibia,AI,2022
+0,AND,Andorra,AI,2022
+0,MNP,Northern Mariana Islands,AI,2023
+0,AND,Andorra,AI,2023
+0,CRI,Costa Rica,AI,2023
+0,URY,Uruguay,AI,2023
+0,NAM,Namibia,AI,2023
+0,LBN,Lebanon,AI,2023
+0,LBN,Lebanon,AI,2024
+0,URY,Uruguay,AI,2024
+0,NAM,Namibia,AI,2024
+0,CRI,Costa Rica,AI,2024
+0,MNP,Northern Mariana Islands,AI,2024
+0,AND,Andorra,AI,2024
+0,MUS,Mauritius,AI,1995
+0,TUN,Tunisia,AI,1995
+0,PAN,Panama,AI,1995
+0,GEO,Georgia,AI,1995
+0,SDN,Sudan,AI,1995
+0,MDA,Moldova,AI,1995
+0,UZB,Uzbekistan,AI,1995
+0,BLZ,Belize,AI,1995
+0,BHS,Bahamas,AI,1995
+0,PER,Peru,AI,1995
+0,AZE,Azerbaijan,AI,1995
+0,ARM,Armenia,AI,1995
+0,ECU,Ecuador,AI,1995
+0,TUN,Tunisia,AI,1996
+0,MUS,Mauritius,AI,1996
+0,PAN,Panama,AI,1996
+0,GEO,Georgia,AI,1996
+0,SDN,Sudan,AI,1996
+0,MDA,Moldova,AI,1996
+0,UZB,Uzbekistan,AI,1996
+0,ARM,Armenia,AI,1996
+0,PER,Peru,AI,1996
+0,AZE,Azerbaijan,AI,1996
+0,BLZ,Belize,AI,1996
+0,BHS,Bahamas,AI,1996
+0,ECU,Ecuador,AI,1996
+0,BHS,Bahamas,AI,1997
+0,BLZ,Belize,AI,1997
+0,AZE,Azerbaijan,AI,1997
+0,PER,Peru,AI,1997
+0,ARM,Armenia,AI,1997
+0,ECU,Ecuador,AI,1997
+0,SDN,Sudan,AI,1997
+0,UZB,Uzbekistan,AI,1997
+0,MDA,Moldova,AI,1997
+0,PAN,Panama,AI,1997
+0,GEO,Georgia,AI,1997
+0,MUS,Mauritius,AI,1997
+0,TUN,Tunisia,AI,1997
+0,UZB,Uzbekistan,AI,1998
+0,MDA,Moldova,AI,1998
+0,SDN,Sudan,AI,1998
+0,ECU,Ecuador,AI,1998
+0,BLZ,Belize,AI,1998
+0,BHS,Bahamas,AI,1998
+0,PER,Peru,AI,1998
+0,AZE,Azerbaijan,AI,1998
+0,ARM,Armenia,AI,1998
+0,MUS,Mauritius,AI,1998
+0,TUN,Tunisia,AI,1998
+0,GEO,Georgia,AI,1998
+0,PAN,Panama,AI,1998
+0,GEO,Georgia,AI,1999
+0,PAN,Panama,AI,1999
+0,TUN,Tunisia,AI,1999
+1,MUS,Mauritius,AI,1999
+0,ECU,Ecuador,AI,1999
+0,ARM,Armenia,AI,1999
+0,AZE,Azerbaijan,AI,1999
+0,PER,Peru,AI,1999
+0,BHS,Bahamas,AI,1999
+0,BLZ,Belize,AI,1999
+0,MDA,Moldova,AI,1999
+0,UZB,Uzbekistan,AI,1999
+0,SDN,Sudan,AI,1999
+0,BLZ,Belize,AI,2000
+0,BHS,Bahamas,AI,2000
+0,ARM,Armenia,AI,2000
+0,PER,Peru,AI,2000
+0,AZE,Azerbaijan,AI,2000
+0,ECU,Ecuador,AI,2000
+0,SDN,Sudan,AI,2000
+0,UZB,Uzbekistan,AI,2000
+0,MDA,Moldova,AI,2000
+0,PAN,Panama,AI,2000
+0,GEO,Georgia,AI,2000
+0,TUN,Tunisia,AI,2000
+0,MUS,Mauritius,AI,2000
+0,MUS,Mauritius,AI,2001
+0,TUN,Tunisia,AI,2001
+0,PAN,Panama,AI,2001
+0,GEO,Georgia,AI,2001
+0,SDN,Sudan,AI,2001
+0,MDA,Moldova,AI,2001
+0,UZB,Uzbekistan,AI,2001
+0,AZE,Azerbaijan,AI,2001
+0,PER,Peru,AI,2001
+0,ARM,Armenia,AI,2001
+0,BHS,Bahamas,AI,2001
+0,BLZ,Belize,AI,2001
+0,ECU,Ecuador,AI,2001
+0,GEO,Georgia,AI,2002
+0,PAN,Panama,AI,2002
+0,MUS,Mauritius,AI,2002
+0,TUN,Tunisia,AI,2002
+0,ECU,Ecuador,AI,2002
+0,PER,Peru,AI,2002
+0,AZE,Azerbaijan,AI,2002
+0,ARM,Armenia,AI,2002
+0,BLZ,Belize,AI,2002
+0,BHS,Bahamas,AI,2002
+0,MDA,Moldova,AI,2002
+0,UZB,Uzbekistan,AI,2002
+0,SDN,Sudan,AI,2002
+0,UZB,Uzbekistan,AI,2003
+0,MDA,Moldova,AI,2003
+0,SDN,Sudan,AI,2003
+0,ECU,Ecuador,AI,2003
+0,BHS,Bahamas,AI,2003
+0,BLZ,Belize,AI,2003
+0,ARM,Armenia,AI,2003
+0,AZE,Azerbaijan,AI,2003
+0,PER,Peru,AI,2003
+0,TUN,Tunisia,AI,2003
+0,MUS,Mauritius,AI,2003
+0,GEO,Georgia,AI,2003
+0,PAN,Panama,AI,2003
+0,UZB,Uzbekistan,AI,2004
+0,MDA,Moldova,AI,2004
+0,SDN,Sudan,AI,2004
+0,ECU,Ecuador,AI,2004
+0,AZE,Azerbaijan,AI,2004
+0,PER,Peru,AI,2004
+0,ARM,Armenia,AI,2004
+0,BHS,Bahamas,AI,2004
+0,BLZ,Belize,AI,2004
+0,MUS,Mauritius,AI,2004
+0,TUN,Tunisia,AI,2004
+0,GEO,Georgia,AI,2004
+0,PAN,Panama,AI,2004
+0,GEO,Georgia,AI,2005
+0,PAN,Panama,AI,2005
+0,TUN,Tunisia,AI,2005
+0,MUS,Mauritius,AI,2005
+0,ECU,Ecuador,AI,2005
+0,BLZ,Belize,AI,2005
+0,BHS,Bahamas,AI,2005
+0,ARM,Armenia,AI,2005
+0,PER,Peru,AI,2005
+0,AZE,Azerbaijan,AI,2005
+0,MDA,Moldova,AI,2005
+0,UZB,Uzbekistan,AI,2005
+0,SDN,Sudan,AI,2005
+0,TUN,Tunisia,AI,2006
+0,MUS,Mauritius,AI,2006
+0,PAN,Panama,AI,2006
+0,GEO,Georgia,AI,2006
+0,SDN,Sudan,AI,2006
+0,MDA,Moldova,AI,2006
+0,UZB,Uzbekistan,AI,2006
+0,BHS,Bahamas,AI,2006
+0,BLZ,Belize,AI,2006
+0,ARM,Armenia,AI,2006
+0,AZE,Azerbaijan,AI,2006
+0,PER,Peru,AI,2006
+0,ECU,Ecuador,AI,2006
+0,PER,Peru,AI,2007
+0,AZE,Azerbaijan,AI,2007
+0,ARM,Armenia,AI,2007
+0,BLZ,Belize,AI,2007
+0,BHS,Bahamas,AI,2007
+0,ECU,Ecuador,AI,2007
+0,SDN,Sudan,AI,2007
+0,UZB,Uzbekistan,AI,2007
+0,MDA,Moldova,AI,2007
+0,PAN,Panama,AI,2007
+0,GEO,Georgia,AI,2007
+0,MUS,Mauritius,AI,2007
+0,TUN,Tunisia,AI,2007
+0,ECU,Ecuador,AI,2008
+0,BLZ,Belize,AI,2008
+0,BHS,Bahamas,AI,2008
+0,PER,Peru,AI,2008
+0,AZE,Azerbaijan,AI,2008
+0,ARM,Armenia,AI,2008
+0,MDA,Moldova,AI,2008
+0,UZB,Uzbekistan,AI,2008
+0,SDN,Sudan,AI,2008
+0,GEO,Georgia,AI,2008
+0,PAN,Panama,AI,2008
+0,MUS,Mauritius,AI,2008
+0,TUN,Tunisia,AI,2008
+0,TUN,Tunisia,AI,2009
+0,MUS,Mauritius,AI,2009
+0,GEO,Georgia,AI,2009
+0,PAN,Panama,AI,2009
+0,UZB,Uzbekistan,AI,2009
+0,MDA,Moldova,AI,2009
+0,SDN,Sudan,AI,2009
+0,ECU,Ecuador,AI,2009
+0,ARM,Armenia,AI,2009
+0,AZE,Azerbaijan,AI,2009
+0,PER,Peru,AI,2009
+0,BHS,Bahamas,AI,2009
+0,BLZ,Belize,AI,2009
+0,PAN,Panama,AI,2010
+0,GEO,Georgia,AI,2010
+0,TUN,Tunisia,AI,2010
+0,MUS,Mauritius,AI,2010
+0,ARM,Armenia,AI,2010
+0,PER,Peru,AI,2010
+0,AZE,Azerbaijan,AI,2010
+0,BLZ,Belize,AI,2010
+0,BHS,Bahamas,AI,2010
+0,ECU,Ecuador,AI,2010
+0,SDN,Sudan,AI,2010
+0,UZB,Uzbekistan,AI,2010
+0,MDA,Moldova,AI,2010
+0,SDN,Sudan,AI,2011
+0,MDA,Moldova,AI,2011
+0,UZB,Uzbekistan,AI,2011
+0,BHS,Bahamas,AI,2011
+0,BLZ,Belize,AI,2011
+0,AZE,Azerbaijan,AI,2011
+0,PER,Peru,AI,2011
+0,ARM,Armenia,AI,2011
+0,ECU,Ecuador,AI,2011
+0,MUS,Mauritius,AI,2011
+0,TUN,Tunisia,AI,2011
+0,PAN,Panama,AI,2011
+0,GEO,Georgia,AI,2011
+0,SDN,Sudan,AI,2012
+0,MDA,Moldova,AI,2012
+0,UZB,Uzbekistan,AI,2012
+0,ARM,Armenia,AI,2012
+0,AZE,Azerbaijan,AI,2012
+0,PER,Peru,AI,2012
+0,BHS,Bahamas,AI,2012
+0,BLZ,Belize,AI,2012
+0,ECU,Ecuador,AI,2012
+0,TUN,Tunisia,AI,2012
+0,MUS,Mauritius,AI,2012
+0,PAN,Panama,AI,2012
+0,GEO,Georgia,AI,2012
+0,PAN,Panama,AI,2013
+0,GEO,Georgia,AI,2013
+0,MUS,Mauritius,AI,2013
+0,TUN,Tunisia,AI,2013
+0,BLZ,Belize,AI,2013
+1,BHS,Bahamas,AI,2013
+0,PER,Peru,AI,2013
+0,AZE,Azerbaijan,AI,2013
+0,ARM,Armenia,AI,2013
+0,ECU,Ecuador,AI,2013
+0,SDN,Sudan,AI,2013
+0,UZB,Uzbekistan,AI,2013
+0,MDA,Moldova,AI,2013
+0,MUS,Mauritius,AI,2014
+0,TUN,Tunisia,AI,2014
+0,GEO,Georgia,AI,2014
+0,PAN,Panama,AI,2014
+0,UZB,Uzbekistan,AI,2014
+0,MDA,Moldova,AI,2014
+0,SDN,Sudan,AI,2014
+0,ECU,Ecuador,AI,2014
+0,BHS,Bahamas,AI,2014
+0,BLZ,Belize,AI,2014
+0,AZE,Azerbaijan,AI,2014
+0,PER,Peru,AI,2014
+0,ARM,Armenia,AI,2014
+0,ECU,Ecuador,AI,2015
+0,ARM,Armenia,AI,2015
+0,PER,Peru,AI,2015
+1,AZE,Azerbaijan,AI,2015
+0,BLZ,Belize,AI,2015
+0,BHS,Bahamas,AI,2015
+0,MDA,Moldova,AI,2015
+1,UZB,Uzbekistan,AI,2015
+0,SDN,Sudan,AI,2015
+0,GEO,Georgia,AI,2015
+0,PAN,Panama,AI,2015
+0,TUN,Tunisia,AI,2015
+0,MUS,Mauritius,AI,2015
+1,PAN,Panama,AI,2016
+0,GEO,Georgia,AI,2016
+0,TUN,Tunisia,AI,2016
+0,MUS,Mauritius,AI,2016
+0,BLZ,Belize,AI,2016
+0,BHS,Bahamas,AI,2016
+0,ARM,Armenia,AI,2016
+0,PER,Peru,AI,2016
+0,AZE,Azerbaijan,AI,2016
+0,ECU,Ecuador,AI,2016
+0,SDN,Sudan,AI,2016
+1,MDA,Moldova,AI,2016
+0,UZB,Uzbekistan,AI,2016
+0,SDN,Sudan,AI,2017
+0,UZB,Uzbekistan,AI,2017
+0,MDA,Moldova,AI,2017
+0,AZE,Azerbaijan,AI,2017
+0,PER,Peru,AI,2017
+0,ARM,Armenia,AI,2017
+0,BHS,Bahamas,AI,2017
+0,BLZ,Belize,AI,2017
+0,ECU,Ecuador,AI,2017
+0,MUS,Mauritius,AI,2017
+1,TUN,Tunisia,AI,2017
+0,PAN,Panama,AI,2017
+0,GEO,Georgia,AI,2017
+0,ECU,Ecuador,AI,2018
+0,PER,Peru,AI,2018
+0,AZE,Azerbaijan,AI,2018
+0,ARM,Armenia,AI,2018
+0,BLZ,Belize,AI,2018
+0,BHS,Bahamas,AI,2018
+0,UZB,Uzbekistan,AI,2018
+0,MDA,Moldova,AI,2018
+1,SDN,Sudan,AI,2018
+0,GEO,Georgia,AI,2018
+0,PAN,Panama,AI,2018
+0,MUS,Mauritius,AI,2018
+0,TUN,Tunisia,AI,2018
+0,TUN,Tunisia,AI,2019
+0,MUS,Mauritius,AI,2019
+0,GEO,Georgia,AI,2019
+0,PAN,Panama,AI,2019
+0,MDA,Moldova,AI,2019
+0,UZB,Uzbekistan,AI,2019
+0,SDN,Sudan,AI,2019
+0,ECU,Ecuador,AI,2019
+0,BHS,Bahamas,AI,2019
+0,BLZ,Belize,AI,2019
+0,ARM,Armenia,AI,2019
+0,AZE,Azerbaijan,AI,2019
+0,PER,Peru,AI,2019
+0,MUS,Mauritius,AI,2020
+0,TUN,Tunisia,AI,2020
+1,GEO,Georgia,AI,2020
+0,PAN,Panama,AI,2020
+0,MDA,Moldova,AI,2020
+0,UZB,Uzbekistan,AI,2020
+0,SDN,Sudan,AI,2020
+0,ECU,Ecuador,AI,2020
+0,AZE,Azerbaijan,AI,2020
+0,PER,Peru,AI,2020
+0,ARM,Armenia,AI,2020
+0,BHS,Bahamas,AI,2020
+1,BLZ,Belize,AI,2020
+1,ECU,Ecuador,AI,2021
+0,BLZ,Belize,AI,2021
+0,BHS,Bahamas,AI,2021
+0,ARM,Armenia,AI,2021
+1,PER,Peru,AI,2021
+0,AZE,Azerbaijan,AI,2021
+0,UZB,Uzbekistan,AI,2021
+0,MDA,Moldova,AI,2021
+0,SDN,Sudan,AI,2021
+0,GEO,Georgia,AI,2021
+0,PAN,Panama,AI,2021
+0,TUN,Tunisia,AI,2021
+0,MUS,Mauritius,AI,2021
+0,SDN,Sudan,AI,2022
+0,UZB,Uzbekistan,AI,2022
+0,MDA,Moldova,AI,2022
+0,BHS,Bahamas,AI,2022
+0,BLZ,Belize,AI,2022
+0,ARM,Armenia,AI,2022
+0,AZE,Azerbaijan,AI,2022
+0,PER,Peru,AI,2022
+0,ECU,Ecuador,AI,2022
+0,TUN,Tunisia,AI,2022
+0,MUS,Mauritius,AI,2022
+0,PAN,Panama,AI,2022
+0,GEO,Georgia,AI,2022
+0,PAN,Panama,AI,2023
+0,GEO,Georgia,AI,2023
+0,MUS,Mauritius,AI,2023
+0,TUN,Tunisia,AI,2023
+0,PER,Peru,AI,2023
+0,AZE,Azerbaijan,AI,2023
+1,ARM,Armenia,AI,2023
+0,BLZ,Belize,AI,2023
+0,BHS,Bahamas,AI,2023
+0,ECU,Ecuador,AI,2023
+0,SDN,Sudan,AI,2023
+0,MDA,Moldova,AI,2023
+0,UZB,Uzbekistan,AI,2023
+0,GEO,Georgia,AI,2024
+0,PAN,Panama,AI,2024
+0,MUS,Mauritius,AI,2024
+0,TUN,Tunisia,AI,2024
+0,ECU,Ecuador,AI,2024
+0,BLZ,Belize,AI,2024
+0,BHS,Bahamas,AI,2024
+0,PER,Peru,AI,2024
+0,AZE,Azerbaijan,AI,2024
+0,ARM,Armenia,AI,2024
+0,UZB,Uzbekistan,AI,2024
+0,MDA,Moldova,AI,2024
+0,SDN,Sudan,AI,2024
+0,KGZ,Kyrgyzstan,AI,1995
+0,MNG,Mongolia,AI,1995
+0,KHM,Cambodia,AI,1995
+0,GUM,Guam,AI,1995
+0,NGA,Nigeria,AI,1995
+0,KWT,Kuwait,AI,1995
+0,JEY,Jersey,AI,1995
+0,BEN,Benin,AI,1995
+0,HND,Honduras,AI,1995
+0,NPL,Nepal,AI,1995
+0,TLS,Timor-Leste,AI,1995
+0,BHR,Bahrain,AI,1995
+0,BRB,Barbados,AI,1995
+0,ZWE,Zimbabwe,AI,1995
+0,UMI,United States Minor Outlying Islands,AI,1995
+0,BMU,Bermuda,AI,1995
+0,KEN,Kenya,AI,1995
+0,BIH,Bosnia and Herzegovina,AI,1995
+0,VEN,Venezuela,AI,1995
+0,REU,Réunion,AI,1995
+0,LIE,Liechtenstein,AI,1995
+0,PRY,Paraguay,AI,1995
+0,KHM,Cambodia,AI,1996
+0,GUM,Guam,AI,1996
+0,MNG,Mongolia,AI,1996
+0,KGZ,Kyrgyzstan,AI,1996
+0,KWT,Kuwait,AI,1996
+0,NGA,Nigeria,AI,1996
+0,NPL,Nepal,AI,1996
+0,TLS,Timor-Leste,AI,1996
+0,HND,Honduras,AI,1996
+0,JEY,Jersey,AI,1996
+0,BEN,Benin,AI,1996
+0,BHR,Bahrain,AI,1996
+0,UMI,United States Minor Outlying Islands,AI,1996
+0,BMU,Bermuda,AI,1996
+0,ZWE,Zimbabwe,AI,1996
+0,BRB,Barbados,AI,1996
+0,BIH,Bosnia and Herzegovina,AI,1996
+0,KEN,Kenya,AI,1996
+0,VEN,Venezuela,AI,1996
+0,LIE,Liechtenstein,AI,1996
+0,PRY,Paraguay,AI,1996
+0,REU,Réunion,AI,1996
+0,VEN,Venezuela,AI,1997
+0,REU,Réunion,AI,1997
+0,PRY,Paraguay,AI,1997
+0,LIE,Liechtenstein,AI,1997
+0,BRB,Barbados,AI,1997
+0,ZWE,Zimbabwe,AI,1997
+0,BMU,Bermuda,AI,1997
+0,UMI,United States Minor Outlying Islands,AI,1997
+0,KEN,Kenya,AI,1997
+0,BIH,Bosnia and Herzegovina,AI,1997
+0,BEN,Benin,AI,1997
+0,JEY,Jersey,AI,1997
+0,HND,Honduras,AI,1997
+0,TLS,Timor-Leste,AI,1997
+0,NPL,Nepal,AI,1997
+0,BHR,Bahrain,AI,1997
+0,KGZ,Kyrgyzstan,AI,1997
+0,MNG,Mongolia,AI,1997
+0,GUM,Guam,AI,1997
+0,KHM,Cambodia,AI,1997
+0,NGA,Nigeria,AI,1997
+0,KWT,Kuwait,AI,1997
+0,KEN,Kenya,AI,1998
+0,BIH,Bosnia and Herzegovina,AI,1998
+0,BRB,Barbados,AI,1998
+0,ZWE,Zimbabwe,AI,1998
+0,UMI,United States Minor Outlying Islands,AI,1998
+0,BMU,Bermuda,AI,1998
+0,REU,Réunion,AI,1998
+0,PRY,Paraguay,AI,1998
+0,LIE,Liechtenstein,AI,1998
+0,VEN,Venezuela,AI,1998
+0,NGA,Nigeria,AI,1998
+0,KWT,Kuwait,AI,1998
+0,KGZ,Kyrgyzstan,AI,1998
+0,MNG,Mongolia,AI,1998
+0,GUM,Guam,AI,1998
+0,KHM,Cambodia,AI,1998
+0,BHR,Bahrain,AI,1998
+0,JEY,Jersey,AI,1998
+0,BEN,Benin,AI,1998
+0,HND,Honduras,AI,1998
+0,NPL,Nepal,AI,1998
+0,TLS,Timor-Leste,AI,1998
+0,BHR,Bahrain,AI,1999
+0,TLS,Timor-Leste,AI,1999
+0,NPL,Nepal,AI,1999
+0,HND,Honduras,AI,1999
+0,BEN,Benin,AI,1999
+0,JEY,Jersey,AI,1999
+0,KWT,Kuwait,AI,1999
+0,NGA,Nigeria,AI,1999
+0,KHM,Cambodia,AI,1999
+0,GUM,Guam,AI,1999
+0,MNG,Mongolia,AI,1999
+0,KGZ,Kyrgyzstan,AI,1999
+0,LIE,Liechtenstein,AI,1999
+0,PRY,Paraguay,AI,1999
+0,REU,Réunion,AI,1999
+0,VEN,Venezuela,AI,1999
+0,BIH,Bosnia and Herzegovina,AI,1999
+0,KEN,Kenya,AI,1999
+0,BMU,Bermuda,AI,1999
+0,UMI,United States Minor Outlying Islands,AI,1999
+0,ZWE,Zimbabwe,AI,1999
+0,BRB,Barbados,AI,1999
+0,VEN,Venezuela,AI,2000
+0,PRY,Paraguay,AI,2000
+0,LIE,Liechtenstein,AI,2000
+0,REU,Réunion,AI,2000
+0,BRB,Barbados,AI,2000
+0,UMI,United States Minor Outlying Islands,AI,2000
+0,BMU,Bermuda,AI,2000
+0,ZWE,Zimbabwe,AI,2000
+0,KEN,Kenya,AI,2000
+0,BIH,Bosnia and Herzegovina,AI,2000
+0,JEY,Jersey,AI,2000
+0,BEN,Benin,AI,2000
+0,NPL,Nepal,AI,2000
+0,TLS,Timor-Leste,AI,2000
+0,HND,Honduras,AI,2000
+0,BHR,Bahrain,AI,2000
+0,MNG,Mongolia,AI,2000
+0,KGZ,Kyrgyzstan,AI,2000
+0,GUM,Guam,AI,2000
+0,KHM,Cambodia,AI,2000
+0,KWT,Kuwait,AI,2000
+0,NGA,Nigeria,AI,2000
+0,KHM,Cambodia,AI,2001
+0,GUM,Guam,AI,2001
+0,KGZ,Kyrgyzstan,AI,2001
+0,MNG,Mongolia,AI,2001
+0,NGA,Nigeria,AI,2001
+0,KWT,Kuwait,AI,2001
+0,HND,Honduras,AI,2001
+0,TLS,Timor-Leste,AI,2001
+0,NPL,Nepal,AI,2001
+0,BEN,Benin,AI,2001
+0,JEY,Jersey,AI,2001
+0,BHR,Bahrain,AI,2001
+0,ZWE,Zimbabwe,AI,2001
+0,BMU,Bermuda,AI,2001
+0,UMI,United States Minor Outlying Islands,AI,2001
+0,BRB,Barbados,AI,2001
+0,BIH,Bosnia and Herzegovina,AI,2001
+0,KEN,Kenya,AI,2001
+0,VEN,Venezuela,AI,2001
+0,REU,Réunion,AI,2001
+0,LIE,Liechtenstein,AI,2001
+0,PRY,Paraguay,AI,2001
+0,BHR,Bahrain,AI,2002
+0,HND,Honduras,AI,2002
+0,NPL,Nepal,AI,2002
+0,TLS,Timor-Leste,AI,2002
+0,JEY,Jersey,AI,2002
+0,BEN,Benin,AI,2002
+0,NGA,Nigeria,AI,2002
+0,KWT,Kuwait,AI,2002
+0,KHM,Cambodia,AI,2002
+0,GUM,Guam,AI,2002
+0,KGZ,Kyrgyzstan,AI,2002
+0,MNG,Mongolia,AI,2002
+0,REU,Réunion,AI,2002
+0,LIE,Liechtenstein,AI,2002
+0,PRY,Paraguay,AI,2002
+0,VEN,Venezuela,AI,2002
+0,BIH,Bosnia and Herzegovina,AI,2002
+0,KEN,Kenya,AI,2002
+0,ZWE,Zimbabwe,AI,2002
+0,UMI,United States Minor Outlying Islands,AI,2002
+0,BMU,Bermuda,AI,2002
+0,BRB,Barbados,AI,2002
+0,KEN,Kenya,AI,2003
+0,BIH,Bosnia and Herzegovina,AI,2003
+0,BRB,Barbados,AI,2003
+0,BMU,Bermuda,AI,2003
+0,UMI,United States Minor Outlying Islands,AI,2003
+0,ZWE,Zimbabwe,AI,2003
+0,PRY,Paraguay,AI,2003
+0,LIE,Liechtenstein,AI,2003
+0,REU,Réunion,AI,2003
+0,VEN,Venezuela,AI,2003
+0,KWT,Kuwait,AI,2003
+0,NGA,Nigeria,AI,2003
+0,MNG,Mongolia,AI,2003
+0,KGZ,Kyrgyzstan,AI,2003
+0,GUM,Guam,AI,2003
+0,KHM,Cambodia,AI,2003
+0,BHR,Bahrain,AI,2003
+0,BEN,Benin,AI,2003
+0,JEY,Jersey,AI,2003
+0,TLS,Timor-Leste,AI,2003
+0,NPL,Nepal,AI,2003
+0,HND,Honduras,AI,2003
+0,BIH,Bosnia and Herzegovina,AI,2004
+0,KEN,Kenya,AI,2004
+0,ZWE,Zimbabwe,AI,2004
+0,BMU,Bermuda,AI,2004
+0,UMI,United States Minor Outlying Islands,AI,2004
+0,BRB,Barbados,AI,2004
+0,REU,Réunion,AI,2004
+0,PRY,Paraguay,AI,2004
+0,LIE,Liechtenstein,AI,2004
+0,VEN,Venezuela,AI,2004
+0,NGA,Nigeria,AI,2004
+0,KWT,Kuwait,AI,2004
+0,GUM,Guam,AI,2004
+0,KHM,Cambodia,AI,2004
+0,KGZ,Kyrgyzstan,AI,2004
+0,MNG,Mongolia,AI,2004
+0,BHR,Bahrain,AI,2004
+0,HND,Honduras,AI,2004
+0,TLS,Timor-Leste,AI,2004
+0,NPL,Nepal,AI,2004
+0,BEN,Benin,AI,2004
+0,JEY,Jersey,AI,2004
+0,BHR,Bahrain,AI,2005
+0,JEY,Jersey,AI,2005
+0,BEN,Benin,AI,2005
+0,NPL,Nepal,AI,2005
+0,TLS,Timor-Leste,AI,2005
+0,HND,Honduras,AI,2005
+0,KWT,Kuwait,AI,2005
+0,NGA,Nigeria,AI,2005
+0,MNG,Mongolia,AI,2005
+0,KGZ,Kyrgyzstan,AI,2005
+0,KHM,Cambodia,AI,2005
+0,GUM,Guam,AI,2005
+0,LIE,Liechtenstein,AI,2005
+0,PRY,Paraguay,AI,2005
+0,REU,Réunion,AI,2005
+0,VEN,Venezuela,AI,2005
+0,KEN,Kenya,AI,2005
+0,BIH,Bosnia and Herzegovina,AI,2005
+0,BRB,Barbados,AI,2005
+0,UMI,United States Minor Outlying Islands,AI,2005
+0,BMU,Bermuda,AI,2005
+0,ZWE,Zimbabwe,AI,2005
+0,MNG,Mongolia,AI,2006
+0,KGZ,Kyrgyzstan,AI,2006
+0,KHM,Cambodia,AI,2006
+0,GUM,Guam,AI,2006
+0,KWT,Kuwait,AI,2006
+0,NGA,Nigeria,AI,2006
+0,BEN,Benin,AI,2006
+0,JEY,Jersey,AI,2006
+0,TLS,Timor-Leste,AI,2006
+0,NPL,Nepal,AI,2006
+0,HND,Honduras,AI,2006
+0,BHR,Bahrain,AI,2006
+0,BRB,Barbados,AI,2006
+0,BMU,Bermuda,AI,2006
+0,UMI,United States Minor Outlying Islands,AI,2006
+0,ZWE,Zimbabwe,AI,2006
+0,KEN,Kenya,AI,2006
+0,BIH,Bosnia and Herzegovina,AI,2006
+0,VEN,Venezuela,AI,2006
+0,LIE,Liechtenstein,AI,2006
+0,PRY,Paraguay,AI,2006
+0,REU,Réunion,AI,2006
+0,VEN,Venezuela,AI,2007
+0,REU,Réunion,AI,2007
+0,PRY,Paraguay,AI,2007
+0,LIE,Liechtenstein,AI,2007
+0,ZWE,Zimbabwe,AI,2007
+0,UMI,United States Minor Outlying Islands,AI,2007
+0,BMU,Bermuda,AI,2007
+0,BRB,Barbados,AI,2007
+0,BIH,Bosnia and Herzegovina,AI,2007
+0,KEN,Kenya,AI,2007
+0,HND,Honduras,AI,2007
+0,NPL,Nepal,AI,2007
+0,TLS,Timor-Leste,AI,2007
+0,JEY,Jersey,AI,2007
+0,BEN,Benin,AI,2007
+0,BHR,Bahrain,AI,2007
+0,GUM,Guam,AI,2007
+0,KHM,Cambodia,AI,2007
+0,KGZ,Kyrgyzstan,AI,2007
+0,MNG,Mongolia,AI,2007
+0,NGA,Nigeria,AI,2007
+0,KWT,Kuwait,AI,2007
+0,REU,Réunion,AI,2008
+0,LIE,Liechtenstein,AI,2008
+0,PRY,Paraguay,AI,2008
+0,VEN,Venezuela,AI,2008
+0,KEN,Kenya,AI,2008
+0,BIH,Bosnia and Herzegovina,AI,2008
+0,BRB,Barbados,AI,2008
+0,ZWE,Zimbabwe,AI,2008
+0,UMI,United States Minor Outlying Islands,AI,2008
+0,BMU,Bermuda,AI,2008
+0,BHR,Bahrain,AI,2008
+0,JEY,Jersey,AI,2008
+0,BEN,Benin,AI,2008
+0,HND,Honduras,AI,2008
+0,NPL,Nepal,AI,2008
+0,TLS,Timor-Leste,AI,2008
+0,NGA,Nigeria,AI,2008
+0,KWT,Kuwait,AI,2008
+0,KGZ,Kyrgyzstan,AI,2008
+0,MNG,Mongolia,AI,2008
+0,KHM,Cambodia,AI,2008
+0,GUM,Guam,AI,2008
+0,KWT,Kuwait,AI,2009
+0,NGA,Nigeria,AI,2009
+0,GUM,Guam,AI,2009
+0,KHM,Cambodia,AI,2009
+0,MNG,Mongolia,AI,2009
+0,KGZ,Kyrgyzstan,AI,2009
+0,BHR,Bahrain,AI,2009
+0,TLS,Timor-Leste,AI,2009
+0,NPL,Nepal,AI,2009
+0,HND,Honduras,AI,2009
+0,BEN,Benin,AI,2009
+0,JEY,Jersey,AI,2009
+0,BIH,Bosnia and Herzegovina,AI,2009
+0,KEN,Kenya,AI,2009
+0,BMU,Bermuda,AI,2009
+0,UMI,United States Minor Outlying Islands,AI,2009
+0,ZWE,Zimbabwe,AI,2009
+0,BRB,Barbados,AI,2009
+0,PRY,Paraguay,AI,2009
+0,LIE,Liechtenstein,AI,2009
+0,REU,Réunion,AI,2009
+0,VEN,Venezuela,AI,2009
+0,NPL,Nepal,AI,2010
+0,TLS,Timor-Leste,AI,2010
+0,HND,Honduras,AI,2010
+0,JEY,Jersey,AI,2010
+0,BEN,Benin,AI,2010
+0,BHR,Bahrain,AI,2010
+0,GUM,Guam,AI,2010
+0,KHM,Cambodia,AI,2010
+0,MNG,Mongolia,AI,2010
+0,KGZ,Kyrgyzstan,AI,2010
+0,KWT,Kuwait,AI,2010
+0,NGA,Nigeria,AI,2010
+0,VEN,Venezuela,AI,2010
+0,PRY,Paraguay,AI,2010
+0,LIE,Liechtenstein,AI,2010
+0,REU,Réunion,AI,2010
+0,UMI,United States Minor Outlying Islands,AI,2010
+0,BMU,Bermuda,AI,2010
+0,ZWE,Zimbabwe,AI,2010
+0,BRB,Barbados,AI,2010
+0,BIH,Bosnia and Herzegovina,AI,2010
+0,KEN,Kenya,AI,2010
+0,BRB,Barbados,AI,2011
+0,ZWE,Zimbabwe,AI,2011
+0,BMU,Bermuda,AI,2011
+0,UMI,United States Minor Outlying Islands,AI,2011
+0,KEN,Kenya,AI,2011
+0,BIH,Bosnia and Herzegovina,AI,2011
+0,VEN,Venezuela,AI,2011
+0,REU,Réunion,AI,2011
+0,LIE,Liechtenstein,AI,2011
+0,PRY,Paraguay,AI,2011
+0,KGZ,Kyrgyzstan,AI,2011
+0,MNG,Mongolia,AI,2011
+0,KHM,Cambodia,AI,2011
+0,GUM,Guam,AI,2011
+0,NGA,Nigeria,AI,2011
+0,KWT,Kuwait,AI,2011
+0,BEN,Benin,AI,2011
+0,JEY,Jersey,AI,2011
+0,HND,Honduras,AI,2011
+0,TLS,Timor-Leste,AI,2011
+0,NPL,Nepal,AI,2011
+0,BHR,Bahrain,AI,2011
+0,BMU,Bermuda,AI,2012
+0,UMI,United States Minor Outlying Islands,AI,2012
+0,ZWE,Zimbabwe,AI,2012
+0,BRB,Barbados,AI,2012
+0,BIH,Bosnia and Herzegovina,AI,2012
+0,KEN,Kenya,AI,2012
+0,VEN,Venezuela,AI,2012
+0,LIE,Liechtenstein,AI,2012
+0,PRY,Paraguay,AI,2012
+0,REU,Réunion,AI,2012
+0,KHM,Cambodia,AI,2012
+0,GUM,Guam,AI,2012
+0,MNG,Mongolia,AI,2012
+0,KGZ,Kyrgyzstan,AI,2012
+0,KWT,Kuwait,AI,2012
+0,NGA,Nigeria,AI,2012
+0,TLS,Timor-Leste,AI,2012
+0,NPL,Nepal,AI,2012
+0,HND,Honduras,AI,2012
+0,BEN,Benin,AI,2012
+0,JEY,Jersey,AI,2012
+0,BHR,Bahrain,AI,2012
+0,JEY,Jersey,AI,2013
+0,BEN,Benin,AI,2013
+0,HND,Honduras,AI,2013
+0,NPL,Nepal,AI,2013
+0,TLS,Timor-Leste,AI,2013
+0,BHR,Bahrain,AI,2013
+0,KGZ,Kyrgyzstan,AI,2013
+0,MNG,Mongolia,AI,2013
+0,GUM,Guam,AI,2013
+0,KHM,Cambodia,AI,2013
+0,NGA,Nigeria,AI,2013
+0,KWT,Kuwait,AI,2013
+0,VEN,Venezuela,AI,2013
+0,REU,Réunion,AI,2013
+0,PRY,Paraguay,AI,2013
+0,LIE,Liechtenstein,AI,2013
+0,BRB,Barbados,AI,2013
+0,ZWE,Zimbabwe,AI,2013
+0,UMI,United States Minor Outlying Islands,AI,2013
+0,BMU,Bermuda,AI,2013
+0,KEN,Kenya,AI,2013
+0,BIH,Bosnia and Herzegovina,AI,2013
+0,NGA,Nigeria,AI,2014
+0,KWT,Kuwait,AI,2014
+0,KGZ,Kyrgyzstan,AI,2014
+0,MNG,Mongolia,AI,2014
+0,GUM,Guam,AI,2014
+0,KHM,Cambodia,AI,2014
+0,BHR,Bahrain,AI,2014
+0,BEN,Benin,AI,2014
+0,JEY,Jersey,AI,2014
+0,HND,Honduras,AI,2014
+0,TLS,Timor-Leste,AI,2014
+0,NPL,Nepal,AI,2014
+0,KEN,Kenya,AI,2014
+0,BIH,Bosnia and Herzegovina,AI,2014
+0,BRB,Barbados,AI,2014
+0,ZWE,Zimbabwe,AI,2014
+0,BMU,Bermuda,AI,2014
+0,UMI,United States Minor Outlying Islands,AI,2014
+0,REU,Réunion,AI,2014
+0,PRY,Paraguay,AI,2014
+0,LIE,Liechtenstein,AI,2014
+0,VEN,Venezuela,AI,2014
+0,LIE,Liechtenstein,AI,2015
+0,PRY,Paraguay,AI,2015
+0,REU,Réunion,AI,2015
+0,VEN,Venezuela,AI,2015
+0,BIH,Bosnia and Herzegovina,AI,2015
+0,KEN,Kenya,AI,2015
+0,UMI,United States Minor Outlying Islands,AI,2015
+0,BMU,Bermuda,AI,2015
+0,ZWE,Zimbabwe,AI,2015
+0,BRB,Barbados,AI,2015
+0,BHR,Bahrain,AI,2015
+0,NPL,Nepal,AI,2015
+0,TLS,Timor-Leste,AI,2015
+0,HND,Honduras,AI,2015
+0,JEY,Jersey,AI,2015
+0,BEN,Benin,AI,2015
+0,KWT,Kuwait,AI,2015
+0,NGA,Nigeria,AI,2015
+0,KHM,Cambodia,AI,2015
+0,GUM,Guam,AI,2015
+0,MNG,Mongolia,AI,2015
+0,KGZ,Kyrgyzstan,AI,2015
+0,JEY,Jersey,AI,2016
+0,BEN,Benin,AI,2016
+0,NPL,Nepal,AI,2016
+0,TLS,Timor-Leste,AI,2016
+0,HND,Honduras,AI,2016
+0,BHR,Bahrain,AI,2016
+0,MNG,Mongolia,AI,2016
+0,KGZ,Kyrgyzstan,AI,2016
+0,KHM,Cambodia,AI,2016
+0,GUM,Guam,AI,2016
+0,KWT,Kuwait,AI,2016
+0,NGA,Nigeria,AI,2016
+0,VEN,Venezuela,AI,2016
+0,LIE,Liechtenstein,AI,2016
+0,PRY,Paraguay,AI,2016
+0,REU,Réunion,AI,2016
+0,BRB,Barbados,AI,2016
+0,UMI,United States Minor Outlying Islands,AI,2016
+0,BMU,Bermuda,AI,2016
+0,ZWE,Zimbabwe,AI,2016
+0,KEN,Kenya,AI,2016
+0,BIH,Bosnia and Herzegovina,AI,2016
+0,ZWE,Zimbabwe,AI,2017
+0,BMU,Bermuda,AI,2017
+0,UMI,United States Minor Outlying Islands,AI,2017
+0,BRB,Barbados,AI,2017
+0,BIH,Bosnia and Herzegovina,AI,2017
+0,KEN,Kenya,AI,2017
+0,VEN,Venezuela,AI,2017
+0,REU,Réunion,AI,2017
+0,PRY,Paraguay,AI,2017
+0,LIE,Liechtenstein,AI,2017
+0,GUM,Guam,AI,2017
+0,KHM,Cambodia,AI,2017
+0,KGZ,Kyrgyzstan,AI,2017
+0,MNG,Mongolia,AI,2017
+0,NGA,Nigeria,AI,2017
+0,KWT,Kuwait,AI,2017
+0,HND,Honduras,AI,2017
+0,TLS,Timor-Leste,AI,2017
+0,NPL,Nepal,AI,2017
+0,BEN,Benin,AI,2017
+0,JEY,Jersey,AI,2017
+0,BHR,Bahrain,AI,2017
+0,REU,Réunion,AI,2018
+0,PRY,Paraguay,AI,2018
+0,LIE,Liechtenstein,AI,2018
+0,VEN,Venezuela,AI,2018
+0,BIH,Bosnia and Herzegovina,AI,2018
+0,KEN,Kenya,AI,2018
+0,ZWE,Zimbabwe,AI,2018
+0,UMI,United States Minor Outlying Islands,AI,2018
+0,BMU,Bermuda,AI,2018
+0,BRB,Barbados,AI,2018
+0,BHR,Bahrain,AI,2018
+0,HND,Honduras,AI,2018
+0,NPL,Nepal,AI,2018
+0,TLS,Timor-Leste,AI,2018
+0,JEY,Jersey,AI,2018
+0,BEN,Benin,AI,2018
+0,NGA,Nigeria,AI,2018
+0,KWT,Kuwait,AI,2018
+0,GUM,Guam,AI,2018
+0,KHM,Cambodia,AI,2018
+0,KGZ,Kyrgyzstan,AI,2018
+0,MNG,Mongolia,AI,2018
+0,KWT,Kuwait,AI,2019
+0,NGA,Nigeria,AI,2019
+0,MNG,Mongolia,AI,2019
+0,KGZ,Kyrgyzstan,AI,2019
+0,KHM,Cambodia,AI,2019
+0,GUM,Guam,AI,2019
+0,BHR,Bahrain,AI,2019
+0,BEN,Benin,AI,2019
+0,JEY,Jersey,AI,2019
+0,TLS,Timor-Leste,AI,2019
+0,NPL,Nepal,AI,2019
+0,HND,Honduras,AI,2019
+0,KEN,Kenya,AI,2019
+0,BIH,Bosnia and Herzegovina,AI,2019
+0,BRB,Barbados,AI,2019
+0,BMU,Bermuda,AI,2019
+0,UMI,United States Minor Outlying Islands,AI,2019
+0,ZWE,Zimbabwe,AI,2019
+0,LIE,Liechtenstein,AI,2019
+0,PRY,Paraguay,AI,2019
+0,REU,Réunion,AI,2019
+0,VEN,Venezuela,AI,2019
+0,NGA,Nigeria,AI,2020
+0,KWT,Kuwait,AI,2020
+0,KHM,Cambodia,AI,2020
+0,GUM,Guam,AI,2020
+0,KGZ,Kyrgyzstan,AI,2020
+0,MNG,Mongolia,AI,2020
+0,BHR,Bahrain,AI,2020
+0,HND,Honduras,AI,2020
+0,TLS,Timor-Leste,AI,2020
+0,NPL,Nepal,AI,2020
+0,BEN,Benin,AI,2020
+0,JEY,Jersey,AI,2020
+0,BIH,Bosnia and Herzegovina,AI,2020
+0,KEN,Kenya,AI,2020
+0,ZWE,Zimbabwe,AI,2020
+0,BMU,Bermuda,AI,2020
+0,UMI,United States Minor Outlying Islands,AI,2020
+0,BRB,Barbados,AI,2020
+0,REU,Réunion,AI,2020
+0,LIE,Liechtenstein,AI,2020
+0,PRY,Paraguay,AI,2020
+0,VEN,Venezuela,AI,2020
+0,PRY,Paraguay,AI,2021
+0,LIE,Liechtenstein,AI,2021
+0,REU,Réunion,AI,2021
+0,VEN,Venezuela,AI,2021
+0,KEN,Kenya,AI,2021
+0,BIH,Bosnia and Herzegovina,AI,2021
+0,BRB,Barbados,AI,2021
+0,UMI,United States Minor Outlying Islands,AI,2021
+0,BMU,Bermuda,AI,2021
+0,ZWE,Zimbabwe,AI,2021
+0,BHR,Bahrain,AI,2021
+0,JEY,Jersey,AI,2021
+0,BEN,Benin,AI,2021
+0,NPL,Nepal,AI,2021
+0,TLS,Timor-Leste,AI,2021
+0,HND,Honduras,AI,2021
+0,KWT,Kuwait,AI,2021
+0,NGA,Nigeria,AI,2021
+0,MNG,Mongolia,AI,2021
+0,KGZ,Kyrgyzstan,AI,2021
+0,GUM,Guam,AI,2021
+0,KHM,Cambodia,AI,2021
+0,BRB,Barbados,AI,2022
+0,BMU,Bermuda,AI,2022
+0,UMI,United States Minor Outlying Islands,AI,2022
+0,ZWE,Zimbabwe,AI,2022
+0,KEN,Kenya,AI,2022
+0,BIH,Bosnia and Herzegovina,AI,2022
+0,VEN,Venezuela,AI,2022
+0,PRY,Paraguay,AI,2022
+0,LIE,Liechtenstein,AI,2022
+0,REU,Réunion,AI,2022
+0,MNG,Mongolia,AI,2022
+0,KGZ,Kyrgyzstan,AI,2022
+0,GUM,Guam,AI,2022
+0,KHM,Cambodia,AI,2022
+0,KWT,Kuwait,AI,2022
+0,NGA,Nigeria,AI,2022
+0,BEN,Benin,AI,2022
+0,JEY,Jersey,AI,2022
+0,TLS,Timor-Leste,AI,2022
+0,NPL,Nepal,AI,2022
+0,HND,Honduras,AI,2022
+0,BHR,Bahrain,AI,2022
+0,HND,Honduras,AI,2023
+0,NPL,Nepal,AI,2023
+0,TLS,Timor-Leste,AI,2023
+0,JEY,Jersey,AI,2023
+0,BEN,Benin,AI,2023
+0,BHR,Bahrain,AI,2023
+0,KHM,Cambodia,AI,2023
+0,GUM,Guam,AI,2023
+0,KGZ,Kyrgyzstan,AI,2023
+0,MNG,Mongolia,AI,2023
+0,NGA,Nigeria,AI,2023
+0,KWT,Kuwait,AI,2023
+0,VEN,Venezuela,AI,2023
+0,REU,Réunion,AI,2023
+0,LIE,Liechtenstein,AI,2023
+0,PRY,Paraguay,AI,2023
+0,ZWE,Zimbabwe,AI,2023
+0,UMI,United States Minor Outlying Islands,AI,2023
+0,BMU,Bermuda,AI,2023
+0,BRB,Barbados,AI,2023
+0,BIH,Bosnia and Herzegovina,AI,2023
+0,KEN,Kenya,AI,2023
+0,BHR,Bahrain,AI,2024
+0,JEY,Jersey,AI,2024
+0,BEN,Benin,AI,2024
+0,HND,Honduras,AI,2024
+0,NPL,Nepal,AI,2024
+0,TLS,Timor-Leste,AI,2024
+0,NGA,Nigeria,AI,2024
+0,KWT,Kuwait,AI,2024
+0,KGZ,Kyrgyzstan,AI,2024
+0,MNG,Mongolia,AI,2024
+0,GUM,Guam,AI,2024
+0,KHM,Cambodia,AI,2024
+0,REU,Réunion,AI,2024
+0,PRY,Paraguay,AI,2024
+0,LIE,Liechtenstein,AI,2024
+0,VEN,Venezuela,AI,2024
+0,KEN,Kenya,AI,2024
+0,BIH,Bosnia and Herzegovina,AI,2024
+0,BRB,Barbados,AI,2024
+0,ZWE,Zimbabwe,AI,2024
+0,UMI,United States Minor Outlying Islands,AI,2024
+0,BMU,Bermuda,AI,2024

@@ -4,7 +4,10 @@ Input files are the team's cleaned investment data and OECD.AI patent export.
 Missing country-years are never automatically imputed as zero.
 """
 from pathlib import Path
+import argparse
 import pandas as pd
+from datetime import datetime, timezone
+import json
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
@@ -96,25 +99,7 @@ def investment_balanced_panel(df: pd.DataFrame, start_year: int = 2016, end_year
     return data.loc[data["country_code"].isin(eligible)].copy()
 
 
-def build_outputs(start_year: int = 2016, end_year: int = 2024) -> pd.DataFrame:
-    patents = load_patents()
-    investments = load_investments()
-    combined = pd.concat([patents, investments], ignore_index=True)
-    metrics = concentration_by_year(combined, start_year, end_year)
-    balanced = investment_balanced_panel(investments, start_year, end_year)
-    balanced_metrics = concentration_by_year(balanced, start_year, end_year)
-    balanced_metrics["domain"] = "Investments (balanced panel)"
-    metrics = pd.concat([metrics, balanced_metrics], ignore_index=True)
-    PROCESSED.mkdir(parents=True, exist_ok=True)
-    metrics.to_csv(PROCESSED / "concentration_metrics.csv", index=False)
-    print(metrics.to_string(index=False))
-    print(f"\nSaved: {PROCESSED / 'concentration_metrics.csv'}")
-    return metrics
-
-
-
-# Optional publications integration (OWID Grapher CSV). Do not silently
-# substitute an unverified data source if the publication file is absent.
+# Publications data integration (OWID Grapher CSV); source is required.
 PUBLICATIONS_FILENAME = 'annual-scholarly-publications-on-artificial-intelligence.csv'
 PUBLICATIONS_URL = (
     'https://ourworldindata.org/grapher/'
@@ -163,25 +148,116 @@ def load_publications(
 
 
 def build_outputs_complete(start_year: int = 2016, end_year: int = 2024) -> pd.DataFrame:
-    """Rebuild metrics, optionally including the team's OWID publication CSV."""
+    """Rebuild all three source datasets into annual concentration metrics."""
     patents = load_patents()
     investments = load_investments()
     datasets = [patents, investments]
     pub_path = RAW / PUBLICATIONS_FILENAME
-    if pub_path.exists():
-        datasets.append(load_publications(pub_path))
-        print(f'Publications loaded from: {pub_path}')
-    else:
-        print(f'Publications not yet integrated: place the OWID CSV at {pub_path}')
-    metrics = concentration_by_year(pd.concat(datasets, ignore_index=True), start_year, end_year)
+
+    if not pub_path.exists():
+        raise FileNotFoundError(
+            f"Required publications data not found: {pub_path}"
+        )
+
+    publications = load_publications(pub_path)
+    datasets.append(publications)
+
+    print(f"Publications loaded from: {pub_path}")
+
+    expected = {"Publications", "Patents", "Investments"}
+    actual = set(pd.concat(datasets)["domain"].unique())
+
+    if actual != expected:
+        raise ValueError(
+            f"Unexpected domains: {actual}. "
+            f"Expected: {expected}"
+        )
+
+    combined = pd.concat(datasets, ignore_index=True)
+    expected_years = set(range(start_year, end_year + 1))
+    for domain in expected:
+        observed_years = set(combined.loc[combined.domain == domain, 'year'])
+        missing_years = sorted(expected_years - observed_years)
+        if missing_years:
+            raise ValueError(f'{domain}: missing required years {missing_years}')
+
+    metrics = concentration_by_year(combined, start_year, end_year)
     balanced = investment_balanced_panel(investments, start_year, end_year)
     balanced_metrics = concentration_by_year(balanced, start_year, end_year)
     balanced_metrics['domain'] = 'Investments (balanced panel)'
     metrics = pd.concat([metrics, balanced_metrics], ignore_index=True)
     PROCESSED.mkdir(parents=True, exist_ok=True)
     metrics.to_csv(PROCESSED / 'concentration_metrics.csv', index=False)
+    # Record when the processed metrics were regenerated.
+    metadata = {
+        "processed_at_utc": datetime.now(
+            timezone.utc
+        ).isoformat(timespec="seconds"),
+        "first_year": start_year,
+        "last_year": end_year,
+        "domains": sorted(metrics["domain"].unique().tolist())
+    }
+
+    with open(
+        PROCESSED / "concentration_metadata.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(metadata, f, indent=2)
     print(f'Saved: {PROCESSED / "concentration_metrics.csv"} ({len(metrics)} rows)')
     return metrics
 
-if __name__ == "__main__":
-    build_outputs_complete()
+def verify_outputs(start_year: int = 2016, end_year: int = 2024) -> None:
+    """Compare all rows in the saved CSV with calculations from all raw sources.
+
+    Run this AFTER generating the processed CSV. It does not overwrite files.
+    """
+    output = PROCESSED / 'concentration_metrics.csv'
+    if not output.exists():
+        raise FileNotFoundError(f'Cannot verify missing file: {output}')
+
+    # Compute expected rows without writing or changing the refresh timestamp.
+    patents = load_patents()
+    investments = load_investments()
+    publications = load_publications()
+    combined = pd.concat([patents, investments, publications], ignore_index=True)
+    calculated = concentration_by_year(combined, start_year, end_year)
+    balanced = investment_balanced_panel(investments, start_year, end_year)
+    balanced_metrics = concentration_by_year(balanced, start_year, end_year)
+    balanced_metrics['domain'] = 'Investments (balanced panel)'
+    calculated = pd.concat([calculated, balanced_metrics], ignore_index=True)
+
+    expected_domains = {'Publications', 'Patents', 'Investments',
+                        'Investments (balanced panel)'}
+    years = set(range(start_year, end_year + 1))
+    for domain in expected_domains:
+        observed = set(calculated.loc[calculated.domain == domain, 'year'])
+        if observed != years:
+            raise ValueError(f'{domain}: incorrect year coverage {sorted(observed)}')
+
+    reported = pd.read_csv(output)
+    keys = ['domain', 'year']
+    columns = ['domain', 'year', 'hhi', 'top3_share',
+               'countries_observed', 'countries_positive', 'observed_total']
+    if set(reported.columns) != set(columns):
+        raise ValueError('Saved CSV columns differ from the expected schema')
+    if reported.duplicated(keys).any():
+        raise ValueError('Saved CSV contains duplicate domain/year keys')
+
+    actual = reported[columns].sort_values(keys).reset_index(drop=True)
+    expected_df = calculated[columns].sort_values(keys).reset_index(drop=True)
+    pd.testing.assert_frame_equal(actual, expected_df, check_dtype=False,
+                                  check_exact=False, rtol=1e-10, atol=1e-9)
+    print(f'PASS: {len(actual)} saved rows exactly reproduce all 4 domain series '
+          f'for {start_year}–{end_year} (within numeric tolerance).')
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Build or verify AI concentration data')
+    parser.add_argument('--verify', action='store_true',
+                        help='Recompute all metrics and compare to saved CSV; do not write files')
+    args = parser.parse_args()
+    if args.verify:
+        verify_outputs()
+    else:
+        build_outputs_complete()

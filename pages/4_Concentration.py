@@ -10,6 +10,7 @@ import sys
 import altair as alt
 import pandas as pd
 import streamlit as st
+import json
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -21,6 +22,7 @@ from src.concentration import (  # noqa: E402
 )
 
 METRICS_PATH = ROOT / 'data' / 'processed' / 'concentration_metrics.csv'
+METADATA_PATH = ROOT / 'data' / 'processed' / 'concentration_metadata.json'
 BALANCED = 'Investments (balanced panel)'
 ORDER = ['Publications', 'Patents', 'Investments']
 
@@ -46,11 +48,17 @@ def load_metrics(path: str, modified: float) -> pd.DataFrame:
 
 
 def line_chart(df: pd.DataFrame, measure: str, title: str, *, percent=False,
-               endpoints=True, height=315):
-    """Line chart with end labels placed INSIDE the plot to avoid clipping."""
+               height=315):
+    """Line chart with visible endpoint values and safe Y-axis headroom."""
     fmt = '.1%' if percent else (',.0f' if measure == 'countries_observed' else '.3f')
+    values = df[measure].astype(float)
+    low, high = float(values.min()), float(values.max())
+    spread = max(high - low, abs(high) * 0.12, 0.02 if measure != 'countries_observed' else 5)
+    lower = max(0, low - spread * 0.17)
+    upper = high + spread * 0.28
     x = alt.X('year:O', title='Year', sort='ascending', axis=alt.Axis(labelAngle=0))
-    y = alt.Y(f'{measure}:Q', title=title, scale=alt.Scale(zero=False),
+    y = alt.Y(f'{measure}:Q', title=title,
+              scale=alt.Scale(domain=[lower, upper], zero=False, nice=False),
               axis=alt.Axis(format=fmt))
     color = alt.Color('domain:N', title='Dataset / analysis')
     tooltips = [
@@ -60,20 +68,93 @@ def line_chart(df: pd.DataFrame, measure: str, title: str, *, percent=False,
         alt.Tooltip('countries_observed:Q', title='Observed countries', format=',.0f'),
     ]
     base = alt.Chart(df).encode(x=x, y=y, color=color)
-    line = base.mark_line(point=True).encode(tooltip=tooltips)
-    if not endpoints:
-        return line.properties(height=height).interactive()
-
+    line = base.mark_line(point=True, strokeWidth=2.5).encode(
+        tooltip=tooltips
+    )
     last_rows = (df.sort_values('year')
                  .groupby('domain', as_index=False).tail(1).copy())
     end_labels = (alt.Chart(last_rows)
-                  .mark_text(align='right', baseline='bottom', dx=-9, dy=-8,
-                             fontSize=11, fontWeight='bold')
+                  .mark_text(align='right', baseline='bottom', dx=-7, dy=-9,
+                             fontSize=12, fontWeight='bold')
                   .encode(x=x, y=y, color=color,
                           text=alt.Text(f'{measure}:Q', format=fmt)))
     return (line + end_labels).properties(
-        height=height, padding={'left': 10, 'right': 20, 'top': 24, 'bottom': 10}
+        height=height, padding={'left': 10, 'right': 22, 'top': 18, 'bottom': 10}
     ).interactive()
+
+
+def sensitivity_difference_chart(wide: pd.DataFrame):
+    """Deviation from zero: observed-panel HHI minus balanced-panel HHI."""
+    plot = wide.reset_index()[['year', 'difference']].copy()
+    plot['label'] = plot['difference'].map(lambda v: f'{v:+.5f}')
+    plot['sign'] = plot['difference'].map(
+        lambda v: 'Observed higher' if v >= 0 else 'Observed lower'
+    )
+    maximum = max(plot['difference'].abs().max(), 1e-5)
+    axis = alt.Axis(format='.4f', title='HHI difference (observed − balanced)')
+    base = alt.Chart(plot).encode(
+        y=alt.Y('year:O', title='Year', sort='ascending'),
+        x=alt.X('difference:Q', title='HHI difference (observed − balanced)',
+                scale=alt.Scale(domain=[-maximum * 1.50, maximum * 1.50],
+                                zero=True, nice=False), axis=axis),
+        color=alt.Color('sign:N', legend=alt.Legend(title='Direction'),
+                        scale=alt.Scale(domain=['Observed higher', 'Observed lower'],
+                                        range=['#0072B2', '#D55E00'])),
+        tooltip=[alt.Tooltip('year:O', title='Year'),
+                 alt.Tooltip('difference:Q', title='HHI difference', format='+.6f')],
+    )
+    bars = base.mark_bar(size=22)
+    zero_line = alt.Chart(pd.DataFrame({'zero': [0.0]})).mark_rule(
+        color='#444444', strokeWidth=1.2
+    ).encode(x='zero:Q')
+    # Text labels remain visible without hover; never rely only on colour.
+    labels = alt.Chart(plot).mark_text(
+        fontSize=11, align='center', dy=-15
+    ).encode(
+        x=alt.X('difference:Q'), y=alt.Y('year:O', sort='ascending'),
+        text='label:N'
+    )
+    return (bars + zero_line + labels).properties(height=295)
+
+
+def coverage_bar_chart(view: pd.DataFrame):
+    latest = (
+        view.sort_values("year")
+        .groupby("domain", as_index=False)
+        .tail(1)
+    )
+
+    max_coverage = max(float(latest['countries_observed'].max()), 1.0)
+    chart = alt.Chart(latest).mark_bar().encode(
+        x=alt.X(
+            "countries_observed:Q",
+            title="Observed countries (count)",
+            scale=alt.Scale(domain=[0, max_coverage * 1.18], nice=False)
+        ),
+        y=alt.Y(
+            "domain:N",
+            title="Dataset",
+            sort="-x"
+        ),
+        color=alt.Color(
+            "domain:N",
+            title="Dataset"
+        )
+    )
+
+    labels = alt.Chart(latest).mark_text(
+        align="left",
+        dx=5
+    ).encode(
+        x="countries_observed:Q",
+        y=alt.Y("domain:N", sort="-x"),
+        text=alt.Text(
+            "countries_observed:Q",
+            format=",.0f"
+        )
+    )
+
+    return (chart + labels).properties(height=180)
 
 
 def trend_description(start: float, end: float, measure: str) -> str:
@@ -87,8 +168,48 @@ def trend_description(start: float, end: float, measure: str) -> str:
     return f'{"increased" if change > 0 else "decreased"} by {magnitude}'
 
 
+def render_conclusion(view: pd.DataFrame) -> None:
+    """Concise, data-driven answer to the question for active filters."""
+    st.subheader('Answer to the research question')
+    changes = {}
+    for domain in ORDER:
+        rows = view.loc[view.domain == domain].sort_values('year')
+        if len(rows) >= 2:
+            changes[domain] = float(rows.iloc[-1].hhi - rows.iloc[0].hhi)
+
+    if not changes:
+        st.info('Only one year is selected. Select at least two years to assess change.')
+        return
+
+    increased = [d for d, change in changes.items() if change > 1e-10]
+    decreased = [d for d, change in changes.items() if change < -1e-10]
+    unchanged = [d for d, change in changes.items() if abs(change) <= 1e-10]
+    periods = view.year.min(), view.year.max()
+    if increased and decreased:
+        answer = ('**No uniform increase:** the selected domains show mixed '
+                  'geographic-concentration trends.')
+    elif increased and not decreased:
+        answer = '**Yes, for the selected domain(s):** concentration increased.'
+    elif decreased and not increased:
+        answer = '**No, for the selected domain(s):** concentration decreased.'
+    else:
+        answer = '**No measured change:** concentration was unchanged at the displayed precision.'
+    st.markdown(f'{answer} This compares the selected endpoints ({periods[0]}–{periods[1]}).')
+    direction_parts = []
+    for label, domains in [('Increased', increased), ('Decreased', decreased),
+                           ('Unchanged', unchanged)]:
+        if domains:
+            direction_parts.append(f'{label}: {", ".join(domains)}')
+    st.write(' | '.join(direction_parts))
+    st.caption(
+        'This describes concentration of observed country-attributed activity, '
+        'not all dimensions of AI development. Endpoint changes do not imply '
+        'a monotonic yearly trend, and country coverage differs by source.'
+    )
+
+
 def render_narrative(view: pd.DataFrame) -> None:
-    """Interpret ONLY the actual years/domains selected by the user."""
+    """Show precise magnitudes of HHI and Top-3 changes in selected years."""
     st.markdown('### What do these trends tell us?')
     st.caption('The following comparisons update with the dataset and year filters.')
     for domain in ORDER:
@@ -106,20 +227,15 @@ def render_narrative(view: pd.DataFrame) -> None:
         st.markdown(
             f'**{domain} ({int(first.year)}–{int(last.year)}):** '
             f'HHI {trend_description(first.hhi, last.hhi, "hhi")} '
-            f'({first.hhi:.3f} → {last.hhi:.3f}), while the top-three share '
+            f'({first.hhi:.3f} → {last.hhi:.3f}); Top-3 share '
             f'{trend_description(first.top3_share, last.top3_share, "top3_share")} '
             f'({first.top3_share:.1%} → {last.top3_share:.1%}).'
         )
-    st.info(
-        'Interpretation: The measures describe geographic concentration in '
-        'the observed country-attributed values, not all dimensions of AI capability. '
-        'An endpoint comparison does not imply a steady year-by-year trend.'
-    )
     st.caption(
         'Comparability limitation: Publications, patents and investments have '
-        'different definitions, country coverage and attribution methods. '
-        'Their absolute HHI levels should not be treated as directly comparable. '
-        'Missing country-years are not assumed to be zero.'
+        'different definitions, country coverage and attribution methods; '
+        'absolute HHI levels are not directly comparable. Missing country-years '
+        'are not automatically assumed to be zero.'
     )
 
 
@@ -193,6 +309,24 @@ st.caption(
     'Shares use each domain/year’s sum of observed country-attributed values; '
     'this is not necessarily a global unique-item denominator.'
 )
+
+if METADATA_PATH.exists():
+    try:
+        with open(METADATA_PATH, encoding='utf-8') as f:
+            metadata = json.load(f)
+        processed_at = pd.to_datetime(
+            metadata['processed_at_utc'], utc=True
+        ).tz_convert('Australia/Sydney')
+        st.caption(
+            f'Processed data last refreshed: {processed_at:%d %B %Y, %H:%M} '
+            f'(Sydney time) | Analysis period: {int(metrics.year.min())}–'
+            f'{int(metrics.year.max())} | Sources: OWID, OECD.AI and CSET'
+        )
+    except (ValueError, KeyError, TypeError, json.JSONDecodeError) as exc:
+        st.warning(f'Unable to read data refresh metadata: {exc}')
+else:
+    st.warning('Data refresh metadata unavailable. Run python src/concentration.py.')
+
 st.subheader('Latest available concentration')
 cols = st.columns(len(selected))
 for col, domain in zip(cols, selected):
@@ -224,6 +358,7 @@ st.caption(
     'A country can enter or leave the top three.'
 )
 
+render_conclusion(view)
 render_narrative(view)
 
 st.subheader('3. How does country coverage change?')
@@ -235,26 +370,27 @@ st.caption(
     'Recorded zeros count as observed; absent country–years are not imputed as zero. '
     'This plot reports source coverage, not the number of countries with positive values.'
 )
+st.markdown("**Latest selected-year country coverage**")
 
-st.subheader('4. Investment coverage sensitivity')
-if {'Investments', BALANCED}.issubset(set(metrics.domain)):
+st.altair_chart(
+    coverage_bar_chart(view),
+    use_container_width=True
+)
+
+if (
+    'Investments' in selected
+    and {'Investments', BALANCED}.issubset(set(metrics.domain))
+):
     sensitivity = metrics.loc[
         metrics.domain.isin(['Investments', BALANCED])
         & metrics.year.between(*years)
     ].copy()
-    # Short, presentation-friendly legend names; underlying metrics remain unchanged.
-    sensitivity_plot = sensitivity.copy()
-    sensitivity_plot['domain'] = sensitivity_plot['domain'].replace({
-        'Investments': 'Observed panel',
-        BALANCED: 'Balanced panel',
-    })
-    st.altair_chart(
-        line_chart(sensitivity_plot, 'hhi', 'Investment HHI (0–1)', endpoints=False),
-        use_container_width=True,
-    )
+    st.subheader('4. Investment coverage sensitivity')
     wide = sensitivity.pivot(index='year', columns='domain', values='hhi').dropna()
     if not wide.empty:
         wide['difference'] = wide['Investments'] - wide[BALANCED]
+        st.altair_chart(sensitivity_difference_chart(wide), use_container_width=True)
+        st.caption('Deviation chart: negative values mean the observed-panel HHI is lower than the balanced-panel HHI. Labels show exact differences for each year.')
         last = wide.iloc[-1]
         c1, c2, c3 = st.columns(3)
         c1.metric(f'Observed panel HHI · {int(wide.index[-1])}', f'{last["Investments"]:.6f}')
@@ -277,8 +413,6 @@ if {'Investments', BALANCED}.issubset(set(metrics.domain)):
         'original 2016–2024 period. It does not change when the year slider changes. '
         'Similar results are a robustness check, not proof of complete global coverage.'
     )
-else:
-    st.info('Balanced-panel investment metrics are unavailable.')
 
 st.subheader('5. Verify a number — from raw country values')
 verify_domain = st.selectbox('Dataset to inspect', selected, key='verify_domain')
@@ -326,7 +460,8 @@ else:
             value_label = 'Investment (USD bn)'
             value_format = '%.2f'
         else:
-            value_label = 'Value'
+            value_label = ('AI publications (count)' if verify_domain == 'Publications'
+                           else 'AI patent applications (count)')
             value_format = '%.0f'
         display = display.rename(columns={'value': value_label})
         st.dataframe(
@@ -352,6 +487,8 @@ else:
         matches = (
             abs(hhi_calc - reported.hhi) < 1e-9
             and abs(top3_calc - reported.top3_share) < 1e-9
+            and abs(float(recomputed.hhi) - reported.hhi) < 1e-9
+            and abs(float(recomputed.top3_share) - reported.top3_share) < 1e-9
             and abs(country_rows.value.sum() - reported.observed_total)
             < max(1e-6, abs(reported.observed_total) * 1e-10)
         )
