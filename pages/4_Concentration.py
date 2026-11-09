@@ -267,6 +267,8 @@ def audit_source(domain: str, year: int, mtime: float):
 
 
 st.set_page_config(page_title='AI Concentration Analysis', layout='wide')
+if st.button("← Back to Home"):
+    st.switch_page("app.py")
 st.title('Section 4 · AI Concentration Analysis')
 st.markdown('**Research question:** Is AI development becoming concentrated in fewer countries?')
 st.write(
