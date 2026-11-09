@@ -56,6 +56,12 @@ For the **full team app**, run `streamlit run app.py` **only if `app.py` is the 
 
 **Question.** Is AI development becoming concentrated in fewer countries?
 
+**Data reuse and lineage.** Section 4 reuses the country-level AI publications, patents, and private investment datasets used in Sections 1–3. It does not introduce a separate primary dataset.
+
+The three datasets are standardised into a common analytical structure (`country`, `country_code`, `year`, `value`) while retaining their original country coverage and definitions.
+
+Section 4 then calculates HHI, Top-3 country shares, country coverage, and investment balanced-panel sensitivity metrics. The derived results are saved in `data/processed/concentration_metrics.csv`.
+
 **Overview.** This section compares observed country-attributed AI scholarly publications, AI-related patents and private AI investment across the common **2016–2024** period. It measures the *geographic concentration of recorded activity*, not total AI capability.
 
 **Method.** In each domain/year, country share = country value / sum of observed country-attributed values. The **HHI (0–1)** is the sum of squared shares; the **Top-3 share (%)** is the sum of the three largest shares, reselected each year. The dashboard also reports **observed countries (count)**, including recorded zeros. Missing country–years are **not** imputed as zero. For investments, a fixed **55-country** balanced panel (countries observed in every year 2016–2024) is compared with the observed panel. The sensitivity deviation is **observed-panel HHI minus balanced-panel HHI**.
@@ -89,6 +95,8 @@ For the **full team app**, run `streamlit run app.py` **only if `app.py` is the 
 | Section 3 inputs | TODO | TODO | TODO | TODO | TODO | TODO |
 
 ### Section 4 input and output datasets
+
+**Shared data sources:** The publications, patents, and investment datasets are shared with Sections 1–3. Their source descriptions are included here to document the complete lineage of Section 4's derived metrics. In the final team README, duplicate source descriptions may be consolidated into the corresponding dataset entries.
 
 **A. Publications — `data/raw/annual-scholarly-publications-on-artificial-intelligence.csv`**
 
