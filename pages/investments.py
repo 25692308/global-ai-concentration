@@ -1,3 +1,67 @@
+"""Section 3: geographical distribution of funding received by AI companies."""
+from pathlib import Path
+import sys
+
+import altair as alt
+import pandas as pd
+import streamlit as st
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from src.investments import (
+    ALL_COUNTRIES, FIXED_COUNTRIES, DATA_FILE, RAW_FILE, SOURCE_URL, METHOD_URL,
+    load_investments, select_panel, annual_summary, country_values,
+    comparison_series, trace_observation, load_source_metadata,
+)
+
+st.set_page_config(page_title="AI Investments | Global AI Concentration", layout="wide")
+
+@st.cache_data
+def read_data(path: str, modified_ns: int) -> pd.DataFrame:
+    return load_investments(Path(path))
+
+try:
+    data_path = PROJECT_ROOT / "data" / "processed" / DATA_FILE
+    if not data_path.is_file():
+        raise FileNotFoundError(f"Upload {DATA_FILE} into data/processed/.")
+    data = read_data(str(PROJECT_ROOT), data_path.stat().st_mtime_ns)
+except (OSError, ValueError, KeyError) as error:
+    st.error(str(error))
+    st.stop()
+
+years = sorted(data["year"].unique().tolist())
+fixed_count = data.loc[data["has_observation_every_year"], "country_code"].nunique()
+
+st.caption("GLOBAL AI CONCENTRATION / SECTION 3")
+st.title("Where does AI investment go?")
+st.markdown("**Is funding received by privately held AI companies becoming concentrated in fewer countries?**")
+st.caption("Contributes to the group question: Is AI development becoming concentrated in fewer countries?")
+
+with st.sidebar:
+    st.header("Investment controls")
+    selected_year = st.selectbox("Year for country ranking", years, index=len(years) - 1, key="inv_year")
+    basis = st.radio("Country coverage", [ALL_COUNTRIES, FIXED_COUNTRIES], key="inv_basis",
+                     help=f"The second option keeps the same {fixed_count} countries observed in every year of the full dataset. It does not guarantee complete reporting.")
+    metric = st.radio("Chart measure", ["Share of recorded funding", "Funding (US$ billions)"], key="inv_measure")
+    top_n = st.slider("Countries shown in ranking", 5, 20, 10, key="inv_top_n")
+    period = st.slider("Years for trend charts", min(years), max(years), (min(years), max(years)), key="inv_period")
+    st.caption("All dollar amounts use constant 2021 US dollars.")
+
+panel = select_panel(data, basis)
+summary = annual_summary(panel)
+year_row = summary.loc[summary["year"].eq(selected_year)].iloc[0]
+ranking = country_values(panel, selected_year)
+panel_description = "all countries recorded in each year" if basis == ALL_COUNTRIES else f"the same {fixed_count} countries each year"
+
+st.info("Scope: estimated external equity funding received by privately held AI companies, including mergers and acquisitions. Country means recipient-company headquarters. Some deal amounts are estimated.")
+with st.container(border=True):
+    cols = st.columns(4)
+    cols[0].metric(f"Recorded funding, {selected_year}", f"${year_row['recorded_total_bn']:,.2f}bn")
+    cols[1].metric("Countries / territories recorded", f"{int(year_row['countries_observed'])}")
+    cols[2].metric("Leading country's share", f"{year_row['leader_share']:.1%}", help=str(year_row["leader"]))
+    cols[3].metric("Top five countries' share", f"{year_row['top5_share']:.1%}")
 st.caption(f"Coverage: {panel_description}. Shares use the sum of funding in this coverage group, including countries outside the displayed ranking.")
 st.caption("Interpretation: source coverage changes across years, recent reporting may be incomplete, and some funding amounts are estimates. A higher top-five share shows greater dominance within recorded funding; it does not establish that fewer countries receive funding.")
 
