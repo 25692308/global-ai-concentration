@@ -42,7 +42,7 @@ sections = [
     {
         "title": "03 · Private AI Investment",
         "description": "Explore where private AI investment is recorded.",
-        "path": "pages/3_Investments.py",
+        "path": "pages/investments.py",
     },
     {
         "title": "04 · Geographic Concentration",
