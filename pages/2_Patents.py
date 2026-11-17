@@ -9,8 +9,8 @@ import streamlit as st
 from src.patents import render_patent_view
 
 ROOT = Path(__file__).resolve().parents[1]
-SAMPLE = ROOT / "data" / "sample.csv"
-PROCESSED = ROOT / "data" / "processed.csv"
+SAMPLE = ROOT / "data" / "processed" / "sample.csv"
+PROCESSED = ROOT / "data" / "processed" / "processed.csv"
 
 
 @st.cache_data
