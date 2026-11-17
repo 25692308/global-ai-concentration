@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from src.views import render_patent_view
+from src.patents import render_patent_view
 
 ROOT = Path(__file__).resolve().parents[1]
 SAMPLE = ROOT / "data" / "processed" / "sample.csv"
