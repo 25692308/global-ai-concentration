@@ -62,7 +62,18 @@ Each student should document **every dataset used by their section**, including 
 
 ### Section 2 — Patents data
 
-**TODO:** [Source URL; licence; raw and processed filenames; full columns/units; primary key; coverage/latest; transforms].
+- **Source URL:** `https://oecd.ai/en/trends-and-data`
+- **Licence:** `Creative Commons Attribution 4.0`
+- **Raw file:** `Evolution_of_AI-related_patents_by_country.csv` (3,570 data rows)
+- **Columns:**
+  - `AI_counts`: number of AI-related patents (count)
+  - `Country/territory`: ISO3 code, for example `USA` or `CHN`; aggregates are `ALL`, `OECD`, `EU27`
+  - `Country/territory_label`: country or territory name
+  - `sector`: always `AI`
+  - `year`: priority year
+- **Primary key:** (`Country/territory`, `year`), because `sector` is constant.
+- **Coverage / latest:** 1995–2024; latest observation 2024
+- **Transforms:** `Read the raw file `Evolution_of_AI-related_patents_by_country.csv` from `data/raw/` without modifying it. Use `ALL` as the world total and exclude `OECD` and `EU27` from rankings. Keep the five countries with the most patents in 2024 (United States, China, Japan, Korea, Germany) for 2010–2024. Calculate share as count ÷ `ALL`, and Others as `ALL` minus the five countries. Save to `data/processed/processed.csv`.`
 
 ### Section 3 — Investment data
 
@@ -85,7 +96,7 @@ Each student should document **every dataset used by their section**, including 
 | Artefact | Who | Tool | Request | Output | Verification | Outcome |
 |---|---|---|---|---|---|---|
 | Section 1 | Student 1 | TODO | TODO | TODO | TODO | TODO |
-| Section 2 | Student 2 | TODO | TODO | TODO | TODO | TODO |
+| Section 2 | Student 2 (Phenphan Viriyathamakul) | Claude (Anthropic) | Troubleshooting a Streamlit run error (missing `plotly` dependency); Git/GitHub guidance for branches, pull, push, and deployment; drafting README text and the data dictionary | Terminal commands, troubleshooting steps, README draft text | Shares for 2010 and 2024 recalculated from the source CSV and matched the page; ranks spot-checked for 2010, 2014, 2020, 2021, 2022; app run locally after installing plotly 7.1.0 |
 | Section 3 | Student 3 | TODO | TODO | TODO | TODO | TODO |
 | Section 4 | Student 4 (Myeongjin Han) | ChatGPT (OpenAI) | Code assistance and academic writing refinement | Code and wording suggestions | Reproduction checks (36/36 rows) and dashboard testing (7 cases) | Reviewed, modified and verified |
 
