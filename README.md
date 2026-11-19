@@ -1,18 +1,20 @@
 # The Rise of Artificial Intelligence — Geographic Concentration
 
-**UTS 36104 · Assignment 3 Part 2 · Group 15**  
-**Status:** Shared draft on `docs`; all `TODO` entries must be completed before assessment.
+**UTS 36104 · Assignment 3 Part 2 · Group 15**
 
 ## Research question and audience
 
-**Question:** Is AI development becoming concentrated in fewer countries?
+**Research question:** Is AI development becoming concentrated in fewer countries?
 
-**Persona / decision — TODO (team):** [Name a specific audience and what this app helps them understand or decide.]
+**Persona / decision:** An AI policy analyst assessing the geographic distribution of AI research, patenting, and private investment. The dashboard supports decisions about which countries and AI development domains warrant closer policy attention.
 
-**User stories — TODO (team):** Confirm each can be completed in the deployed app.
-1. As a [persona], I want [task], so that [purpose]. **App path:** [page/filter/chart].
-2. As a [persona], I want [task], so that [purpose]. **App path:** [page/filter/chart].
-3. As an AI policy analyst, I want to compare countries’ shares of private AI investment and track the leading five countries over time, so that I can assess whether recorded funding is becoming more geographically concentrated. **App path:** Investments → select year → inspect country rankings and the Top-5 share trend → compare all available countries with the fixed-country panel.
+**User stories:**
+
+1. As an AI policy analyst, I want to examine AI publication shares and concentration trends across years, so that I can assess whether research output is becoming more geographically concentrated. **App path:** Publications → select year range → inspect publication shares and concentration trends.
+
+2. As an AI policy analyst, I want to compare geographic concentration across publications, patents, and private investment, so that I can identify whether concentration is increasing consistently across AI domains. **App path:** Concentration → select datasets and years → inspect HHI and Top-3 share charts.
+
+3. As an AI policy analyst, I want to compare countries' shares of private AI investment and track the leading five countries over time, so that I can assess whether recorded funding is becoming more geographically concentrated. **App path:** Investments → select year → inspect country rankings and the Top-5 share trend → compare all available countries with the fixed-country panel.
 
 
 
@@ -269,7 +271,7 @@ national AI capability.
 
 ### Section 4 — Concentration derived data
 
-**Input reuse:** `src/concentration.py` reads the shared publications, patents and country-year investment CSVs from `data/raw/`. It normalises the columns to `year`, `country_code`, `country`, `value`, without assuming identical country coverage. Publications retain three-uppercase-letter codes and nonmissing values; patents exclude `ALL`, `OECD`, `EU27`; investments use `investment_usd_2021` (constant 2021 USD). All input values must be nonnegative with unique country-year keys. **Source licences and upstream investment-data lineage must be confirmed in Students 1–3's definitive entries.**
+**Input reuse:** `src/concentration.py` reads the shared publications, patents and country-year investment CSVs from `data/raw/`. It normalises the columns to `year`, `country_code`, `country`, `value`, without assuming identical country coverage. Publications retain three-uppercase-letter codes and nonmissing values; patents exclude `ALL`, `OECD`, `EU27`; investments use `investment_usd_2021` (constant 2021 USD). All input values must be nonnegative with unique country-year keys.
 
 | Output / provenance | Columns and units | Key; coverage/latest | Transformation |
 |---|---|---|---|
@@ -292,27 +294,41 @@ national AI capability.
 
 ## Data and AI disclosure
 
-**Team draft — verify before submission.** This project uses publicly sourced datasets and documented transformations. ChatGPT assisted Student 4 with coding, debugging, chart design, testing suggestions and documentation. Suggested material was reviewed and tested before use. The table above records substantive AI uses and checks. **TODO (team):** Add other members' actual AI tools and verification practices; confirm source licences and upstream processing before finalising this statement.
+This project uses publicly available datasets covering AI scholarly publications, AI-related patents, and private AI investment. Data sources, licences, processing methods, limitations, and validation procedures are documented in the relevant sections of this repository.
 
-## Run and submit
+Team members used AI assistants, including Microsoft Copilot, Claude, and ChatGPT, to support selected tasks such as Python and Streamlit development, debugging, visualisation planning, data preparation, and documentation.
 
-Install dependencies:
+The AI provenance matrix records each member's reported AI use, including the tool, request, output, verification approach, and outcome. The team remains responsible for reviewing AI-assisted material, verifying analytical results, and ensuring the accuracy of the submitted work.
+
+
+## Reproducibility and application
+
+### Installation
+
+Install the required Python dependencies from the repository root:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-**Section 4 data reproduction:**
+The deployed Streamlit application uses Python 3.12.
+
+### Run the application
+
+```bash
+streamlit run app.py
+```
+
+### Reproduce concentration metrics
 
 ```bash
 python src/concentration.py
 python src/concentration.py --verify
 ```
 
-**Team app (TODO: confirm after integration):**
+Other data preparation procedures and verification methods are documented in the corresponding sections and scripts.
 
-```bash
-streamlit run app.py
-```
+### Application and source code
 
-**Before submission — team:** Complete TODOs; check all 30 rubric items including at least four charts from three Visual Vocabulary families, readable labels, responsive/empty-state interactions, accessible colour use, 1366×768 layout, under-five-second deployed loading, sources/refresh display, full data regeneration, and the final assessed commit. **Canvas submission is one PDF per group**, containing the deployed app URL, repository URL and full assessed commit hash or release tag; no separate report is required.
+- [Deployed Streamlit application](https://global-ai-concentration-group15.streamlit.app/)
+- [GitHub repository](https://github.com/25692308/global-ai-concentration)
